@@ -1,0 +1,11 @@
+followups for workload using MR6
+with source path = "/sample.gotten/model/workloads"
+and output folder = "/sample.gotten/model/workloads"
+
+Workload -> delete [5] Trace
+
+maximize (Workload(w1)->size() - Workload(w2)->size())
+
+maxSolutions 50
+iterations 1
+algorithms [Random, NSGAII, NSGAIII, eMOEA]

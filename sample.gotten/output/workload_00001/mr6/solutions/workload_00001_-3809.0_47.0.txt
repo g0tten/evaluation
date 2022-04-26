@@ -1,0 +1,157 @@
+Number of variables: 50
+  Variable[0]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[1]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[2]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[3]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[4]: Match for rule 'deleteTrace':
+- no parameters
+
+  Variable[5]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'deleteTrace':
+- no parameters
+
+  Variable[8]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[9]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[10]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[11]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[12]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[13]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[14]: Match for rule 'deleteTrace':
+- no parameters
+
+  Variable[15]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[16]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[17]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[18]: Match for rule 'deleteTrace':
+- no parameters
+
+  Variable[19]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[20]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[21]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[22]: Match for rule 'deleteTrace':
+- no parameters
+
+  Variable[23]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[24]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[25]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[26]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[27]: Match for rule 'deleteTrace':
+- no parameters
+
+  Variable[28]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[29]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[30]: Match for rule 'deleteTrace':
+- no parameters
+
+  Variable[31]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[32]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[35]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[36]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[37]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[38]: Match for rule 'deleteTrace':
+- no parameters
+
+  Variable[39]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[40]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[41]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[44]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[45]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[46]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[47]: Match for rule 'deleteTrace':
+- no parameters
+
+  Variable[48]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+  Variable[49]: Assignment for unit 'deleteTraceUnit':
+- no parameters
+
+Number of attributes: 4
+  AggregatedFitness: -3762.0
+  rank: 0
+  Normalized Objectives: [0.5008375209380235, 0.3333333333333333]
+  crowdingDistance: 1.16750418760469
+Number of objectives: 2
+  FirstObjective: -3809.0
+  SolutionLength: 47.0
+Number of constraints: 0

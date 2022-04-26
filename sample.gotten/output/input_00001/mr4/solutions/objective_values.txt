@@ -1,0 +1,4763 @@
+Population with 42 solution(s):
+
+------------------
+Solution 1/42
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[1]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[2]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[3]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[4]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[5]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[6]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[7]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[8]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[9]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[12]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[13]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[14]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[15]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[16]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[17]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[18]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[19]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[20]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[21]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[22]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[23]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[24]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[25]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[26]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[27]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[28]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[29]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[30]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[31]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[32]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[33]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[34]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[35]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[36]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[37]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[38]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[39]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[40]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[41]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[42]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[43]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[44]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[45]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[46]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[47]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[48]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+  Variable[49]: Match for rule 'decBandwidth':
+- node #1 => tcinputCloud.impl.NetworkImpl@1640951f (bandwidth: 2000, latency: 10)
+
+Number of attributes: 3
+  AggregatedFitness: -97951.0
+  rank: 0
+  crowdingDistance: Infinity
+Number of objectives: 2
+  FirstObjective: -98000.0
+  SolutionLength: 49.0
+Number of constraints: 0
+
+------------------
+Solution 2/42
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: Match for rule 'decBandwidth':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: Match for rule 'decBandwidth':
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: Match for rule 'decBandwidth':
+
+  Variable[7]: Match for rule 'decBandwidth':
+
+  Variable[8]: Match for rule 'decBandwidth':
+
+  Variable[9]: Match for rule 'decBandwidth':
+
+  Variable[10]: Match for rule 'decBandwidth':
+
+  Variable[11]: Match for rule 'decBandwidth':
+
+  Variable[12]: Match for rule 'decBandwidth':
+
+  Variable[13]: Match for rule 'decBandwidth':
+
+  Variable[14]: Match for rule 'decBandwidth':
+
+  Variable[15]: Match for rule 'decBandwidth':
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: Match for rule 'decBandwidth':
+
+  Variable[19]: Match for rule 'decBandwidth':
+
+  Variable[20]: Match for rule 'decBandwidth':
+
+  Variable[21]: Match for rule 'decBandwidth':
+
+  Variable[22]: Match for rule 'decBandwidth':
+
+  Variable[23]: Match for rule 'decBandwidth':
+
+  Variable[24]: Match for rule 'decBandwidth':
+
+  Variable[25]: Match for rule 'decBandwidth':
+
+  Variable[26]: Match for rule 'decBandwidth':
+
+  Variable[27]: Match for rule 'decBandwidth':
+
+  Variable[28]: Match for rule 'decBandwidth':
+
+  Variable[29]: Match for rule 'decBandwidth':
+
+  Variable[30]: Match for rule 'decBandwidth':
+
+  Variable[31]: Match for rule 'decBandwidth':
+
+  Variable[32]: Match for rule 'decBandwidth':
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: Match for rule 'decBandwidth':
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: Match for rule 'decBandwidth':
+
+  Variable[38]: Match for rule 'decBandwidth':
+
+  Variable[39]: Match for rule 'decBandwidth':
+
+  Variable[40]: Match for rule 'decBandwidth':
+
+  Variable[41]: Match for rule 'decBandwidth':
+
+  Variable[42]: Match for rule 'decBandwidth':
+
+  Variable[43]: Match for rule 'decBandwidth':
+
+  Variable[44]: Match for rule 'decBandwidth':
+
+  Variable[45]: Match for rule 'decBandwidth':
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: Match for rule 'decBandwidth':
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 3
+  AggregatedFitness: -87956.0
+  rank: 0
+  crowdingDistance: Infinity
+Number of objectives: 2
+  FirstObjective: -88000.0
+  SolutionLength: 44.0
+Number of constraints: 0
+
+------------------
+Solution 3/42
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: Match for rule 'decBandwidth':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: Match for rule 'decBandwidth':
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: Match for rule 'decBandwidth':
+
+  Variable[7]: Match for rule 'decBandwidth':
+
+  Variable[8]: Match for rule 'decBandwidth':
+
+  Variable[9]: Match for rule 'decBandwidth':
+
+  Variable[10]: Match for rule 'decBandwidth':
+
+  Variable[11]: Match for rule 'decBandwidth':
+
+  Variable[12]: Match for rule 'decBandwidth':
+
+  Variable[13]: Match for rule 'decBandwidth':
+
+  Variable[14]: Match for rule 'decBandwidth':
+
+  Variable[15]: Match for rule 'decBandwidth':
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: Match for rule 'decBandwidth':
+
+  Variable[19]: Match for rule 'decBandwidth':
+
+  Variable[20]: Match for rule 'decBandwidth':
+
+  Variable[21]: Match for rule 'decBandwidth':
+
+  Variable[22]: Match for rule 'decBandwidth':
+
+  Variable[23]: Match for rule 'decBandwidth':
+
+  Variable[24]: Match for rule 'decBandwidth':
+
+  Variable[25]: Match for rule 'decBandwidth':
+
+  Variable[26]: Match for rule 'decBandwidth':
+
+  Variable[27]: Match for rule 'decBandwidth':
+
+  Variable[28]: Match for rule 'decBandwidth':
+
+  Variable[29]: Match for rule 'decBandwidth':
+
+  Variable[30]: Match for rule 'decBandwidth':
+
+  Variable[31]: Match for rule 'decBandwidth':
+
+  Variable[32]: Match for rule 'decBandwidth':
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: Match for rule 'decBandwidth':
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: Match for rule 'decBandwidth':
+
+  Variable[38]: Match for rule 'decBandwidth':
+
+  Variable[39]: Match for rule 'decBandwidth':
+
+  Variable[40]: Match for rule 'decBandwidth':
+
+  Variable[41]: Match for rule 'decBandwidth':
+
+  Variable[42]: Match for rule 'decBandwidth':
+
+  Variable[43]: Match for rule 'decBandwidth':
+
+  Variable[44]: Match for rule 'decBandwidth':
+
+  Variable[45]: Match for rule 'decBandwidth':
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: Match for rule 'decBandwidth':
+
+  Variable[49]: Match for rule 'decBandwidth':
+
+Number of attributes: 3
+  AggregatedFitness: -89955.0
+  rank: 0
+  crowdingDistance: 0.8
+Number of objectives: 2
+  FirstObjective: -90000.0
+  SolutionLength: 45.0
+Number of constraints: 0
+
+------------------
+Solution 4/42
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: Match for rule 'decBandwidth':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: Match for rule 'decBandwidth':
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: Match for rule 'decBandwidth':
+
+  Variable[7]: Match for rule 'decBandwidth':
+
+  Variable[8]: Match for rule 'decBandwidth':
+
+  Variable[9]: Match for rule 'decBandwidth':
+
+  Variable[10]: Match for rule 'decBandwidth':
+
+  Variable[11]: Match for rule 'decBandwidth':
+
+  Variable[12]: Match for rule 'decBandwidth':
+
+  Variable[13]: Match for rule 'decBandwidth':
+
+  Variable[14]: Match for rule 'decBandwidth':
+
+  Variable[15]: Match for rule 'decBandwidth':
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: Match for rule 'decBandwidth':
+
+  Variable[19]: Match for rule 'decBandwidth':
+
+  Variable[20]: Match for rule 'decBandwidth':
+
+  Variable[21]: Match for rule 'decBandwidth':
+
+  Variable[22]: Match for rule 'decBandwidth':
+
+  Variable[23]: Match for rule 'decBandwidth':
+
+  Variable[24]: Match for rule 'decBandwidth':
+
+  Variable[25]: Match for rule 'decBandwidth':
+
+  Variable[26]: Match for rule 'decBandwidth':
+
+  Variable[27]: Match for rule 'decBandwidth':
+
+  Variable[28]: Match for rule 'decBandwidth':
+
+  Variable[29]: Match for rule 'decBandwidth':
+
+  Variable[30]: Match for rule 'decBandwidth':
+
+  Variable[31]: Match for rule 'decBandwidth':
+
+  Variable[32]: Match for rule 'decBandwidth':
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: Match for rule 'decBandwidth':
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: Match for rule 'decBandwidth':
+
+  Variable[38]: Match for rule 'decBandwidth':
+
+  Variable[39]: Match for rule 'decBandwidth':
+
+  Variable[40]: Match for rule 'decBandwidth':
+
+  Variable[41]: Match for rule 'decBandwidth':
+
+  Variable[42]: Match for rule 'decBandwidth':
+
+  Variable[43]: Match for rule 'decBandwidth':
+
+  Variable[44]: Match for rule 'decBandwidth':
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: Match for rule 'decBandwidth':
+
+  Variable[48]: Match for rule 'decBandwidth':
+
+  Variable[49]: Match for rule 'decBandwidth':
+
+Number of attributes: 3
+  AggregatedFitness: -91954.0
+  rank: 0
+  crowdingDistance: 0.8
+Number of objectives: 2
+  FirstObjective: -92000.0
+  SolutionLength: 46.0
+Number of constraints: 0
+
+------------------
+Solution 5/42
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decBandwidth':
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: Match for rule 'decBandwidth':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: Match for rule 'decBandwidth':
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: Match for rule 'decBandwidth':
+
+  Variable[7]: Match for rule 'decBandwidth':
+
+  Variable[8]: Match for rule 'decBandwidth':
+
+  Variable[9]: Match for rule 'decBandwidth':
+
+  Variable[10]: Match for rule 'decBandwidth':
+
+  Variable[11]: Match for rule 'decBandwidth':
+
+  Variable[12]: Match for rule 'decBandwidth':
+
+  Variable[13]: Match for rule 'decBandwidth':
+
+  Variable[14]: Match for rule 'decBandwidth':
+
+  Variable[15]: Match for rule 'decBandwidth':
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: Match for rule 'decBandwidth':
+
+  Variable[19]: Match for rule 'decBandwidth':
+
+  Variable[20]: Match for rule 'decBandwidth':
+
+  Variable[21]: Match for rule 'decBandwidth':
+
+  Variable[22]: Match for rule 'decBandwidth':
+
+  Variable[23]: Match for rule 'decBandwidth':
+
+  Variable[24]: Match for rule 'decBandwidth':
+
+  Variable[25]: Match for rule 'decBandwidth':
+
+  Variable[26]: Match for rule 'decBandwidth':
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: Match for rule 'decBandwidth':
+
+  Variable[29]: Match for rule 'decBandwidth':
+
+  Variable[30]: Match for rule 'decBandwidth':
+
+  Variable[31]: Match for rule 'decBandwidth':
+
+  Variable[32]: Match for rule 'decBandwidth':
+
+  Variable[33]: Match for rule 'decBandwidth':
+
+  Variable[34]: Match for rule 'decBandwidth':
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: Match for rule 'decBandwidth':
+
+  Variable[38]: Match for rule 'decBandwidth':
+
+  Variable[39]: Match for rule 'decBandwidth':
+
+  Variable[40]: Match for rule 'decBandwidth':
+
+  Variable[41]: Match for rule 'decBandwidth':
+
+  Variable[42]: Match for rule 'decBandwidth':
+
+  Variable[43]: Match for rule 'decBandwidth':
+
+  Variable[44]: Match for rule 'decBandwidth':
+
+  Variable[45]: Match for rule 'decBandwidth':
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: Match for rule 'decBandwidth':
+
+  Variable[49]: Match for rule 'decBandwidth':
+
+Number of attributes: 3
+  AggregatedFitness: -93953.0
+  rank: 0
+  crowdingDistance: 0.8
+Number of objectives: 2
+  FirstObjective: -94000.0
+  SolutionLength: 47.0
+Number of constraints: 0
+
+------------------
+Solution 6/42
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decBandwidth':
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: Match for rule 'decBandwidth':
+
+  Variable[3]: Match for rule 'decBandwidth':
+
+  Variable[4]: Match for rule 'decBandwidth':
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: Match for rule 'decBandwidth':
+
+  Variable[7]: Match for rule 'decBandwidth':
+
+  Variable[8]: Match for rule 'decBandwidth':
+
+  Variable[9]: Match for rule 'decBandwidth':
+
+  Variable[10]: Match for rule 'decBandwidth':
+
+  Variable[11]: Match for rule 'decBandwidth':
+
+  Variable[12]: Match for rule 'decBandwidth':
+
+  Variable[13]: Match for rule 'decBandwidth':
+
+  Variable[14]: Match for rule 'decBandwidth':
+
+  Variable[15]: Match for rule 'decBandwidth':
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: Match for rule 'decBandwidth':
+
+  Variable[19]: Match for rule 'decBandwidth':
+
+  Variable[20]: Match for rule 'decBandwidth':
+
+  Variable[21]: Match for rule 'decBandwidth':
+
+  Variable[22]: Match for rule 'decBandwidth':
+
+  Variable[23]: Match for rule 'decBandwidth':
+
+  Variable[24]: Match for rule 'decBandwidth':
+
+  Variable[25]: Match for rule 'decBandwidth':
+
+  Variable[26]: Match for rule 'decBandwidth':
+
+  Variable[27]: Match for rule 'decBandwidth':
+
+  Variable[28]: Match for rule 'decBandwidth':
+
+  Variable[29]: Match for rule 'decBandwidth':
+
+  Variable[30]: Match for rule 'decBandwidth':
+
+  Variable[31]: Match for rule 'decBandwidth':
+
+  Variable[32]: Match for rule 'decBandwidth':
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: Match for rule 'decBandwidth':
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: Match for rule 'decBandwidth':
+
+  Variable[38]: Match for rule 'decBandwidth':
+
+  Variable[39]: Match for rule 'decBandwidth':
+
+  Variable[40]: Match for rule 'decBandwidth':
+
+  Variable[41]: Match for rule 'decBandwidth':
+
+  Variable[42]: Match for rule 'decBandwidth':
+
+  Variable[43]: Match for rule 'decBandwidth':
+
+  Variable[44]: Match for rule 'decBandwidth':
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: Match for rule 'decBandwidth':
+
+  Variable[48]: Match for rule 'decBandwidth':
+
+  Variable[49]: Match for rule 'decBandwidth':
+
+Number of attributes: 3
+  AggregatedFitness: -95952.0
+  rank: 0
+  crowdingDistance: 0.8
+Number of objectives: 2
+  FirstObjective: -96000.0
+  SolutionLength: 48.0
+Number of constraints: 0
+
+------------------
+Solution 7/42
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decBandwidth':
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: Match for rule 'decBandwidth':
+
+  Variable[3]: Match for rule 'decBandwidth':
+
+  Variable[4]: Match for rule 'decBandwidth':
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decBandwidth':
+
+  Variable[8]: Match for rule 'decBandwidth':
+
+  Variable[9]: Match for rule 'decBandwidth':
+
+  Variable[10]: Match for rule 'decBandwidth':
+
+  Variable[11]: Match for rule 'decBandwidth':
+
+  Variable[12]: Match for rule 'decBandwidth':
+
+  Variable[13]: Match for rule 'decBandwidth':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: Match for rule 'decBandwidth':
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: Match for rule 'decBandwidth':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decBandwidth':
+
+  Variable[21]: Match for rule 'decBandwidth':
+
+  Variable[22]: Match for rule 'decBandwidth':
+
+  Variable[23]: Match for rule 'decBandwidth':
+
+  Variable[24]: Match for rule 'decBandwidth':
+
+  Variable[25]: Match for rule 'decBandwidth':
+
+  Variable[26]: Match for rule 'decBandwidth':
+
+  Variable[27]: Match for rule 'decBandwidth':
+
+  Variable[28]: Match for rule 'decBandwidth':
+
+  Variable[29]: Match for rule 'decBandwidth':
+
+  Variable[30]: Match for rule 'decBandwidth':
+
+  Variable[31]: Match for rule 'decBandwidth':
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: Match for rule 'decBandwidth':
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: Match for rule 'decBandwidth':
+
+  Variable[38]: Match for rule 'decBandwidth':
+
+  Variable[39]: Match for rule 'decBandwidth':
+
+  Variable[40]: Match for rule 'decBandwidth':
+
+  Variable[41]: Match for rule 'decBandwidth':
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: Match for rule 'decBandwidth':
+
+  Variable[44]: Match for rule 'decBandwidth':
+
+  Variable[45]: Match for rule 'decBandwidth':
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: Match for rule 'decBandwidth':
+
+  Variable[49]: Match for rule 'decBandwidth':
+
+Number of attributes: 1
+  AggregatedFitness: -85957.0
+Number of objectives: 2
+  FirstObjective: -86000.0
+  SolutionLength: 43.0
+Number of constraints: 0
+
+------------------
+Solution 8/42
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decBandwidth':
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: Match for rule 'decBandwidth':
+
+  Variable[3]: Match for rule 'decBandwidth':
+
+  Variable[4]: Match for rule 'decBandwidth':
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decBandwidth':
+
+  Variable[8]: Match for rule 'decBandwidth':
+
+  Variable[9]: Match for rule 'decBandwidth':
+
+  Variable[10]: Match for rule 'decBandwidth':
+
+  Variable[11]: Match for rule 'decBandwidth':
+
+  Variable[12]: Match for rule 'decBandwidth':
+
+  Variable[13]: Match for rule 'decBandwidth':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: Match for rule 'decBandwidth':
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: Match for rule 'decBandwidth':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decBandwidth':
+
+  Variable[21]: Match for rule 'decBandwidth':
+
+  Variable[22]: Match for rule 'decBandwidth':
+
+  Variable[23]: Match for rule 'decBandwidth':
+
+  Variable[24]: Match for rule 'decBandwidth':
+
+  Variable[25]: Match for rule 'decBandwidth':
+
+  Variable[26]: Match for rule 'decBandwidth':
+
+  Variable[27]: Match for rule 'decBandwidth':
+
+  Variable[28]: Match for rule 'decBandwidth':
+
+  Variable[29]: Match for rule 'decBandwidth':
+
+  Variable[30]: Match for rule 'decBandwidth':
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: Match for rule 'decBandwidth':
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: Match for rule 'decBandwidth':
+
+  Variable[38]: Match for rule 'decBandwidth':
+
+  Variable[39]: Match for rule 'decBandwidth':
+
+  Variable[40]: Match for rule 'decBandwidth':
+
+  Variable[41]: Match for rule 'decBandwidth':
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: Match for rule 'decBandwidth':
+
+  Variable[44]: Match for rule 'decBandwidth':
+
+  Variable[45]: Match for rule 'decBandwidth':
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: Match for rule 'decBandwidth':
+
+  Variable[49]: Match for rule 'decBandwidth':
+
+Number of attributes: 1
+  AggregatedFitness: -83958.0
+Number of objectives: 2
+  FirstObjective: -84000.0
+  SolutionLength: 42.0
+Number of constraints: 0
+
+------------------
+Solution 9/42
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decBandwidth':
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: Match for rule 'decBandwidth':
+
+  Variable[3]: Match for rule 'decBandwidth':
+
+  Variable[4]: Match for rule 'decBandwidth':
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decBandwidth':
+
+  Variable[8]: Match for rule 'decBandwidth':
+
+  Variable[9]: Match for rule 'decBandwidth':
+
+  Variable[10]: Match for rule 'decBandwidth':
+
+  Variable[11]: Match for rule 'decBandwidth':
+
+  Variable[12]: Match for rule 'decBandwidth':
+
+  Variable[13]: Match for rule 'decBandwidth':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: Match for rule 'decBandwidth':
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: Match for rule 'decBandwidth':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: Match for rule 'decBandwidth':
+
+  Variable[22]: Match for rule 'decBandwidth':
+
+  Variable[23]: Match for rule 'decBandwidth':
+
+  Variable[24]: Match for rule 'decBandwidth':
+
+  Variable[25]: Match for rule 'decBandwidth':
+
+  Variable[26]: Match for rule 'decBandwidth':
+
+  Variable[27]: Match for rule 'decBandwidth':
+
+  Variable[28]: Match for rule 'decBandwidth':
+
+  Variable[29]: Match for rule 'decBandwidth':
+
+  Variable[30]: Match for rule 'decBandwidth':
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: Match for rule 'decBandwidth':
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: Match for rule 'decBandwidth':
+
+  Variable[38]: Match for rule 'decBandwidth':
+
+  Variable[39]: Match for rule 'decBandwidth':
+
+  Variable[40]: Match for rule 'decBandwidth':
+
+  Variable[41]: Match for rule 'decBandwidth':
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: Match for rule 'decBandwidth':
+
+  Variable[44]: Match for rule 'decBandwidth':
+
+  Variable[45]: Match for rule 'decBandwidth':
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: Match for rule 'decBandwidth':
+
+  Variable[49]: Match for rule 'decBandwidth':
+
+Number of attributes: 1
+  AggregatedFitness: -81959.0
+Number of objectives: 2
+  FirstObjective: -82000.0
+  SolutionLength: 41.0
+Number of constraints: 0
+
+------------------
+Solution 10/42
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decBandwidth':
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: Match for rule 'decBandwidth':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: Match for rule 'decBandwidth':
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decBandwidth':
+
+  Variable[8]: Match for rule 'decBandwidth':
+
+  Variable[9]: Match for rule 'decBandwidth':
+
+  Variable[10]: Match for rule 'decBandwidth':
+
+  Variable[11]: Match for rule 'decBandwidth':
+
+  Variable[12]: Match for rule 'decBandwidth':
+
+  Variable[13]: Match for rule 'decBandwidth':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: Match for rule 'decBandwidth':
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: Match for rule 'decBandwidth':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: Match for rule 'decBandwidth':
+
+  Variable[22]: Match for rule 'decBandwidth':
+
+  Variable[23]: Match for rule 'decBandwidth':
+
+  Variable[24]: Match for rule 'decBandwidth':
+
+  Variable[25]: Match for rule 'decBandwidth':
+
+  Variable[26]: Match for rule 'decBandwidth':
+
+  Variable[27]: Match for rule 'decBandwidth':
+
+  Variable[28]: Match for rule 'decBandwidth':
+
+  Variable[29]: Match for rule 'decBandwidth':
+
+  Variable[30]: Match for rule 'decBandwidth':
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: Match for rule 'decBandwidth':
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: Match for rule 'decBandwidth':
+
+  Variable[38]: Match for rule 'decBandwidth':
+
+  Variable[39]: Match for rule 'decBandwidth':
+
+  Variable[40]: Match for rule 'decBandwidth':
+
+  Variable[41]: Match for rule 'decBandwidth':
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: Match for rule 'decBandwidth':
+
+  Variable[44]: Match for rule 'decBandwidth':
+
+  Variable[45]: Match for rule 'decBandwidth':
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: Match for rule 'decBandwidth':
+
+  Variable[49]: Match for rule 'decBandwidth':
+
+Number of attributes: 1
+  AggregatedFitness: -79960.0
+Number of objectives: 2
+  FirstObjective: -80000.0
+  SolutionLength: 40.0
+Number of constraints: 0
+
+------------------
+Solution 11/42
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decBandwidth':
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: Match for rule 'decBandwidth':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: Match for rule 'decBandwidth':
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decBandwidth':
+
+  Variable[8]: Match for rule 'decBandwidth':
+
+  Variable[9]: Match for rule 'decBandwidth':
+
+  Variable[10]: Match for rule 'decBandwidth':
+
+  Variable[11]: Match for rule 'decBandwidth':
+
+  Variable[12]: Match for rule 'decBandwidth':
+
+  Variable[13]: Match for rule 'decBandwidth':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: Match for rule 'decBandwidth':
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: Match for rule 'decBandwidth':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: Match for rule 'decBandwidth':
+
+  Variable[22]: Match for rule 'decBandwidth':
+
+  Variable[23]: Match for rule 'decBandwidth':
+
+  Variable[24]: Match for rule 'decBandwidth':
+
+  Variable[25]: Match for rule 'decBandwidth':
+
+  Variable[26]: Match for rule 'decBandwidth':
+
+  Variable[27]: Match for rule 'decBandwidth':
+
+  Variable[28]: Match for rule 'decBandwidth':
+
+  Variable[29]: Match for rule 'decBandwidth':
+
+  Variable[30]: Match for rule 'decBandwidth':
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: Match for rule 'decBandwidth':
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: Match for rule 'decBandwidth':
+
+  Variable[38]: Match for rule 'decBandwidth':
+
+  Variable[39]: Match for rule 'decBandwidth':
+
+  Variable[40]: Match for rule 'decBandwidth':
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: Match for rule 'decBandwidth':
+
+  Variable[44]: Match for rule 'decBandwidth':
+
+  Variable[45]: Match for rule 'decBandwidth':
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: Match for rule 'decBandwidth':
+
+  Variable[49]: Match for rule 'decBandwidth':
+
+Number of attributes: 1
+  AggregatedFitness: -77961.0
+Number of objectives: 2
+  FirstObjective: -78000.0
+  SolutionLength: 39.0
+Number of constraints: 0
+
+------------------
+Solution 12/42
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: Match for rule 'decBandwidth':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: Match for rule 'decBandwidth':
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decBandwidth':
+
+  Variable[8]: Match for rule 'decBandwidth':
+
+  Variable[9]: Match for rule 'decBandwidth':
+
+  Variable[10]: Match for rule 'decBandwidth':
+
+  Variable[11]: Match for rule 'decBandwidth':
+
+  Variable[12]: Match for rule 'decBandwidth':
+
+  Variable[13]: Match for rule 'decBandwidth':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: Match for rule 'decBandwidth':
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: Match for rule 'decBandwidth':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: Match for rule 'decBandwidth':
+
+  Variable[22]: Match for rule 'decBandwidth':
+
+  Variable[23]: Match for rule 'decBandwidth':
+
+  Variable[24]: Match for rule 'decBandwidth':
+
+  Variable[25]: Match for rule 'decBandwidth':
+
+  Variable[26]: Match for rule 'decBandwidth':
+
+  Variable[27]: Match for rule 'decBandwidth':
+
+  Variable[28]: Match for rule 'decBandwidth':
+
+  Variable[29]: Match for rule 'decBandwidth':
+
+  Variable[30]: Match for rule 'decBandwidth':
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: Match for rule 'decBandwidth':
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: Match for rule 'decBandwidth':
+
+  Variable[38]: Match for rule 'decBandwidth':
+
+  Variable[39]: Match for rule 'decBandwidth':
+
+  Variable[40]: Match for rule 'decBandwidth':
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: Match for rule 'decBandwidth':
+
+  Variable[44]: Match for rule 'decBandwidth':
+
+  Variable[45]: Match for rule 'decBandwidth':
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: Match for rule 'decBandwidth':
+
+  Variable[49]: Match for rule 'decBandwidth':
+
+Number of attributes: 1
+  AggregatedFitness: -75962.0
+Number of objectives: 2
+  FirstObjective: -76000.0
+  SolutionLength: 38.0
+Number of constraints: 0
+
+------------------
+Solution 13/42
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: Match for rule 'decBandwidth':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: Match for rule 'decBandwidth':
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decBandwidth':
+
+  Variable[8]: Match for rule 'decBandwidth':
+
+  Variable[9]: Match for rule 'decBandwidth':
+
+  Variable[10]: Match for rule 'decBandwidth':
+
+  Variable[11]: Match for rule 'decBandwidth':
+
+  Variable[12]: Match for rule 'decBandwidth':
+
+  Variable[13]: Match for rule 'decBandwidth':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: Match for rule 'decBandwidth':
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: Match for rule 'decBandwidth':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: Match for rule 'decBandwidth':
+
+  Variable[22]: Match for rule 'decBandwidth':
+
+  Variable[23]: Match for rule 'decBandwidth':
+
+  Variable[24]: Match for rule 'decBandwidth':
+
+  Variable[25]: Match for rule 'decBandwidth':
+
+  Variable[26]: Match for rule 'decBandwidth':
+
+  Variable[27]: Match for rule 'decBandwidth':
+
+  Variable[28]: Match for rule 'decBandwidth':
+
+  Variable[29]: Match for rule 'decBandwidth':
+
+  Variable[30]: Match for rule 'decBandwidth':
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: Match for rule 'decBandwidth':
+
+  Variable[38]: Match for rule 'decBandwidth':
+
+  Variable[39]: Match for rule 'decBandwidth':
+
+  Variable[40]: Match for rule 'decBandwidth':
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: Match for rule 'decBandwidth':
+
+  Variable[44]: Match for rule 'decBandwidth':
+
+  Variable[45]: Match for rule 'decBandwidth':
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: Match for rule 'decBandwidth':
+
+  Variable[49]: Match for rule 'decBandwidth':
+
+Number of attributes: 1
+  AggregatedFitness: -73963.0
+Number of objectives: 2
+  FirstObjective: -74000.0
+  SolutionLength: 37.0
+Number of constraints: 0
+
+------------------
+Solution 14/42
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: Match for rule 'decBandwidth':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: Match for rule 'decBandwidth':
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decBandwidth':
+
+  Variable[8]: Match for rule 'decBandwidth':
+
+  Variable[9]: Match for rule 'decBandwidth':
+
+  Variable[10]: Match for rule 'decBandwidth':
+
+  Variable[11]: Match for rule 'decBandwidth':
+
+  Variable[12]: Match for rule 'decBandwidth':
+
+  Variable[13]: Match for rule 'decBandwidth':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: Match for rule 'decBandwidth':
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: Match for rule 'decBandwidth':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: Match for rule 'decBandwidth':
+
+  Variable[22]: Match for rule 'decBandwidth':
+
+  Variable[23]: Match for rule 'decBandwidth':
+
+  Variable[24]: Match for rule 'decBandwidth':
+
+  Variable[25]: Match for rule 'decBandwidth':
+
+  Variable[26]: Match for rule 'decBandwidth':
+
+  Variable[27]: Match for rule 'decBandwidth':
+
+  Variable[28]: Match for rule 'decBandwidth':
+
+  Variable[29]: Match for rule 'decBandwidth':
+
+  Variable[30]: Match for rule 'decBandwidth':
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: Match for rule 'decBandwidth':
+
+  Variable[38]: Match for rule 'decBandwidth':
+
+  Variable[39]: Match for rule 'decBandwidth':
+
+  Variable[40]: Match for rule 'decBandwidth':
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: Match for rule 'decBandwidth':
+
+  Variable[44]: Match for rule 'decBandwidth':
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: Match for rule 'decBandwidth':
+
+  Variable[49]: Match for rule 'decBandwidth':
+
+Number of attributes: 1
+  AggregatedFitness: -71964.0
+Number of objectives: 2
+  FirstObjective: -72000.0
+  SolutionLength: 36.0
+Number of constraints: 0
+
+------------------
+Solution 15/42
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: Match for rule 'decBandwidth':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: Match for rule 'decBandwidth':
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decBandwidth':
+
+  Variable[8]: Match for rule 'decBandwidth':
+
+  Variable[9]: Match for rule 'decBandwidth':
+
+  Variable[10]: Match for rule 'decBandwidth':
+
+  Variable[11]: Match for rule 'decBandwidth':
+
+  Variable[12]: Match for rule 'decBandwidth':
+
+  Variable[13]: Match for rule 'decBandwidth':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: Match for rule 'decBandwidth':
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: Match for rule 'decBandwidth':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: Match for rule 'decBandwidth':
+
+  Variable[22]: Match for rule 'decBandwidth':
+
+  Variable[23]: Match for rule 'decBandwidth':
+
+  Variable[24]: Match for rule 'decBandwidth':
+
+  Variable[25]: Match for rule 'decBandwidth':
+
+  Variable[26]: Match for rule 'decBandwidth':
+
+  Variable[27]: Match for rule 'decBandwidth':
+
+  Variable[28]: Match for rule 'decBandwidth':
+
+  Variable[29]: Match for rule 'decBandwidth':
+
+  Variable[30]: Match for rule 'decBandwidth':
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: Match for rule 'decBandwidth':
+
+  Variable[38]: Match for rule 'decBandwidth':
+
+  Variable[39]: Match for rule 'decBandwidth':
+
+  Variable[40]: Match for rule 'decBandwidth':
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: Match for rule 'decBandwidth':
+
+  Variable[44]: Match for rule 'decBandwidth':
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: Match for rule 'decBandwidth':
+
+Number of attributes: 1
+  AggregatedFitness: -69965.0
+Number of objectives: 2
+  FirstObjective: -70000.0
+  SolutionLength: 35.0
+Number of constraints: 0
+
+------------------
+Solution 16/42
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: Match for rule 'decBandwidth':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: Match for rule 'decBandwidth':
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decBandwidth':
+
+  Variable[8]: Match for rule 'decBandwidth':
+
+  Variable[9]: Match for rule 'decBandwidth':
+
+  Variable[10]: Match for rule 'decBandwidth':
+
+  Variable[11]: Match for rule 'decBandwidth':
+
+  Variable[12]: Match for rule 'decBandwidth':
+
+  Variable[13]: Match for rule 'decBandwidth':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: Match for rule 'decBandwidth':
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: Match for rule 'decBandwidth':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: Match for rule 'decBandwidth':
+
+  Variable[22]: Match for rule 'decBandwidth':
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: Match for rule 'decBandwidth':
+
+  Variable[25]: Match for rule 'decBandwidth':
+
+  Variable[26]: Match for rule 'decBandwidth':
+
+  Variable[27]: Match for rule 'decBandwidth':
+
+  Variable[28]: Match for rule 'decBandwidth':
+
+  Variable[29]: Match for rule 'decBandwidth':
+
+  Variable[30]: Match for rule 'decBandwidth':
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: Match for rule 'decBandwidth':
+
+  Variable[38]: Match for rule 'decBandwidth':
+
+  Variable[39]: Match for rule 'decBandwidth':
+
+  Variable[40]: Match for rule 'decBandwidth':
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: Match for rule 'decBandwidth':
+
+  Variable[44]: Match for rule 'decBandwidth':
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: Match for rule 'decBandwidth':
+
+Number of attributes: 1
+  AggregatedFitness: -67966.0
+Number of objectives: 2
+  FirstObjective: -68000.0
+  SolutionLength: 34.0
+Number of constraints: 0
+
+------------------
+Solution 17/42
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: Match for rule 'decBandwidth':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: Match for rule 'decBandwidth':
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decBandwidth':
+
+  Variable[8]: Match for rule 'decBandwidth':
+
+  Variable[9]: Match for rule 'decBandwidth':
+
+  Variable[10]: Match for rule 'decBandwidth':
+
+  Variable[11]: Match for rule 'decBandwidth':
+
+  Variable[12]: Match for rule 'decBandwidth':
+
+  Variable[13]: Match for rule 'decBandwidth':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: Match for rule 'decBandwidth':
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: Match for rule 'decBandwidth':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: Match for rule 'decBandwidth':
+
+  Variable[22]: Match for rule 'decBandwidth':
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: Match for rule 'decBandwidth':
+
+  Variable[25]: Match for rule 'decBandwidth':
+
+  Variable[26]: Match for rule 'decBandwidth':
+
+  Variable[27]: Match for rule 'decBandwidth':
+
+  Variable[28]: Match for rule 'decBandwidth':
+
+  Variable[29]: Match for rule 'decBandwidth':
+
+  Variable[30]: Match for rule 'decBandwidth':
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: Match for rule 'decBandwidth':
+
+  Variable[38]: Match for rule 'decBandwidth':
+
+  Variable[39]: Match for rule 'decBandwidth':
+
+  Variable[40]: Match for rule 'decBandwidth':
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: Match for rule 'decBandwidth':
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: Match for rule 'decBandwidth':
+
+Number of attributes: 1
+  AggregatedFitness: -65967.0
+Number of objectives: 2
+  FirstObjective: -66000.0
+  SolutionLength: 33.0
+Number of constraints: 0
+
+------------------
+Solution 18/42
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: Match for rule 'decBandwidth':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: Match for rule 'decBandwidth':
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decBandwidth':
+
+  Variable[8]: Match for rule 'decBandwidth':
+
+  Variable[9]: Match for rule 'decBandwidth':
+
+  Variable[10]: Match for rule 'decBandwidth':
+
+  Variable[11]: Match for rule 'decBandwidth':
+
+  Variable[12]: Match for rule 'decBandwidth':
+
+  Variable[13]: Match for rule 'decBandwidth':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: Match for rule 'decBandwidth':
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: Match for rule 'decBandwidth':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: Match for rule 'decBandwidth':
+
+  Variable[22]: Match for rule 'decBandwidth':
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: Match for rule 'decBandwidth':
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: Match for rule 'decBandwidth':
+
+  Variable[27]: Match for rule 'decBandwidth':
+
+  Variable[28]: Match for rule 'decBandwidth':
+
+  Variable[29]: Match for rule 'decBandwidth':
+
+  Variable[30]: Match for rule 'decBandwidth':
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: Match for rule 'decBandwidth':
+
+  Variable[38]: Match for rule 'decBandwidth':
+
+  Variable[39]: Match for rule 'decBandwidth':
+
+  Variable[40]: Match for rule 'decBandwidth':
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: Match for rule 'decBandwidth':
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: Match for rule 'decBandwidth':
+
+Number of attributes: 1
+  AggregatedFitness: -63968.0
+Number of objectives: 2
+  FirstObjective: -64000.0
+  SolutionLength: 32.0
+Number of constraints: 0
+
+------------------
+Solution 19/42
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: Match for rule 'decBandwidth':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: Match for rule 'decBandwidth':
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decBandwidth':
+
+  Variable[8]: Match for rule 'decBandwidth':
+
+  Variable[9]: Match for rule 'decBandwidth':
+
+  Variable[10]: Match for rule 'decBandwidth':
+
+  Variable[11]: Match for rule 'decBandwidth':
+
+  Variable[12]: Match for rule 'decBandwidth':
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: Match for rule 'decBandwidth':
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: Match for rule 'decBandwidth':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: Match for rule 'decBandwidth':
+
+  Variable[22]: Match for rule 'decBandwidth':
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: Match for rule 'decBandwidth':
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: Match for rule 'decBandwidth':
+
+  Variable[27]: Match for rule 'decBandwidth':
+
+  Variable[28]: Match for rule 'decBandwidth':
+
+  Variable[29]: Match for rule 'decBandwidth':
+
+  Variable[30]: Match for rule 'decBandwidth':
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: Match for rule 'decBandwidth':
+
+  Variable[38]: Match for rule 'decBandwidth':
+
+  Variable[39]: Match for rule 'decBandwidth':
+
+  Variable[40]: Match for rule 'decBandwidth':
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: Match for rule 'decBandwidth':
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: Match for rule 'decBandwidth':
+
+Number of attributes: 1
+  AggregatedFitness: -61969.0
+Number of objectives: 2
+  FirstObjective: -62000.0
+  SolutionLength: 31.0
+Number of constraints: 0
+
+------------------
+Solution 20/42
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: Match for rule 'decBandwidth':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: Match for rule 'decBandwidth':
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decBandwidth':
+
+  Variable[8]: Match for rule 'decBandwidth':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decBandwidth':
+
+  Variable[11]: Match for rule 'decBandwidth':
+
+  Variable[12]: Match for rule 'decBandwidth':
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: Match for rule 'decBandwidth':
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: Match for rule 'decBandwidth':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: Match for rule 'decBandwidth':
+
+  Variable[22]: Match for rule 'decBandwidth':
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: Match for rule 'decBandwidth':
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: Match for rule 'decBandwidth':
+
+  Variable[27]: Match for rule 'decBandwidth':
+
+  Variable[28]: Match for rule 'decBandwidth':
+
+  Variable[29]: Match for rule 'decBandwidth':
+
+  Variable[30]: Match for rule 'decBandwidth':
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: Match for rule 'decBandwidth':
+
+  Variable[38]: Match for rule 'decBandwidth':
+
+  Variable[39]: Match for rule 'decBandwidth':
+
+  Variable[40]: Match for rule 'decBandwidth':
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: Match for rule 'decBandwidth':
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: Match for rule 'decBandwidth':
+
+Number of attributes: 1
+  AggregatedFitness: -59970.0
+Number of objectives: 2
+  FirstObjective: -60000.0
+  SolutionLength: 30.0
+Number of constraints: 0
+
+------------------
+Solution 21/42
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: Match for rule 'decBandwidth':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: Match for rule 'decBandwidth':
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decBandwidth':
+
+  Variable[8]: Match for rule 'decBandwidth':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decBandwidth':
+
+  Variable[11]: Match for rule 'decBandwidth':
+
+  Variable[12]: Match for rule 'decBandwidth':
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: Match for rule 'decBandwidth':
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: Match for rule 'decBandwidth':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: Match for rule 'decBandwidth':
+
+  Variable[22]: Match for rule 'decBandwidth':
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: Match for rule 'decBandwidth':
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: Match for rule 'decBandwidth':
+
+  Variable[27]: Match for rule 'decBandwidth':
+
+  Variable[28]: Match for rule 'decBandwidth':
+
+  Variable[29]: Match for rule 'decBandwidth':
+
+  Variable[30]: Match for rule 'decBandwidth':
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: Match for rule 'decBandwidth':
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: Match for rule 'decBandwidth':
+
+  Variable[40]: Match for rule 'decBandwidth':
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: Match for rule 'decBandwidth':
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: Match for rule 'decBandwidth':
+
+Number of attributes: 1
+  AggregatedFitness: -57971.0
+Number of objectives: 2
+  FirstObjective: -58000.0
+  SolutionLength: 29.0
+Number of constraints: 0
+
+------------------
+Solution 22/42
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: Match for rule 'decBandwidth':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: Match for rule 'decBandwidth':
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decBandwidth':
+
+  Variable[8]: Match for rule 'decBandwidth':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decBandwidth':
+
+  Variable[11]: Match for rule 'decBandwidth':
+
+  Variable[12]: Match for rule 'decBandwidth':
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: Match for rule 'decBandwidth':
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: Match for rule 'decBandwidth':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: Match for rule 'decBandwidth':
+
+  Variable[22]: Match for rule 'decBandwidth':
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: Match for rule 'decBandwidth':
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: Match for rule 'decBandwidth':
+
+  Variable[27]: Match for rule 'decBandwidth':
+
+  Variable[28]: Match for rule 'decBandwidth':
+
+  Variable[29]: Match for rule 'decBandwidth':
+
+  Variable[30]: Match for rule 'decBandwidth':
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: Match for rule 'decBandwidth':
+
+  Variable[40]: Match for rule 'decBandwidth':
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: Match for rule 'decBandwidth':
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: Match for rule 'decBandwidth':
+
+Number of attributes: 1
+  AggregatedFitness: -55972.0
+Number of objectives: 2
+  FirstObjective: -56000.0
+  SolutionLength: 28.0
+Number of constraints: 0
+
+------------------
+Solution 23/42
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: Match for rule 'decBandwidth':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: Match for rule 'decBandwidth':
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decBandwidth':
+
+  Variable[8]: Match for rule 'decBandwidth':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decBandwidth':
+
+  Variable[11]: Match for rule 'decBandwidth':
+
+  Variable[12]: Match for rule 'decBandwidth':
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: Match for rule 'decBandwidth':
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: Match for rule 'decBandwidth':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: Match for rule 'decBandwidth':
+
+  Variable[22]: Match for rule 'decBandwidth':
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: Match for rule 'decBandwidth':
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: Match for rule 'decBandwidth':
+
+  Variable[27]: Match for rule 'decBandwidth':
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: Match for rule 'decBandwidth':
+
+  Variable[30]: Match for rule 'decBandwidth':
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: Match for rule 'decBandwidth':
+
+  Variable[40]: Match for rule 'decBandwidth':
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: Match for rule 'decBandwidth':
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: Match for rule 'decBandwidth':
+
+Number of attributes: 1
+  AggregatedFitness: -53973.0
+Number of objectives: 2
+  FirstObjective: -54000.0
+  SolutionLength: 27.0
+Number of constraints: 0
+
+------------------
+Solution 24/42
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: Match for rule 'decBandwidth':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: Match for rule 'decBandwidth':
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decBandwidth':
+
+  Variable[8]: Match for rule 'decBandwidth':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decBandwidth':
+
+  Variable[11]: Match for rule 'decBandwidth':
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: Match for rule 'decBandwidth':
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: Match for rule 'decBandwidth':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: Match for rule 'decBandwidth':
+
+  Variable[22]: Match for rule 'decBandwidth':
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: Match for rule 'decBandwidth':
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: Match for rule 'decBandwidth':
+
+  Variable[27]: Match for rule 'decBandwidth':
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: Match for rule 'decBandwidth':
+
+  Variable[30]: Match for rule 'decBandwidth':
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: Match for rule 'decBandwidth':
+
+  Variable[40]: Match for rule 'decBandwidth':
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: Match for rule 'decBandwidth':
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: Match for rule 'decBandwidth':
+
+Number of attributes: 1
+  AggregatedFitness: -51974.0
+Number of objectives: 2
+  FirstObjective: -52000.0
+  SolutionLength: 26.0
+Number of constraints: 0
+
+------------------
+Solution 25/42
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: Match for rule 'decBandwidth':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: Match for rule 'decBandwidth':
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decBandwidth':
+
+  Variable[8]: Match for rule 'decBandwidth':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: Match for rule 'decBandwidth':
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: Match for rule 'decBandwidth':
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: Match for rule 'decBandwidth':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: Match for rule 'decBandwidth':
+
+  Variable[22]: Match for rule 'decBandwidth':
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: Match for rule 'decBandwidth':
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: Match for rule 'decBandwidth':
+
+  Variable[27]: Match for rule 'decBandwidth':
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: Match for rule 'decBandwidth':
+
+  Variable[30]: Match for rule 'decBandwidth':
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: Match for rule 'decBandwidth':
+
+  Variable[40]: Match for rule 'decBandwidth':
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: Match for rule 'decBandwidth':
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: Match for rule 'decBandwidth':
+
+Number of attributes: 1
+  AggregatedFitness: -49975.0
+Number of objectives: 2
+  FirstObjective: -50000.0
+  SolutionLength: 25.0
+Number of constraints: 0
+
+------------------
+Solution 26/42
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: Match for rule 'decBandwidth':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: Match for rule 'decBandwidth':
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decBandwidth':
+
+  Variable[8]: Match for rule 'decBandwidth':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: Match for rule 'decBandwidth':
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: Match for rule 'decBandwidth':
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: Match for rule 'decBandwidth':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: Match for rule 'decBandwidth':
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: Match for rule 'decBandwidth':
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: Match for rule 'decBandwidth':
+
+  Variable[27]: Match for rule 'decBandwidth':
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: Match for rule 'decBandwidth':
+
+  Variable[30]: Match for rule 'decBandwidth':
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: Match for rule 'decBandwidth':
+
+  Variable[40]: Match for rule 'decBandwidth':
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: Match for rule 'decBandwidth':
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: Match for rule 'decBandwidth':
+
+Number of attributes: 1
+  AggregatedFitness: -47976.0
+Number of objectives: 2
+  FirstObjective: -48000.0
+  SolutionLength: 24.0
+Number of constraints: 0
+
+------------------
+Solution 27/42
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: Match for rule 'decBandwidth':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: Match for rule 'decBandwidth':
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decBandwidth':
+
+  Variable[8]: Match for rule 'decBandwidth':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: Match for rule 'decBandwidth':
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: Match for rule 'decBandwidth':
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: Match for rule 'decBandwidth':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: Match for rule 'decBandwidth':
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: Match for rule 'decBandwidth':
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: Match for rule 'decBandwidth':
+
+  Variable[27]: Match for rule 'decBandwidth':
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: Match for rule 'decBandwidth':
+
+  Variable[30]: Match for rule 'decBandwidth':
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: Match for rule 'decBandwidth':
+
+  Variable[40]: Match for rule 'decBandwidth':
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: Match for rule 'decBandwidth':
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 1
+  AggregatedFitness: -45977.0
+Number of objectives: 2
+  FirstObjective: -46000.0
+  SolutionLength: 23.0
+Number of constraints: 0
+
+------------------
+Solution 28/42
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: Match for rule 'decBandwidth':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: Match for rule 'decBandwidth':
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decBandwidth':
+
+  Variable[8]: Match for rule 'decBandwidth':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: Match for rule 'decBandwidth':
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: Match for rule 'decBandwidth':
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: Match for rule 'decBandwidth':
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: Match for rule 'decBandwidth':
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: Match for rule 'decBandwidth':
+
+  Variable[27]: Match for rule 'decBandwidth':
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: Match for rule 'decBandwidth':
+
+  Variable[30]: Match for rule 'decBandwidth':
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: Match for rule 'decBandwidth':
+
+  Variable[40]: Match for rule 'decBandwidth':
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: Match for rule 'decBandwidth':
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 1
+  AggregatedFitness: -43978.0
+Number of objectives: 2
+  FirstObjective: -44000.0
+  SolutionLength: 22.0
+Number of constraints: 0
+
+------------------
+Solution 29/42
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: Match for rule 'decBandwidth':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: Match for rule 'decBandwidth':
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decBandwidth':
+
+  Variable[8]: Match for rule 'decBandwidth':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: Match for rule 'decBandwidth':
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: Match for rule 'decBandwidth':
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: Match for rule 'decBandwidth':
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: Match for rule 'decBandwidth':
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: Match for rule 'decBandwidth':
+
+  Variable[27]: Match for rule 'decBandwidth':
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: Match for rule 'decBandwidth':
+
+  Variable[30]: Match for rule 'decBandwidth':
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: Match for rule 'decBandwidth':
+
+  Variable[40]: Match for rule 'decBandwidth':
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: Match for rule 'decBandwidth':
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 1
+  AggregatedFitness: -41979.0
+Number of objectives: 2
+  FirstObjective: -42000.0
+  SolutionLength: 21.0
+Number of constraints: 0
+
+------------------
+Solution 30/42
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decBandwidth':
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: Match for rule 'decBandwidth':
+
+  Variable[3]: Match for rule 'decBandwidth':
+
+  Variable[4]: Match for rule 'decBandwidth':
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: Match for rule 'decBandwidth':
+
+  Variable[7]: Match for rule 'decBandwidth':
+
+  Variable[8]: Match for rule 'decBandwidth':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: Match for rule 'decBandwidth':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: Match for rule 'decBandwidth':
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: Match for rule 'decBandwidth':
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: Match for rule 'decBandwidth':
+
+Number of attributes: 4
+  AggregatedFitness: -35982.0
+  rank: 0
+  Normalized Objectives: [0.7560975609756098, 0.24390243902439024]
+  crowdingDistance: 0.0975609756097561
+Number of objectives: 2
+  FirstObjective: -36000.0
+  SolutionLength: 18.0
+Number of constraints: 0
+
+------------------
+Solution 31/42
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: Match for rule 'decBandwidth':
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: Match for rule 'decBandwidth':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: Match for rule 'decBandwidth':
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -15992.0
+  rank: 0
+  Normalized Objectives: [1.0, 0.0]
+  crowdingDistance: Infinity
+Number of objectives: 2
+  FirstObjective: -16000.0
+  SolutionLength: 8.0
+Number of constraints: 0
+
+------------------
+Solution 32/42
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: Match for rule 'decBandwidth':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: Match for rule 'decBandwidth':
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: Match for rule 'decBandwidth':
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: Match for rule 'decBandwidth':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: Match for rule 'decBandwidth':
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -23988.0
+  rank: 0
+  Normalized Objectives: [0.9024390243902439, 0.0975609756097561]
+  crowdingDistance: 0.0975609756097561
+Number of objectives: 2
+  FirstObjective: -24000.0
+  SolutionLength: 12.0
+Number of constraints: 0
+
+------------------
+Solution 33/42
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decBandwidth':
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: Match for rule 'decBandwidth':
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: Match for rule 'decBandwidth':
+
+  Variable[7]: Match for rule 'decBandwidth':
+
+  Variable[8]: Match for rule 'decBandwidth':
+
+  Variable[9]: Match for rule 'decBandwidth':
+
+  Variable[10]: Match for rule 'decBandwidth':
+
+  Variable[11]: Match for rule 'decBandwidth':
+
+  Variable[12]: Match for rule 'decBandwidth':
+
+  Variable[13]: Match for rule 'decBandwidth':
+
+  Variable[14]: Match for rule 'decBandwidth':
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: Match for rule 'decBandwidth':
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: Match for rule 'decBandwidth':
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -39980.0
+  rank: 0
+  Normalized Objectives: [0.7073170731707317, 0.2926829268292683]
+  crowdingDistance: 0.0975609756097561
+Number of objectives: 2
+  FirstObjective: -40000.0
+  SolutionLength: 20.0
+Number of constraints: 0
+
+------------------
+Solution 34/42
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: Match for rule 'decBandwidth':
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: Match for rule 'decBandwidth':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: Match for rule 'decBandwidth':
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: Match for rule 'decBandwidth':
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -19990.0
+  rank: 0
+  Normalized Objectives: [0.9512195121951219, 0.04878048780487805]
+  crowdingDistance: 0.0975609756097561
+Number of objectives: 2
+  FirstObjective: -20000.0
+  SolutionLength: 10.0
+Number of constraints: 0
+
+------------------
+Solution 35/42
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: Match for rule 'decBandwidth':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: Match for rule 'decBandwidth':
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: Match for rule 'decBandwidth':
+
+  Variable[7]: Match for rule 'decBandwidth':
+
+  Variable[8]: Match for rule 'decBandwidth':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: Match for rule 'decBandwidth':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: Match for rule 'decBandwidth':
+
+  Variable[28]: Match for rule 'decBandwidth':
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: Match for rule 'decBandwidth':
+
+  Variable[31]: Match for rule 'decBandwidth':
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: Match for rule 'decBandwidth':
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: Match for rule 'decBandwidth':
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: Match for rule 'decBandwidth':
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -37981.0
+  rank: 0
+  Normalized Objectives: [0.7317073170731707, 0.2682926829268293]
+  crowdingDistance: 0.0975609756097561
+Number of objectives: 2
+  FirstObjective: -38000.0
+  SolutionLength: 19.0
+Number of constraints: 0
+
+------------------
+Solution 36/42
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decBandwidth':
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: Match for rule 'decBandwidth':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: Match for rule 'decBandwidth':
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: Match for rule 'decBandwidth':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -21989.0
+  rank: 0
+  Normalized Objectives: [0.926829268292683, 0.07317073170731707]
+  crowdingDistance: 0.0975609756097561
+Number of objectives: 2
+  FirstObjective: -22000.0
+  SolutionLength: 11.0
+Number of constraints: 0
+
+------------------
+Solution 37/42
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: Match for rule 'decBandwidth':
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: Match for rule 'decBandwidth':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: Match for rule 'decBandwidth':
+
+  Variable[24]: Match for rule 'decBandwidth':
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: Match for rule 'decBandwidth':
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: Match for rule 'decBandwidth':
+
+  Variable[48]: Match for rule 'decBandwidth':
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -25987.0
+  rank: 0
+  Normalized Objectives: [0.8780487804878049, 0.12195121951219512]
+  crowdingDistance: 0.0975609756097561
+Number of objectives: 2
+  FirstObjective: -26000.0
+  SolutionLength: 13.0
+Number of constraints: 0
+
+------------------
+Solution 38/42
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: Match for rule 'decBandwidth':
+
+  Variable[7]: Match for rule 'decBandwidth':
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: Match for rule 'decBandwidth':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: Match for rule 'decBandwidth':
+
+  Variable[24]: Match for rule 'decBandwidth':
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: Match for rule 'decBandwidth':
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: Match for rule 'decBandwidth':
+
+  Variable[44]: Match for rule 'decBandwidth':
+
+  Variable[45]: Match for rule 'decBandwidth':
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: Match for rule 'decBandwidth':
+
+  Variable[48]: Match for rule 'decBandwidth':
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -33983.0
+  rank: 0
+  Normalized Objectives: [0.7804878048780488, 0.21951219512195122]
+  crowdingDistance: 0.0975609756097561
+Number of objectives: 2
+  FirstObjective: -34000.0
+  SolutionLength: 17.0
+Number of constraints: 0
+
+------------------
+Solution 39/42
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: Match for rule 'decBandwidth':
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: Match for rule 'decBandwidth':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: Match for rule 'decBandwidth':
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -17991.0
+  rank: 0
+  Normalized Objectives: [0.975609756097561, 0.024390243902439025]
+  crowdingDistance: 0.0975609756097561
+Number of objectives: 2
+  FirstObjective: -18000.0
+  SolutionLength: 9.0
+Number of constraints: 0
+
+------------------
+Solution 40/42
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decBandwidth':
+
+  Variable[1]: Match for rule 'decBandwidth':
+
+  Variable[2]: Match for rule 'decBandwidth':
+
+  Variable[3]: Match for rule 'decBandwidth':
+
+  Variable[4]: Match for rule 'decBandwidth':
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: Match for rule 'decBandwidth':
+
+  Variable[7]: Match for rule 'decBandwidth':
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: Match for rule 'decBandwidth':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: Match for rule 'decBandwidth':
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -29985.0
+  rank: 0
+  Normalized Objectives: [0.8292682926829268, 0.17073170731707318]
+  crowdingDistance: 0.0975609756097561
+Number of objectives: 2
+  FirstObjective: -30000.0
+  SolutionLength: 15.0
+Number of constraints: 0
+
+------------------
+Solution 41/42
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decBandwidth':
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: Match for rule 'decBandwidth':
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decBandwidth':
+
+  Variable[11]: Match for rule 'decBandwidth':
+
+  Variable[12]: Match for rule 'decBandwidth':
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: Match for rule 'decBandwidth':
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: Match for rule 'decBandwidth':
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: Match for rule 'decBandwidth':
+
+  Variable[48]: Match for rule 'decBandwidth':
+
+  Variable[49]: Match for rule 'decBandwidth':
+
+Number of attributes: 4
+  AggregatedFitness: -31984.0
+  rank: 0
+  Normalized Objectives: [0.8048780487804879, 0.1951219512195122]
+  crowdingDistance: 0.0975609756097561
+Number of objectives: 2
+  FirstObjective: -32000.0
+  SolutionLength: 16.0
+Number of constraints: 0
+
+------------------
+Solution 42/42
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: Match for rule 'decBandwidth':
+
+  Variable[6]: Match for rule 'decBandwidth':
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: Match for rule 'decBandwidth':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: Match for rule 'decBandwidth':
+
+  Variable[17]: Match for rule 'decBandwidth':
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: Match for rule 'decBandwidth':
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: Match for rule 'decBandwidth':
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decBandwidth':
+
+  Variable[36]: Match for rule 'decBandwidth':
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: Match for rule 'decBandwidth':
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: Match for rule 'decBandwidth':
+
+  Variable[46]: Match for rule 'decBandwidth':
+
+  Variable[47]: Match for rule 'decBandwidth':
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: Match for rule 'decBandwidth':
+
+Number of attributes: 4
+  AggregatedFitness: -27986.0
+  rank: 0
+  Normalized Objectives: [0.8536585365853658, 0.14634146341463414]
+  crowdingDistance: 0.0975609756097561
+Number of objectives: 2
+  FirstObjective: -28000.0
+  SolutionLength: 14.0
+Number of constraints: 0

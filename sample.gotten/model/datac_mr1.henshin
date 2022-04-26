@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="ASCII"?>
+<henshin:Module xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:henshin="http://www.eclipse.org/emf/2011/Henshin" name="tcinputCloud">
+  <imports href="http://tcinputCloud/1.0#/"/>
+  <units xsi:type="henshin:Rule" name="decCPUCores">
+    <parameters name="x">
+      <type xsi:type="ecore:EDataType" href="http://www.eclipse.org/emf/2002/Ecore#//EInt"/>
+    </parameters>
+    <lhs name="Lhs">
+      <nodes>
+        <type href="http://tcinputCloud/1.0#//NodeType"/>
+        <attributes value="x">
+          <type href="http://tcinputCloud/1.0#//NodeType/CPUCores"/>
+        </attributes>
+      </nodes>
+    </lhs>
+    <rhs name="Rhs">
+      <nodes>
+        <type href="http://tcinputCloud/1.0#//NodeType"/>
+        <attributes value="x-1">
+          <type href="http://tcinputCloud/1.0#//NodeType/CPUCores"/>
+        </attributes>
+      </nodes>
+    </rhs>
+    <attributeConditions name="setting the limits of CPUCores" conditionText="x>1"/>
+    <mappings origin="//@units.0/@lhs/@nodes.0" image="//@units.0/@rhs/@nodes.0"/>
+  </units>
+  <units xsi:type="henshin:Rule" name="decCPUSpeed">
+    <parameters name="x">
+      <type xsi:type="ecore:EDataType" href="http://www.eclipse.org/emf/2002/Ecore#//EInt"/>
+    </parameters>
+    <lhs name="Lhs">
+      <nodes>
+        <type href="http://tcinputCloud/1.0#//NodeType"/>
+        <attributes value="x">
+          <type href="http://tcinputCloud/1.0#//NodeType/CPUSpeed"/>
+        </attributes>
+      </nodes>
+    </lhs>
+    <rhs name="Rhs">
+      <nodes>
+        <type href="http://tcinputCloud/1.0#//NodeType"/>
+        <attributes value="x-10">
+          <type href="http://tcinputCloud/1.0#//NodeType/CPUSpeed"/>
+        </attributes>
+      </nodes>
+    </rhs>
+    <attributeConditions name="setting the limits of CPUSpeed" conditionText="x>10"/>
+    <mappings origin="//@units.1/@lhs/@nodes.0" image="//@units.1/@rhs/@nodes.0"/>
+  </units>
+</henshin:Module>

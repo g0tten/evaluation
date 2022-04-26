@@ -1,0 +1,46 @@
+=====> Executing the test case: 1
+Workload: mix_vm
+IoRandomRunner - Init
+IoRandomRunner - Creating broker
+IoRandomRunner - Creating cloudlistIoRandomRunner - Creating vm list
+IoRandomRunner - Creating host
+Starting mix_vm_HPPM_mmt_0.8_0.1
+IoRunnerAbstract - start
+IoRunnerAbstract - Bandwidth adaption
+IoRunnerAbstract - Executing
+
+Experiment name: mix_vm_HPPM_mmt_0.8_0.1
+Number of hosts: 512
+Number of VMs: 1024
+Total simulation time: 2770,10 sec
+Energy consumption: 21,56268 kWh
+Number of VM migrations: 654
+SLA: 0,00057%
+SLA perf degradation due to migration: 0,11%
+SLA time per active host: 0,54%
+Overall SLA violation: 0,11%
+Average SLA violation: 10,00%
+SLA time per host: 0,54%
+Number of host shutdowns: 0
+Mean time before a host shutdown: NaN sec
+StDev time before a host shutdown: NaN sec
+Mean time before a VM migration: 40,00 sec
+StDev time before a VM migration: 0,00 sec
+Execution time - VM selection mean: 0,00078 sec
+Execution time - VM selection stDev: 0,00067 sec
+Execution time - host selection mean: 0,00067 sec
+Execution time - host selection stDev: 0,00050 sec
+Execution time - VM reallocation mean: 1,27400 sec
+Execution time - VM reallocation stDev: 2,41171 sec
+Execution time - total mean: 2,15500 sec
+Execution time - total stDev: 3,16057 sec
+=========== Storage System Stats ============
+Storage Energy consumption: 0,00000 kWh
+total Energy consumption (CPU+storage): 21,56268 kWh
+Cost Energy consumption: 3,80150 $
+Wear-Out cost: 0,00000 $
+SLA cost: 0,20582 $
+All costs: 4,00732 $
+
+Total execution time: 22891
+End of party

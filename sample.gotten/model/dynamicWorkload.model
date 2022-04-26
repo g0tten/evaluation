@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ASCII"?>
+<workloadCloud:Workload xmlns:workloadCloud="http://workloadCloud/1.0" Name="DynamicWorkload" NumTraces="6">
+  <Traces>t1</Traces>
+  <Traces>t2</Traces>
+  <Traces>t3</Traces>
+  <Traces>t4</Traces>
+  <Traces>t5</Traces>
+  <Traces>t6</Traces>
+</workloadCloud:Workload>

@@ -1,0 +1,9 @@
+Id: 1
+MutantId: 0
+GroupId: 0
+InputSrc: C:/eclipse/runtime-EclipseApplication2/sample.gotten/tc/Dissect/dcmodels/input_00001/mr4/followup_00030.tc
+OutputSrc: C:/eclipse/runtime-EclipseApplication2/sample.gotten/tc/Dissect/dcmodels/input_00001/mr4/output_00030.tc
+ExecCommands: 
+isSourceTC: false
+followUpChilds: #0##
+Description:

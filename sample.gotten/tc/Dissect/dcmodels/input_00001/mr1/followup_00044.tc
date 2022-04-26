@@ -1,0 +1,47 @@
+#tcinputCloud
+#Vm
+vm.quantity = 1024
+vm.mips = 250
+vm.pes = 1
+vm.ram = 128
+vm.bw = 100000
+vm.size = 2500
+vm.priority = 1
+vm.schedulingInterval = 300
+vm.scheduler = null
+
+#User
+user.trace = null
+
+#Cloud
+cloud.model = null
+cloud.description = null
+cloud.scheduler = null
+
+#Host
+host.quantity = 512
+host.ram = 1024
+host.ramspeed = 1600
+host.bw = 1000000
+host.sto = 1000000
+host.mips = 910
+host.pes = 2
+
+#Storage
+sto.type = hdd
+sto.capacity = 1000000
+sto.maxTransferRate = 20
+sto.latency = 5
+
+#Work
+work.path = C:/eclipse\workspace3\dissect-cf-examples-master\anon_jobs.gwf
+work.name = mix_vm
+work.volume = 10
+work.numTraces = 10
+
+#Network
+net.bandwidth = 1000000
+net.latency = 10
+net.switches = 0
+
+

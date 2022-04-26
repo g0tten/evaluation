@@ -1,0 +1,109 @@
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decDiskSpeed':
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: Match for rule 'decDiskSpeed':
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: Match for rule 'decDiskSpeed':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: Match for rule 'decDiskSpeed':
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: Match for rule 'decDiskSpeed':
+
+  Variable[14]: Match for rule 'decDiskSpeed':
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: Match for rule 'decDiskSpeed':
+
+  Variable[17]: Match for rule 'decDiskSpeed':
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: Match for rule 'decDiskSpeed':
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: Match for rule 'decDiskSpeed':
+
+  Variable[24]: Match for rule 'decDiskSpeed':
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: Match for rule 'decDiskSpeed':
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: Match for rule 'decDiskSpeed':
+
+  Variable[29]: Match for rule 'decDiskSpeed':
+
+  Variable[30]: Match for rule 'decDiskSpeed':
+
+  Variable[31]: Match for rule 'decDiskSpeed':
+
+  Variable[32]: Match for rule 'decDiskSpeed':
+
+  Variable[33]: Match for rule 'decDiskSpeed':
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 3
+  AggregatedFitness: 0.0
+  rank: 0
+  crowdingDistance: 0.25
+Number of objectives: 2
+  FirstObjective: -18.0
+  SolutionLength: 18.0
+Number of constraints: 0

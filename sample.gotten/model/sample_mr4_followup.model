@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="ASCII"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:followup="http://followup/1.0" xmlns:gotten="http://gotten/1.0">
+  <gotten:GottenEnvironment>
+    <definition>
+      <metamodel name="datacentre" metamodel="/sample.gotten/model/datac.ecore">
+        <instances name="m1"/>
+        <instances name="m2"/>
+        <model model="/sample.gotten/model/dcmodels"/>
+      </metamodel>
+      <metamodel name="workload" metamodel="/sample.gotten/model/workload.ecore">
+        <instances name="w1"/>
+        <instances name="w2"/>
+        <model model="/sample.gotten/model/workloads"/>
+      </metamodel>
+    </definition>
+    <featureDefinitions input="true">
+      <metamodel href="../bin/sample.gotten#//@definition/@metamodel.0"/>
+      <features name="NNodes" dataType="Int">
+        <type href="datac.ecore#//DataCentre"/>
+        <constraint rule="racks->collect(numBoards*board.nodesPerBoard)->sum()"/>
+      </features>
+      <features name="CPU" dataType="Int">
+        <type href="datac.ecore#//DataCentre"/>
+        <constraint rule="racks->collect(numBoards*board.nodesPerBoard*board.nodeType.CPUCores*board.nodeType.CPUSpeed)->sum()"/>
+      </features>
+      <features name="NMachines" dataType="Int">
+        <type href="datac.ecore#//DataCentre"/>
+        <constraint rule="racks->collect(numBoards*board.nodesPerBoard*board.nodeType.CPUCores)->sum()"/>
+      </features>
+      <features name="Storage" dataType="Int">
+        <type href="datac.ecore#//DataCentre"/>
+        <constraint rule="racks->collect(numBoards*board.nodesPerBoard*board.nodeType.DiskSpeed)->sum()"/>
+      </features>
+      <features name="Network" dataType="Int">
+        <type href="datac.ecore#//DataCentre"/>
+        <constraint rule="net->collect(bandwidth)->sum()"/>
+      </features>
+      <features name="Memory" dataType="Int">
+        <type href="datac.ecore#//DataCentre"/>
+        <constraint rule="racks->collect(numBoards*board.nodesPerBoard*board.nodeType.MEMSpeed)->sum()"/>
+      </features>
+    </featureDefinitions>
+    <featureDefinitions input="true">
+      <metamodel href="../bin/sample.gotten#//@definition/@metamodel.1"/>
+      <features name="Workload" dataType="Set">
+        <type href="workload.ecore#//WorkloadSet"/>
+        <constraint rule="workloads.Traces"/>
+      </features>
+    </featureDefinitions>
+    <featureDefinitions output="true">
+      <features name="Time" dataType="Long"/>
+      <features name="Energy" dataType="Long"/>
+    </featureDefinitions>
+    <processors>
+      <entries name="Name" type="String"/>
+      <entries name="Version" type="String"/>
+    </processors>
+    <rules name="MR1">
+      <leftHandSide xsi:type="gotten:MetamorphicExpression">
+        <exp1 xsi:type="gotten:MetamorphicExpression">
+          <exp1 xsi:type="gotten:AtomicExpression">
+            <model href="../bin/sample.gotten#//@definition/@metamodel.0/@instances.0"/>
+            <feature href="../bin/sample.gotten#//@featureDefinitions.0/@features.1"/>
+          </exp1>
+          <opType>></opType>
+          <exp2 xsi:type="gotten:AtomicExpression">
+            <model href="../bin/sample.gotten#//@definition/@metamodel.0/@instances.1"/>
+            <feature href="../bin/sample.gotten#//@featureDefinitions.0/@features.1"/>
+          </exp2>
+        </exp1>
+        <opType>and</opType>
+        <exp2 xsi:type="gotten:MetamorphicExpression">
+          <exp1 xsi:type="gotten:AtomicExpression">
+            <model href="../bin/sample.gotten#//@definition/@metamodel.1/@instances.0"/>
+          </exp1>
+          <opType>==</opType>
+          <exp2 xsi:type="gotten:AtomicExpression">
+            <model href="../bin/sample.gotten#//@definition/@metamodel.1/@instances.1"/>
+          </exp2>
+        </exp2>
+      </leftHandSide>
+      <rightHandSide xsi:type="gotten:MetamorphicExpression">
+        <exp1 xsi:type="gotten:MetamorphicExpression">
+          <exp1 xsi:type="gotten:AtomicExpression">
+            <model href="../bin/sample.gotten#//@definition/@metamodel.0/@instances.0"/>
+            <feature href="../bin/sample.gotten#//@featureDefinitions.2/@features.1"/>
+          </exp1>
+          <opType>&lt;=</opType>
+          <exp2 xsi:type="gotten:AtomicExpression">
+            <model href="../bin/sample.gotten#//@definition/@metamodel.0/@instances.1"/>
+            <feature href="../bin/sample.gotten#//@featureDefinitions.2/@features.1"/>
+          </exp2>
+        </exp1>
+      </rightHandSide>
+    </rules>
+    <rules name="MR2">
+      <leftHandSide xsi:type="gotten:MetamorphicExpression">
+        <exp1 xsi:type="gotten:MetamorphicExpression">
+          <exp1 xsi:type="gotten:AtomicExpression">
+            <model href="../bin/sample.gotten#//@definition/@metamodel.0/@instances.0"/>
+            <feature href="../bin/sample.gotten#//@featureDefinitions.0/@features.2"/>
+          </exp1>
+          <opType>></opType>
+          <exp2 xsi:type="gotten:AtomicExpression">
+            <model href="../bin/sample.gotten#//@definition/@metamodel.0/@instances.1"/>
+            <feature href="../bin/sample.gotten#//@featureDefinitions.0/@features.2"/>
+          </exp2>
+        </exp1>
+        <opType>and</opType>
+        <exp2 xsi:type="gotten:MetamorphicExpression">
+          <exp1 xsi:type="gotten:AtomicExpression">
+            <model href="../bin/sample.gotten#//@definition/@metamodel.1/@instances.0"/>
+          </exp1>
+          <opType>==</opType>
+          <exp2 xsi:type="gotten:AtomicExpression">
+            <model href="../bin/sample.gotten#//@definition/@metamodel.1/@instances.1"/>
+          </exp2>
+        </exp2>
+      </leftHandSide>
+      <rightHandSide xsi:type="gotten:MetamorphicExpression">
+        <exp1 xsi:type="gotten:MetamorphicExpression">
+          <exp1 xsi:type="gotten:AtomicExpression">
+            <model href="../bin/sample.gotten#//@definition/@metamodel.0/@instances.0"/>
+            <feature href="../bin/sample.gotten#//@featureDefinitions.0/@features.2"/>
+          </exp1>
+          <opType>/</opType>
+          <exp2 xsi:type="gotten:AtomicExpression">
+            <model href="../bin/sample.gotten#//@definition/@metamodel.0/@instances.1"/>
+            <feature href="../bin/sample.gotten#//@featureDefinitions.0/@features.2"/>
+          </exp2>
+        </exp1>
+        <opType>>=</opType>
+        <exp2 xsi:type="gotten:MetamorphicExpression">
+          <exp1 xsi:type="gotten:AtomicExpression">
+            <model href="../bin/sample.gotten#//@definition/@metamodel.0/@instances.0"/>
+            <feature href="../bin/sample.gotten#//@featureDefinitions.2/@features.1"/>
+          </exp1>
+          <opType>/</opType>
+          <exp2 xsi:type="gotten:AtomicExpression">
+            <model href="../bin/sample.gotten#//@definition/@metamodel.0/@instances.1"/>
+            <feature href="../bin/sample.gotten#//@featureDefinitions.2/@features.1"/>
+          </exp2>
+        </exp2>
+      </rightHandSide>
+    </rules>
+    <rules name="MR3">
+      <leftHandSide xsi:type="gotten:MetamorphicExpression">
+        <exp1 xsi:type="gotten:MetamorphicExpression">
+          <exp1 xsi:type="gotten:AtomicExpression">
+            <model href="../bin/sample.gotten#//@definition/@metamodel.0/@instances.0"/>
+            <feature href="../bin/sample.gotten#//@featureDefinitions.0/@features.3"/>
+          </exp1>
+          <opType>></opType>
+          <exp2 xsi:type="gotten:AtomicExpression">
+            <model href="../bin/sample.gotten#//@definition/@metamodel.0/@instances.1"/>
+            <feature href="../bin/sample.gotten#//@featureDefinitions.0/@features.3"/>
+          </exp2>
+        </exp1>
+        <opType>and</opType>
+        <exp2 xsi:type="gotten:MetamorphicExpression">
+          <exp1 xsi:type="gotten:AtomicExpression">
+            <model href="../bin/sample.gotten#//@definition/@metamodel.1/@instances.0"/>
+          </exp1>
+          <opType>==</opType>
+          <exp2 xsi:type="gotten:AtomicExpression">
+            <model href="../bin/sample.gotten#//@definition/@metamodel.1/@instances.1"/>
+          </exp2>
+        </exp2>
+      </leftHandSide>
+      <rightHandSide xsi:type="gotten:MetamorphicExpression">
+        <exp1 xsi:type="gotten:AtomicExpression">
+          <model href="../bin/sample.gotten#//@definition/@metamodel.0/@instances.0"/>
+          <feature href="../bin/sample.gotten#//@featureDefinitions.2/@features.0"/>
+        </exp1>
+        <opType>&lt;=</opType>
+        <exp2 xsi:type="gotten:AtomicExpression">
+          <model href="../bin/sample.gotten#//@definition/@metamodel.0/@instances.1"/>
+          <feature href="../bin/sample.gotten#//@featureDefinitions.2/@features.0"/>
+        </exp2>
+      </rightHandSide>
+    </rules>
+    <rules name="MR4">
+      <leftHandSide xsi:type="gotten:MetamorphicExpression">
+        <exp1 xsi:type="gotten:MetamorphicExpression">
+          <exp1 xsi:type="gotten:AtomicExpression">
+            <model href="../bin/sample.gotten#//@definition/@metamodel.0/@instances.0"/>
+            <feature href="../bin/sample.gotten#//@featureDefinitions.0/@features.4"/>
+          </exp1>
+          <opType>></opType>
+          <exp2 xsi:type="gotten:AtomicExpression">
+            <model href="../bin/sample.gotten#//@definition/@metamodel.0/@instances.1"/>
+            <feature href="../bin/sample.gotten#//@featureDefinitions.0/@features.4"/>
+          </exp2>
+        </exp1>
+        <opType>and</opType>
+        <exp2 xsi:type="gotten:MetamorphicExpression">
+          <exp1 xsi:type="gotten:AtomicExpression">
+            <model href="../bin/sample.gotten#//@definition/@metamodel.1/@instances.0"/>
+          </exp1>
+          <opType>==</opType>
+          <exp2 xsi:type="gotten:AtomicExpression">
+            <model href="../bin/sample.gotten#//@definition/@metamodel.1/@instances.1"/>
+          </exp2>
+        </exp2>
+      </leftHandSide>
+      <rightHandSide xsi:type="gotten:MetamorphicExpression">
+        <exp1 xsi:type="gotten:AtomicExpression">
+          <model href="../bin/sample.gotten#//@definition/@metamodel.0/@instances.0"/>
+          <feature href="../bin/sample.gotten#//@featureDefinitions.2/@features.0"/>
+        </exp1>
+        <opType>&lt;=</opType>
+        <exp2 xsi:type="gotten:AtomicExpression">
+          <model href="../bin/sample.gotten#//@definition/@metamodel.0/@instances.1"/>
+          <feature href="../bin/sample.gotten#//@featureDefinitions.2/@features.0"/>
+        </exp2>
+      </rightHandSide>
+    </rules>
+    <rules name="MR5">
+      <leftHandSide xsi:type="gotten:MetamorphicExpression">
+        <exp1 xsi:type="gotten:MetamorphicExpression">
+          <exp1 xsi:type="gotten:AtomicExpression">
+            <model href="../bin/sample.gotten#//@definition/@metamodel.0/@instances.0"/>
+            <feature href="../bin/sample.gotten#//@featureDefinitions.0/@features.5"/>
+          </exp1>
+          <opType>></opType>
+          <exp2 xsi:type="gotten:AtomicExpression">
+            <model href="../bin/sample.gotten#//@definition/@metamodel.0/@instances.1"/>
+            <feature href="../bin/sample.gotten#//@featureDefinitions.0/@features.5"/>
+          </exp2>
+        </exp1>
+        <opType>and</opType>
+        <exp2 xsi:type="gotten:MetamorphicExpression">
+          <exp1 xsi:type="gotten:AtomicExpression">
+            <model href="../bin/sample.gotten#//@definition/@metamodel.1/@instances.0"/>
+          </exp1>
+          <opType>==</opType>
+          <exp2 xsi:type="gotten:AtomicExpression">
+            <model href="../bin/sample.gotten#//@definition/@metamodel.1/@instances.1"/>
+          </exp2>
+        </exp2>
+      </leftHandSide>
+      <rightHandSide xsi:type="gotten:MetamorphicExpression">
+        <exp1 xsi:type="gotten:AtomicExpression">
+          <model href="../bin/sample.gotten#//@definition/@metamodel.0/@instances.0"/>
+          <feature href="../bin/sample.gotten#//@featureDefinitions.2/@features.0"/>
+        </exp1>
+        <opType>&lt;</opType>
+        <exp2 xsi:type="gotten:AtomicExpression">
+          <model href="../bin/sample.gotten#//@definition/@metamodel.0/@instances.1"/>
+          <feature href="../bin/sample.gotten#//@featureDefinitions.2/@features.0"/>
+        </exp2>
+      </rightHandSide>
+    </rules>
+    <rules name="MR6">
+      <leftHandSide xsi:type="gotten:MetamorphicExpression">
+        <exp1 xsi:type="gotten:MetamorphicExpression">
+          <exp1 xsi:type="gotten:AtomicExpression">
+            <model href="../bin/sample.gotten#//@definition/@metamodel.0/@instances.0"/>
+          </exp1>
+          <opType>==</opType>
+          <exp2 xsi:type="gotten:AtomicExpression">
+            <model href="../bin/sample.gotten#//@definition/@metamodel.0/@instances.1"/>
+          </exp2>
+        </exp1>
+        <opType>and</opType>
+        <exp2 xsi:type="gotten:MetamorphicExpression">
+          <exp1 xsi:type="gotten:AtomicExpression">
+            <model href="../bin/sample.gotten#//@definition/@metamodel.1/@instances.0"/>
+            <feature href="../bin/sample.gotten#//@featureDefinitions.1/@features.0"/>
+          </exp1>
+          <setOpType>includes</setOpType>
+          <exp2 xsi:type="gotten:AtomicExpression">
+            <model href="../bin/sample.gotten#//@definition/@metamodel.1/@instances.1"/>
+            <feature href="../bin/sample.gotten#//@featureDefinitions.1/@features.0"/>
+          </exp2>
+        </exp2>
+      </leftHandSide>
+      <rightHandSide xsi:type="gotten:MetamorphicExpression">
+        <exp1 xsi:type="gotten:AtomicExpression">
+          <model href="../bin/sample.gotten#//@definition/@metamodel.0/@instances.1"/>
+          <feature href="../bin/sample.gotten#//@featureDefinitions.2/@features.0"/>
+        </exp1>
+        <opType>&lt;=</opType>
+        <exp2 xsi:type="gotten:AtomicExpression">
+          <model href="../bin/sample.gotten#//@definition/@metamodel.0/@instances.0"/>
+          <feature href="../bin/sample.gotten#//@featureDefinitions.2/@features.0"/>
+        </exp2>
+      </rightHandSide>
+    </rules>
+  </gotten:GottenEnvironment>
+  <followup:FollowUpEnvironment iterations="1" maxSolutions="50" path="/sample.gotten/model/dcmodels" output="/sample.gotten/model/dcmodels">
+    <metamodel href="../bin/sample.gotten#//@definition/@metamodel.0"/>
+    <rules>
+      <feature href="../bin/sample.gotten#//@featureDefinitions.0/@features.4"/>
+      <operations xsi:type="followup:ModifyNumeric" fixed="2000" operator="decrease">
+        <type href="datac.ecore#//Network"/>
+        <feature xsi:type="ecore:EAttribute" href="datac.ecore#//Network/bandwidth"/>
+        <conditions operator=">">
+          <type href="datac.ecore#//Network"/>
+          <feature xsi:type="ecore:EAttribute" href="datac.ecore#//Network/bandwidth"/>
+        </conditions>
+      </operations>
+    </rules>
+    <metrules href="../bin/sample.gotten#//@rules.3"/>
+    <fitness>
+      <expression xsi:type="gotten:MetamorphicExpression">
+        <exp1 xsi:type="gotten:AtomicExpression">
+          <model href="../bin/sample.gotten#//@definition/@metamodel.0/@instances.0"/>
+          <feature href="../bin/sample.gotten#//@featureDefinitions.0/@features.4"/>
+        </exp1>
+        <opType>-</opType>
+        <exp2 xsi:type="gotten:AtomicExpression">
+          <model href="../bin/sample.gotten#//@definition/@metamodel.0/@instances.1"/>
+          <feature href="../bin/sample.gotten#//@featureDefinitions.0/@features.4"/>
+        </exp2>
+      </expression>
+    </fitness>
+    <algorithms>Random</algorithms>
+    <algorithms>NSGAII</algorithms>
+    <algorithms>NSGAIII</algorithms>
+    <algorithms>eMOEA</algorithms>
+  </followup:FollowUpEnvironment>
+</xmi:XMI>

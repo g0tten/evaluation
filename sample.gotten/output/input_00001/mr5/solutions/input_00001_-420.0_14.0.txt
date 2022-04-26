@@ -1,0 +1,110 @@
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: Match for rule 'decMEMSpeed':
+
+  Variable[3]: Match for rule 'decMEMSpeed':
+
+  Variable[4]: Match for rule 'decMEMSpeed':
+
+  Variable[5]: Match for rule 'decMEMSpeed':
+
+  Variable[6]: Match for rule 'decMEMSpeed':
+
+  Variable[7]: Match for rule 'decMEMSpeed':
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decMEMSpeed':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: Match for rule 'decMEMSpeed':
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: Match for rule 'decMEMSpeed':
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: Match for rule 'decMEMSpeed':
+
+  Variable[35]: Match for rule 'decMEMSpeed':
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: Match for rule 'decMEMSpeed':
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: Match for rule 'decMEMSpeed':
+
+  Variable[49]: Match for rule 'decMEMSpeed':
+
+Number of attributes: 4
+  AggregatedFitness: -406.0
+  rank: 0
+  Normalized Objectives: [0.8571428571428571, 0.14285714285714285]
+  crowdingDistance: 0.09523809523809523
+Number of objectives: 2
+  FirstObjective: -420.0
+  SolutionLength: 14.0
+Number of constraints: 0

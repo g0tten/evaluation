@@ -1,0 +1,12 @@
+eMOEA:
+    Hypervolume: 0.3269387755102041
+    GenerationalDistance: 0.0
+NSGAII:
+    Hypervolume: 0.14448979591836736
+    GenerationalDistance: 0.17752667592017066
+Random:
+    Hypervolume: 0.0
+    GenerationalDistance: 0.5091509539199068
+NSGAIII:
+    Hypervolume: 0.18489795918367347
+    GenerationalDistance: 0.07071428571428573

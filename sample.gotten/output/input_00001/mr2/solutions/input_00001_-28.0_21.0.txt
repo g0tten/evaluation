@@ -1,0 +1,107 @@
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decNodesPerBoard':
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: Match for rule 'decCPUCores':
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: Match for rule 'decNodesPerBoard':
+
+  Variable[9]: Match for rule 'decNumBoards':
+
+  Variable[10]: Match for rule 'decNodesPerBoard':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: Match for rule 'decNodesPerBoard':
+
+  Variable[13]: Match for rule 'decNodesPerBoard':
+
+  Variable[14]: Match for rule 'decNodesPerBoard':
+
+  Variable[15]: Match for rule 'decNumBoards':
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: Match for rule 'decNodesPerBoard':
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: Match for rule 'decNumBoards':
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: Match for rule 'decNumBoards':
+
+  Variable[28]: Match for rule 'decNumBoards':
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: Match for rule 'decNumBoards':
+
+  Variable[33]: Match for rule 'decNumBoards':
+
+  Variable[34]: Match for rule 'decNumBoards':
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: Match for rule 'decNumBoards':
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: Match for rule 'decNumBoards':
+
+  Variable[41]: Match for rule 'decNumBoards':
+
+  Variable[42]: Match for rule 'decNumBoards':
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: Match for rule 'decNumBoards':
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 1
+  AggregatedFitness: -7.0
+Number of objectives: 2
+  FirstObjective: -28.0
+  SolutionLength: 21.0
+Number of constraints: 0

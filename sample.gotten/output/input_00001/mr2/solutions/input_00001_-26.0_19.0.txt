@@ -1,0 +1,110 @@
+Number of variables: 50
+  Variable[0]: Match for rule 'decNodesPerBoard':
+
+  Variable[1]: Match for rule 'decNodesPerBoard':
+
+  Variable[2]: Match for rule 'decNodesPerBoard':
+
+  Variable[3]: Match for rule 'decNodesPerBoard':
+
+  Variable[4]: Match for rule 'decNodesPerBoard':
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: Match for rule 'decNodesPerBoard':
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decNodesPerBoard':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: Match for rule 'decNumBoards':
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decNumBoards':
+
+  Variable[36]: Match for rule 'decNumBoards':
+
+  Variable[37]: Match for rule 'decNumBoards':
+
+  Variable[38]: Match for rule 'decNumBoards':
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: Match for rule 'decNumBoards':
+
+  Variable[42]: Match for rule 'decNumBoards':
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: Match for rule 'decNumBoards':
+
+  Variable[45]: Match for rule 'decNumBoards':
+
+  Variable[46]: Match for rule 'decNumBoards':
+
+  Variable[47]: Match for rule 'decNumBoards':
+
+  Variable[48]: Match for rule 'decNumBoards':
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -7.0
+  rank: 0
+  Normalized Objectives: [0.6060606060606061, 0.375]
+  crowdingDistance: 0.12310606060606061
+Number of objectives: 2
+  FirstObjective: -26.0
+  SolutionLength: 19.0
+Number of constraints: 0

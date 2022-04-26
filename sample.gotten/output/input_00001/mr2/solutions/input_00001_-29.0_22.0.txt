@@ -1,0 +1,110 @@
+Number of variables: 50
+  Variable[0]: Match for rule 'decNodesPerBoard':
+
+  Variable[1]: Match for rule 'decNodesPerBoard':
+
+  Variable[2]: Match for rule 'decNodesPerBoard':
+
+  Variable[3]: Match for rule 'decNodesPerBoard':
+
+  Variable[4]: Match for rule 'decNodesPerBoard':
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: Match for rule 'decNodesPerBoard':
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decNodesPerBoard':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: Match for rule 'decNumBoards':
+
+  Variable[13]: Match for rule 'decNumBoards':
+
+  Variable[14]: Match for rule 'decNumBoards':
+
+  Variable[15]: Match for rule 'decNumBoards':
+
+  Variable[16]: Match for rule 'decNumBoards':
+
+  Variable[17]: Match for rule 'decNumBoards':
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: Match for rule 'decNumBoards':
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: Match for rule 'decNumBoards':
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: Match for rule 'decNumBoards':
+
+  Variable[42]: Match for rule 'decNumBoards':
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: Match for rule 'decNumBoards':
+
+  Variable[45]: Match for rule 'decNumBoards':
+
+  Variable[46]: Match for rule 'decNumBoards':
+
+  Variable[47]: Match for rule 'decNumBoards':
+
+  Variable[48]: Match for rule 'decNumBoards':
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -7.0
+  rank: 0
+  Normalized Objectives: [0.5151515151515151, 0.46875]
+  crowdingDistance: 0.1846590909090909
+Number of objectives: 2
+  FirstObjective: -29.0
+  SolutionLength: 22.0
+Number of constraints: 0

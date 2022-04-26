@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.0"?>
+
+<!--
+-->
+
+<plugin>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated datac -->
+      <package
+            uri="http://tcinputCloud/1.0"
+            class="tcinputCloud.TcinputCloudPackage"
+            genModel="model/datac.genmodel"/>
+   </extension>
+
+   <extension point="org.eclipse.emf.ecore.generated_package">
+      <!-- @generated workload -->
+      <package
+            uri="http://workloadCloud/1.0"
+            class="workloadCloud.WorkloadCloudPackage"
+            genModel="model/workload.genmodel"/>
+   </extension>
+
+</plugin>

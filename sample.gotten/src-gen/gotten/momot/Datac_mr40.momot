@@ -1,0 +1,106 @@
+package gotten.momot
+
+import at.ac.tuwien.big.momot.^search.^fitness.dimension.TransformationLengthDimension
+import at.ac.tuwien.big.moea.^experiment.executor.listener.SeedRuntimePrintListener
+import tcinputCloud.TcinputCloudPackage
+import tcinputCloud.DataCentre
+import org.eclipse.emf.ecore.EPackage
+import at.ac.tuwien.big.momot.^search.solution.repair.TransformationPlaceholderRepairer
+import org.moeaframework.core.operator.TournamentSelection
+import org.moeaframework.core.operator.OnePointCrossover
+import at.ac.tuwien.big.momot.^search.algorithm.operator.mutation.TransformationPlaceholderMutation
+import at.ac.tuwien.big.momot.^search.algorithm.operator.mutation.TransformationParameterMutation
+import at.ac.tuwien.big.momot.^search.algorithm.operator.mutation.TransformationVariableMutation
+import gotten.momot.FitnessFunctionForDatac_mr4
+import gotten.utils.FollowUpUtils
+import gotten.utils.IOUtils
+
+initialization = {
+	System.out.println("Search started.")
+	System.out.println("Cleaning previous generated models in the same folder...")
+	IOUtils.deleteFolder("C:/eclipse/runtime-EclipseApplication2/sample.gotten/output/input_00001/mr4/models")
+	System.out.println("Clean-up finished.")
+	TcinputCloudPackage.eINSTANCE.class
+}
+
+search = {
+	model          = {
+		file       = "model/initial/dcmodels/input_00001/input_00001.xmi"
+	}
+	solutionLength  = 50
+
+	transformations = {
+		modules = [ "model/datac_mr4.henshin" ]
+		ignoreParameters = [
+			Datac_mr4Module.DecBandwidth.Parameter.X
+		]
+	}
+
+	fitness         = {
+		objectives = {
+			FirstObjective : maximize { FitnessFunctionForDatac_mr4.getNEtworkDistance(root as DataCentre, INITIAL_MODEL) }
+			SolutionLength : minimize new TransformationLengthDimension
+		}
+		solutionRepairer = new TransformationPlaceholderRepairer
+	}
+
+	algorithms      = {
+		Random  : moea.createRandomSearch()
+		NSGAII  : moea.createNSGAII(
+							new TournamentSelection(2),
+							new OnePointCrossover(1.0),
+							new TransformationPlaceholderMutation(0.15), 
+							new TransformationParameterMutation(0.1, orchestration.moduleManager))
+		NSGAIII : moea.createNSGAIII(
+							4,
+							new TournamentSelection(2),
+							new OnePointCrossover(1.0), 
+							new TransformationPlaceholderMutation(0.15),
+							new TransformationParameterMutation(0.1, orchestration.moduleManager))
+		eMOEA : moea.createEpsilonMOEA(
+				0.02,
+				new TournamentSelection(2),
+				new OnePointCrossover(1.0), 
+				new TransformationPlaceholderMutation(0.10),
+				new TransformationVariableMutation(orchestration.searchHelper, 0.10))
+	}
+}
+
+experiment = {
+	populationSize    = 200
+	maxEvaluations    = 40000
+	nrRuns            = 1
+	progressListeners = [ new SeedRuntimePrintListener ]
+}
+
+analysis = {
+	indicators       = [ hypervolume generationalDistance ]
+	significance     = 0.01
+	show             = [ aggregateValues statisticalSignificance individualValues ]
+	outputFile       = "output/input_00001/mr4/analysis/analysis.txt"
+	boxplotDirectory = "output/input_00001/mr4/analysis/"
+	printOutput
+}
+
+results = {
+	objectives = {
+		outputFile      = "output/input_00001/mr4/objectives/objective_values.txt"
+		printOutput
+	}
+
+	solutions  = {
+		outputFile      = "output/input_00001/mr4/solutions/objective_values.txt"
+		outputDirectory = "output/input_00001/mr4/solutions/"
+	}
+
+	models     = {
+		outputDirectory = "output/input_00001/mr4/models/"
+	}
+}
+
+finalization = {
+	System.out.println("Search finished.")
+	System.out.println("Copying found models into Gotten project models path...")
+	FollowUpUtils.copyModels("C:/eclipse/runtime-EclipseApplication2/sample.gotten/output/input_00001/mr4/models", "C:/eclipse/runtime-EclipseApplication2/sample.gotten/model/dcmodels/input_00001/mr4")
+	System.out.println("Copy finished.")
+}

@@ -1,0 +1,11 @@
+followups for datacentre using MR4
+with source path = "/sample.gotten/model/dcmodels"
+and output folder = "/sample.gotten/model/dcmodels"
+
+Network -> decrease [2000] Network.bandwidth keeping {Network.bandwidth > 0}
+
+maximize (Network(m1) - Network(m2))
+
+maxSolutions 50
+iterations 1
+algorithms [Random, NSGAII, NSGAIII, eMOEA]

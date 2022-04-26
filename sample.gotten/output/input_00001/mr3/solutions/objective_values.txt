@@ -1,0 +1,2281 @@
+Population with 20 solution(s):
+
+------------------
+Solution 1/20
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: Match for rule 'decDiskSpeed':
+- node #1 => tcinputCloud.impl.NodeTypeImpl@327bcebd (CPUCores: 2, CPUSpeed: 1000, MEMSpeed: 1600, DiskSpeed: 1)
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: Match for rule 'decDiskSpeed':
+- node #1 => tcinputCloud.impl.NodeTypeImpl@327bcebd (CPUCores: 2, CPUSpeed: 1000, MEMSpeed: 1600, DiskSpeed: 1)
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decDiskSpeed':
+- node #1 => tcinputCloud.impl.NodeTypeImpl@327bcebd (CPUCores: 2, CPUSpeed: 1000, MEMSpeed: 1600, DiskSpeed: 1)
+
+  Variable[8]: Match for rule 'decDiskSpeed':
+- node #1 => tcinputCloud.impl.NodeTypeImpl@327bcebd (CPUCores: 2, CPUSpeed: 1000, MEMSpeed: 1600, DiskSpeed: 1)
+
+  Variable[9]: Match for rule 'decDiskSpeed':
+- node #1 => tcinputCloud.impl.NodeTypeImpl@327bcebd (CPUCores: 2, CPUSpeed: 1000, MEMSpeed: 1600, DiskSpeed: 1)
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: Match for rule 'decDiskSpeed':
+- node #1 => tcinputCloud.impl.NodeTypeImpl@327bcebd (CPUCores: 2, CPUSpeed: 1000, MEMSpeed: 1600, DiskSpeed: 1)
+
+  Variable[12]: Match for rule 'decDiskSpeed':
+- node #1 => tcinputCloud.impl.NodeTypeImpl@327bcebd (CPUCores: 2, CPUSpeed: 1000, MEMSpeed: 1600, DiskSpeed: 1)
+
+  Variable[13]: Match for rule 'decDiskSpeed':
+- node #1 => tcinputCloud.impl.NodeTypeImpl@327bcebd (CPUCores: 2, CPUSpeed: 1000, MEMSpeed: 1600, DiskSpeed: 1)
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: Match for rule 'decDiskSpeed':
+- node #1 => tcinputCloud.impl.NodeTypeImpl@327bcebd (CPUCores: 2, CPUSpeed: 1000, MEMSpeed: 1600, DiskSpeed: 1)
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: Match for rule 'decDiskSpeed':
+- node #1 => tcinputCloud.impl.NodeTypeImpl@327bcebd (CPUCores: 2, CPUSpeed: 1000, MEMSpeed: 1600, DiskSpeed: 1)
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decDiskSpeed':
+- node #1 => tcinputCloud.impl.NodeTypeImpl@327bcebd (CPUCores: 2, CPUSpeed: 1000, MEMSpeed: 1600, DiskSpeed: 1)
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: Match for rule 'decDiskSpeed':
+- node #1 => tcinputCloud.impl.NodeTypeImpl@327bcebd (CPUCores: 2, CPUSpeed: 1000, MEMSpeed: 1600, DiskSpeed: 1)
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: Match for rule 'decDiskSpeed':
+- node #1 => tcinputCloud.impl.NodeTypeImpl@327bcebd (CPUCores: 2, CPUSpeed: 1000, MEMSpeed: 1600, DiskSpeed: 1)
+
+  Variable[31]: Match for rule 'decDiskSpeed':
+- node #1 => tcinputCloud.impl.NodeTypeImpl@327bcebd (CPUCores: 2, CPUSpeed: 1000, MEMSpeed: 1600, DiskSpeed: 1)
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: Match for rule 'decDiskSpeed':
+- node #1 => tcinputCloud.impl.NodeTypeImpl@327bcebd (CPUCores: 2, CPUSpeed: 1000, MEMSpeed: 1600, DiskSpeed: 1)
+
+  Variable[35]: Match for rule 'decDiskSpeed':
+- node #1 => tcinputCloud.impl.NodeTypeImpl@327bcebd (CPUCores: 2, CPUSpeed: 1000, MEMSpeed: 1600, DiskSpeed: 1)
+
+  Variable[36]: Match for rule 'decDiskSpeed':
+- node #1 => tcinputCloud.impl.NodeTypeImpl@327bcebd (CPUCores: 2, CPUSpeed: 1000, MEMSpeed: 1600, DiskSpeed: 1)
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: Match for rule 'decDiskSpeed':
+- node #1 => tcinputCloud.impl.NodeTypeImpl@327bcebd (CPUCores: 2, CPUSpeed: 1000, MEMSpeed: 1600, DiskSpeed: 1)
+
+  Variable[39]: Match for rule 'decDiskSpeed':
+- node #1 => tcinputCloud.impl.NodeTypeImpl@327bcebd (CPUCores: 2, CPUSpeed: 1000, MEMSpeed: 1600, DiskSpeed: 1)
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 1
+  AggregatedFitness: 0.0
+Number of objectives: 2
+  FirstObjective: -19.0
+  SolutionLength: 19.0
+Number of constraints: 0
+
+------------------
+Solution 2/20
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decDiskSpeed':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decDiskSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: Match for rule 'decDiskSpeed':
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 3
+  AggregatedFitness: 0.0
+  rank: 0
+  crowdingDistance: Infinity
+Number of objectives: 2
+  FirstObjective: -3.0
+  SolutionLength: 3.0
+Number of constraints: 0
+
+------------------
+Solution 3/20
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decDiskSpeed':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decDiskSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: Match for rule 'decDiskSpeed':
+
+  Variable[26]: Match for rule 'decDiskSpeed':
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 3
+  AggregatedFitness: 0.0
+  rank: 0
+  crowdingDistance: 0.25
+Number of objectives: 2
+  FirstObjective: -4.0
+  SolutionLength: 4.0
+Number of constraints: 0
+
+------------------
+Solution 4/20
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: Match for rule 'decDiskSpeed':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: Match for rule 'decDiskSpeed':
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decDiskSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: Match for rule 'decDiskSpeed':
+
+  Variable[26]: Match for rule 'decDiskSpeed':
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 3
+  AggregatedFitness: 0.0
+  rank: 0
+  crowdingDistance: 0.25
+Number of objectives: 2
+  FirstObjective: -5.0
+  SolutionLength: 5.0
+Number of constraints: 0
+
+------------------
+Solution 5/20
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decDiskSpeed':
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: Match for rule 'decDiskSpeed':
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: Match for rule 'decDiskSpeed':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: Match for rule 'decDiskSpeed':
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decDiskSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: Match for rule 'decDiskSpeed':
+
+  Variable[26]: Match for rule 'decDiskSpeed':
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 3
+  AggregatedFitness: 0.0
+  rank: 0
+  crowdingDistance: 0.25
+Number of objectives: 2
+  FirstObjective: -7.0
+  SolutionLength: 7.0
+Number of constraints: 0
+
+------------------
+Solution 6/20
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decDiskSpeed':
+
+  Variable[1]: Match for rule 'decDiskSpeed':
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: Match for rule 'decDiskSpeed':
+
+  Variable[5]: Match for rule 'decDiskSpeed':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decDiskSpeed':
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decDiskSpeed':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decDiskSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: Match for rule 'decDiskSpeed':
+
+  Variable[26]: Match for rule 'decDiskSpeed':
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 3
+  AggregatedFitness: 0.0
+  rank: 0
+  crowdingDistance: 0.25
+Number of objectives: 2
+  FirstObjective: -9.0
+  SolutionLength: 9.0
+Number of constraints: 0
+
+------------------
+Solution 7/20
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decDiskSpeed':
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decDiskSpeed':
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decDiskSpeed':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: Match for rule 'decDiskSpeed':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: Match for rule 'decDiskSpeed':
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: Match for rule 'decDiskSpeed':
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: Match for rule 'decDiskSpeed':
+
+  Variable[22]: Match for rule 'decDiskSpeed':
+
+  Variable[23]: Match for rule 'decDiskSpeed':
+
+  Variable[24]: Match for rule 'decDiskSpeed':
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: Match for rule 'decDiskSpeed':
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 3
+  AggregatedFitness: 0.0
+  rank: 0
+  crowdingDistance: 0.25
+Number of objectives: 2
+  FirstObjective: -11.0
+  SolutionLength: 11.0
+Number of constraints: 0
+
+------------------
+Solution 8/20
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decDiskSpeed':
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: Match for rule 'decDiskSpeed':
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: Match for rule 'decDiskSpeed':
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: Match for rule 'decDiskSpeed':
+
+  Variable[9]: Match for rule 'decDiskSpeed':
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: Match for rule 'decDiskSpeed':
+
+  Variable[14]: Match for rule 'decDiskSpeed':
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: Match for rule 'decDiskSpeed':
+
+  Variable[17]: Match for rule 'decDiskSpeed':
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decDiskSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: Match for rule 'decDiskSpeed':
+
+  Variable[26]: Match for rule 'decDiskSpeed':
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 3
+  AggregatedFitness: 0.0
+  rank: 0
+  crowdingDistance: 0.25
+Number of objectives: 2
+  FirstObjective: -12.0
+  SolutionLength: 12.0
+Number of constraints: 0
+
+------------------
+Solution 9/20
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decDiskSpeed':
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: Match for rule 'decDiskSpeed':
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: Match for rule 'decDiskSpeed':
+
+  Variable[6]: Match for rule 'decDiskSpeed':
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: Match for rule 'decDiskSpeed':
+
+  Variable[9]: Match for rule 'decDiskSpeed':
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: Match for rule 'decDiskSpeed':
+
+  Variable[14]: Match for rule 'decDiskSpeed':
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: Match for rule 'decDiskSpeed':
+
+  Variable[17]: Match for rule 'decDiskSpeed':
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decDiskSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: Match for rule 'decDiskSpeed':
+
+  Variable[26]: Match for rule 'decDiskSpeed':
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 3
+  AggregatedFitness: 0.0
+  rank: 0
+  crowdingDistance: 0.25
+Number of objectives: 2
+  FirstObjective: -13.0
+  SolutionLength: 13.0
+Number of constraints: 0
+
+------------------
+Solution 10/20
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: Match for rule 'decDiskSpeed':
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: Match for rule 'decDiskSpeed':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: Match for rule 'decDiskSpeed':
+
+  Variable[9]: Match for rule 'decDiskSpeed':
+
+  Variable[10]: Match for rule 'decDiskSpeed':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: Match for rule 'decDiskSpeed':
+
+  Variable[15]: Match for rule 'decDiskSpeed':
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: Match for rule 'decDiskSpeed':
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: Match for rule 'decDiskSpeed':
+
+  Variable[25]: Match for rule 'decDiskSpeed':
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: Match for rule 'decDiskSpeed':
+
+  Variable[30]: Match for rule 'decDiskSpeed':
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: Match for rule 'decDiskSpeed':
+
+  Variable[34]: Match for rule 'decDiskSpeed':
+
+  Variable[35]: Match for rule 'decDiskSpeed':
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 3
+  AggregatedFitness: 0.0
+  rank: 0
+  crowdingDistance: 0.25
+Number of objectives: 2
+  FirstObjective: -15.0
+  SolutionLength: 15.0
+Number of constraints: 0
+
+------------------
+Solution 11/20
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: Match for rule 'decDiskSpeed':
+
+  Variable[3]: Match for rule 'decDiskSpeed':
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decDiskSpeed':
+
+  Variable[8]: Match for rule 'decDiskSpeed':
+
+  Variable[9]: Match for rule 'decDiskSpeed':
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: Match for rule 'decDiskSpeed':
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decDiskSpeed':
+
+  Variable[21]: Match for rule 'decDiskSpeed':
+
+  Variable[22]: Match for rule 'decDiskSpeed':
+
+  Variable[23]: Match for rule 'decDiskSpeed':
+
+  Variable[24]: Match for rule 'decDiskSpeed':
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: Match for rule 'decDiskSpeed':
+
+  Variable[27]: Match for rule 'decDiskSpeed':
+
+  Variable[28]: Match for rule 'decDiskSpeed':
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: Match for rule 'decDiskSpeed':
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: Match for rule 'decDiskSpeed':
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: Match for rule 'decDiskSpeed':
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 3
+  AggregatedFitness: 0.0
+  rank: 0
+  crowdingDistance: 0.25
+Number of objectives: 2
+  FirstObjective: -17.0
+  SolutionLength: 17.0
+Number of constraints: 0
+
+------------------
+Solution 12/20
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decDiskSpeed':
+
+  Variable[1]: Match for rule 'decDiskSpeed':
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: Match for rule 'decDiskSpeed':
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: Match for rule 'decDiskSpeed':
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: Match for rule 'decDiskSpeed':
+
+  Variable[10]: Match for rule 'decDiskSpeed':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: Match for rule 'decDiskSpeed':
+
+  Variable[14]: Match for rule 'decDiskSpeed':
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decDiskSpeed':
+
+  Variable[21]: Match for rule 'decDiskSpeed':
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: Match for rule 'decDiskSpeed':
+
+  Variable[24]: Match for rule 'decDiskSpeed':
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: Match for rule 'decDiskSpeed':
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: Match for rule 'decDiskSpeed':
+
+  Variable[30]: Match for rule 'decDiskSpeed':
+
+  Variable[31]: Match for rule 'decDiskSpeed':
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 3
+  AggregatedFitness: 0.0
+  rank: 0
+  crowdingDistance: 0.25
+Number of objectives: 2
+  FirstObjective: -16.0
+  SolutionLength: 16.0
+Number of constraints: 0
+
+------------------
+Solution 13/20
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decDiskSpeed':
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: Match for rule 'decDiskSpeed':
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: Match for rule 'decDiskSpeed':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: Match for rule 'decDiskSpeed':
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: Match for rule 'decDiskSpeed':
+
+  Variable[14]: Match for rule 'decDiskSpeed':
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: Match for rule 'decDiskSpeed':
+
+  Variable[17]: Match for rule 'decDiskSpeed':
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: Match for rule 'decDiskSpeed':
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: Match for rule 'decDiskSpeed':
+
+  Variable[24]: Match for rule 'decDiskSpeed':
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: Match for rule 'decDiskSpeed':
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: Match for rule 'decDiskSpeed':
+
+  Variable[29]: Match for rule 'decDiskSpeed':
+
+  Variable[30]: Match for rule 'decDiskSpeed':
+
+  Variable[31]: Match for rule 'decDiskSpeed':
+
+  Variable[32]: Match for rule 'decDiskSpeed':
+
+  Variable[33]: Match for rule 'decDiskSpeed':
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 3
+  AggregatedFitness: 0.0
+  rank: 0
+  crowdingDistance: 0.25
+Number of objectives: 2
+  FirstObjective: -18.0
+  SolutionLength: 18.0
+Number of constraints: 0
+
+------------------
+Solution 14/20
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: Match for rule 'decDiskSpeed':
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: Match for rule 'decDiskSpeed':
+
+  Variable[10]: Match for rule 'decDiskSpeed':
+
+  Variable[11]: Match for rule 'decDiskSpeed':
+
+  Variable[12]: Match for rule 'decDiskSpeed':
+
+  Variable[13]: Match for rule 'decDiskSpeed':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: Match for rule 'decDiskSpeed':
+
+  Variable[17]: Match for rule 'decDiskSpeed':
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: Match for rule 'decDiskSpeed':
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: Match for rule 'decDiskSpeed':
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: Match for rule 'decDiskSpeed':
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: Match for rule 'decDiskSpeed':
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: Match for rule 'decDiskSpeed':
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: Match for rule 'decDiskSpeed':
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 3
+  AggregatedFitness: 0.0
+  rank: 0
+  crowdingDistance: 0.25
+Number of objectives: 2
+  FirstObjective: -14.0
+  SolutionLength: 14.0
+Number of constraints: 0
+
+------------------
+Solution 15/20
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decDiskSpeed':
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: Match for rule 'decDiskSpeed':
+
+  Variable[4]: Match for rule 'decDiskSpeed':
+
+  Variable[5]: Match for rule 'decDiskSpeed':
+
+  Variable[6]: Match for rule 'decDiskSpeed':
+
+  Variable[7]: Match for rule 'decDiskSpeed':
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decDiskSpeed':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decDiskSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: Match for rule 'decDiskSpeed':
+
+  Variable[26]: Match for rule 'decDiskSpeed':
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 3
+  AggregatedFitness: 0.0
+  rank: 0
+  crowdingDistance: 0.25
+Number of objectives: 2
+  FirstObjective: -10.0
+  SolutionLength: 10.0
+Number of constraints: 0
+
+------------------
+Solution 16/20
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decDiskSpeed':
+
+  Variable[1]: Match for rule 'decDiskSpeed':
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: Match for rule 'decDiskSpeed':
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: Match for rule 'decDiskSpeed':
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decDiskSpeed':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decDiskSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: Match for rule 'decDiskSpeed':
+
+  Variable[26]: Match for rule 'decDiskSpeed':
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 3
+  AggregatedFitness: 0.0
+  rank: 0
+  crowdingDistance: 0.25
+Number of objectives: 2
+  FirstObjective: -8.0
+  SolutionLength: 8.0
+Number of constraints: 0
+
+------------------
+Solution 17/20
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decDiskSpeed':
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decDiskSpeed':
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decDiskSpeed':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decDiskSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: Match for rule 'decDiskSpeed':
+
+  Variable[26]: Match for rule 'decDiskSpeed':
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 3
+  AggregatedFitness: 0.0
+  rank: 0
+  crowdingDistance: 0.25
+Number of objectives: 2
+  FirstObjective: -6.0
+  SolutionLength: 6.0
+Number of constraints: 0
+
+------------------
+Solution 18/20
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: 0.0
+  rank: 0
+  Normalized Objectives: [1.0, 0.0]
+  crowdingDistance: Infinity
+Number of objectives: 2
+  FirstObjective: -0.0
+  SolutionLength: 0.0
+Number of constraints: 0
+
+------------------
+Solution 19/20
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: Match for rule 'decDiskSpeed':
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: 0.0
+  rank: 0
+  Normalized Objectives: [0.9473684210526315, 0.05263157894736842]
+  crowdingDistance: 0.21052631578947367
+Number of objectives: 2
+  FirstObjective: -1.0
+  SolutionLength: 1.0
+Number of constraints: 0
+
+------------------
+Solution 20/20
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: Match for rule 'decDiskSpeed':
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: Match for rule 'decDiskSpeed':
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: 0.0
+  rank: 0
+  Normalized Objectives: [0.8947368421052632, 0.10526315789473684]
+  crowdingDistance: 0.21052631578947367
+Number of objectives: 2
+  FirstObjective: -2.0
+  SolutionLength: 2.0
+Number of constraints: 0

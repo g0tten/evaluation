@@ -1,0 +1,103 @@
+package gotten.momot
+
+import at.ac.tuwien.big.momot.^search.^fitness.dimension.TransformationLengthDimension
+import at.ac.tuwien.big.moea.^experiment.executor.listener.SeedRuntimePrintListener
+import workloadCloud.WorkloadCloudPackage
+import workloadCloud.WorkloadSet
+import org.eclipse.emf.ecore.EPackage
+import at.ac.tuwien.big.momot.^search.solution.repair.TransformationPlaceholderRepairer
+import org.moeaframework.core.operator.TournamentSelection
+import org.moeaframework.core.operator.OnePointCrossover
+import at.ac.tuwien.big.momot.^search.algorithm.operator.mutation.TransformationPlaceholderMutation
+import at.ac.tuwien.big.momot.^search.algorithm.operator.mutation.TransformationParameterMutation
+import at.ac.tuwien.big.momot.^search.algorithm.operator.mutation.TransformationVariableMutation
+import gotten.momot.FitnessFunctionForWorkload_mr6
+import gotten.utils.FollowUpUtils
+import gotten.utils.IOUtils
+
+initialization = {
+	System.out.println("Search started.")
+	System.out.println("Cleaning previous generated models in the same folder...")
+	IOUtils.deleteFolder("C:/eclipse/runtime-EclipseApplication2/sample.gotten/output/workload_00001/mr6/models")
+	System.out.println("Clean-up finished.")
+	WorkloadCloudPackage.eINSTANCE.class
+}
+
+search = {
+	model          = {
+		file       = "model/initial/workloads/workload_00001/workload_00001.xmi"
+	}
+	solutionLength  = 50
+
+	transformations = {
+		modules = [ "model/workload_mr6.henshin" ]
+	}
+
+	fitness         = {
+		objectives = {
+			FirstObjective : maximize { FitnessFunctionForWorkload_mr6.getWOrkloadDistance(root as WorkloadSet, INITIAL_MODEL) }
+			SolutionLength : minimize new TransformationLengthDimension
+		}
+		solutionRepairer = new TransformationPlaceholderRepairer
+	}
+
+	algorithms      = {
+		Random  : moea.createRandomSearch()
+		NSGAII  : moea.createNSGAII(
+							new TournamentSelection(2),
+							new OnePointCrossover(1.0),
+							new TransformationPlaceholderMutation(0.15), 
+							new TransformationParameterMutation(0.1, orchestration.moduleManager))
+		NSGAIII : moea.createNSGAIII(
+							4,
+							new TournamentSelection(2),
+							new OnePointCrossover(1.0), 
+							new TransformationPlaceholderMutation(0.15),
+							new TransformationParameterMutation(0.1, orchestration.moduleManager))
+		eMOEA : moea.createEpsilonMOEA(
+				0.02,
+				new TournamentSelection(2),
+				new OnePointCrossover(1.0), 
+				new TransformationPlaceholderMutation(0.10),
+				new TransformationVariableMutation(orchestration.searchHelper, 0.10))
+	}
+}
+
+experiment = {
+	populationSize    = 200
+	maxEvaluations    = 40000
+	nrRuns            = 1
+	progressListeners = [ new SeedRuntimePrintListener ]
+}
+
+analysis = {
+	indicators       = [ hypervolume generationalDistance ]
+	significance     = 0.01
+	show             = [ aggregateValues statisticalSignificance individualValues ]
+	outputFile       = "output/workload_00001/mr6/analysis/analysis.txt"
+	boxplotDirectory = "output/workload_00001/mr6/analysis/"
+	printOutput
+}
+
+results = {
+	objectives = {
+		outputFile      = "output/workload_00001/mr6/objectives/objective_values.txt"
+		printOutput
+	}
+
+	solutions  = {
+		outputFile      = "output/workload_00001/mr6/solutions/objective_values.txt"
+		outputDirectory = "output/workload_00001/mr6/solutions/"
+	}
+
+	models     = {
+		outputDirectory = "output/workload_00001/mr6/models/"
+	}
+}
+
+finalization = {
+	System.out.println("Search finished.")
+	System.out.println("Copying found models into Gotten project models path...")
+	FollowUpUtils.copyModels("C:/eclipse/runtime-EclipseApplication2/sample.gotten/output/workload_00001/mr6/models", "C:/eclipse/runtime-EclipseApplication2/sample.gotten/model/workloads/workload_00001/mr6")
+	System.out.println("Copy finished.")
+}

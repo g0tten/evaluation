@@ -1,0 +1,14 @@
+followups for datacentre using MR2
+with source path = "/sample.gotten/model/dcmodels"
+and output folder = "/sample.gotten/model/dcmodels"
+
+NMachines -> decrease [1] Rack.numBoards keeping {Rack.numBoards > 0};
+			 decrease [2] Board.nodesPerBoard keeping {Board.nodesPerBoard > 0};
+		  	 decrease [1] NodeType.CPUCores keeping {NodeType.CPUCores > 0}
+
+maximize (NMachines(m1) - NMachines(m2))
+
+maxSolutions 50
+iterations 1
+algorithms [Random, NSGAII, NSGAIII, eMOEA]
+

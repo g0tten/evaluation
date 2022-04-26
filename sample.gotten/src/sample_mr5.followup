@@ -1,0 +1,12 @@
+followups for datacentre using MR5
+with source path = "/sample.gotten/model/dcmodels"
+and output folder = "/sample.gotten/model/dcmodels"
+
+Memory -> decrease [30] NodeType.MEMSpeed keeping {NodeType.MEMSpeed > 0}
+
+
+maximize (Memory(m1) - Memory(m2))
+
+maxSolutions 50
+iterations 1
+algorithms [Random, NSGAII, NSGAIII, eMOEA]

@@ -1,0 +1,3556 @@
+Population with 31 solution(s):
+
+------------------
+Solution 1/31
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decNodesPerBoard':
+- node #1 => tcinputCloud.impl.BoardImpl@3f91b517 (nodesPerBoard: 2)
+
+  Variable[1]: Match for rule 'decCPUCores':
+- node #1 => tcinputCloud.impl.NodeTypeImpl@7a220c9a (CPUCores: 1, CPUSpeed: 1000, MEMSpeed: 1600, DiskSpeed: 20)
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: Match for rule 'decNumBoards':
+- node #1 => tcinputCloud.impl.RackImpl@7164ca4c (numBoards: 1)
+
+  Variable[4]: Match for rule 'decNumBoards':
+- node #1 => tcinputCloud.impl.RackImpl@7164ca4c (numBoards: 1)
+
+  Variable[5]: Match for rule 'decNodesPerBoard':
+- node #1 => tcinputCloud.impl.BoardImpl@3f91b517 (nodesPerBoard: 2)
+
+  Variable[6]: Match for rule 'decNodesPerBoard':
+- node #1 => tcinputCloud.impl.BoardImpl@3f91b517 (nodesPerBoard: 2)
+
+  Variable[7]: Match for rule 'decNumBoards':
+- node #1 => tcinputCloud.impl.RackImpl@7164ca4c (numBoards: 1)
+
+  Variable[8]: Match for rule 'decNodesPerBoard':
+- node #1 => tcinputCloud.impl.BoardImpl@3f91b517 (nodesPerBoard: 2)
+
+  Variable[9]: Match for rule 'decNumBoards':
+- node #1 => tcinputCloud.impl.RackImpl@7164ca4c (numBoards: 1)
+
+  Variable[10]: Match for rule 'decNodesPerBoard':
+- node #1 => tcinputCloud.impl.BoardImpl@3f91b517 (nodesPerBoard: 2)
+
+  Variable[11]: Match for rule 'decNumBoards':
+- node #1 => tcinputCloud.impl.RackImpl@7164ca4c (numBoards: 1)
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: Match for rule 'decNodesPerBoard':
+- node #1 => tcinputCloud.impl.BoardImpl@3f91b517 (nodesPerBoard: 2)
+
+  Variable[14]: Match for rule 'decNumBoards':
+- node #1 => tcinputCloud.impl.RackImpl@7164ca4c (numBoards: 1)
+
+  Variable[15]: Match for rule 'decNodesPerBoard':
+- node #1 => tcinputCloud.impl.BoardImpl@3f91b517 (nodesPerBoard: 2)
+
+  Variable[16]: Match for rule 'decNumBoards':
+- node #1 => tcinputCloud.impl.RackImpl@7164ca4c (numBoards: 1)
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: Match for rule 'decNumBoards':
+- node #1 => tcinputCloud.impl.RackImpl@7164ca4c (numBoards: 1)
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decNumBoards':
+- node #1 => tcinputCloud.impl.RackImpl@7164ca4c (numBoards: 1)
+
+  Variable[21]: Match for rule 'decNumBoards':
+- node #1 => tcinputCloud.impl.RackImpl@7164ca4c (numBoards: 1)
+
+  Variable[22]: Match for rule 'decNumBoards':
+- node #1 => tcinputCloud.impl.RackImpl@7164ca4c (numBoards: 1)
+
+  Variable[23]: Match for rule 'decNumBoards':
+- node #1 => tcinputCloud.impl.RackImpl@7164ca4c (numBoards: 1)
+
+  Variable[24]: Match for rule 'decNumBoards':
+- node #1 => tcinputCloud.impl.RackImpl@7164ca4c (numBoards: 1)
+
+  Variable[25]: Match for rule 'decNumBoards':
+- node #1 => tcinputCloud.impl.RackImpl@7164ca4c (numBoards: 1)
+
+  Variable[26]: Match for rule 'decNumBoards':
+- node #1 => tcinputCloud.impl.RackImpl@7164ca4c (numBoards: 1)
+
+  Variable[27]: Match for rule 'decNumBoards':
+- node #1 => tcinputCloud.impl.RackImpl@7164ca4c (numBoards: 1)
+
+  Variable[28]: Match for rule 'decNumBoards':
+- node #1 => tcinputCloud.impl.RackImpl@7164ca4c (numBoards: 1)
+
+  Variable[29]: Match for rule 'decNumBoards':
+- node #1 => tcinputCloud.impl.RackImpl@7164ca4c (numBoards: 1)
+
+  Variable[30]: Match for rule 'decNumBoards':
+- node #1 => tcinputCloud.impl.RackImpl@7164ca4c (numBoards: 1)
+
+  Variable[31]: Match for rule 'decNumBoards':
+- node #1 => tcinputCloud.impl.RackImpl@7164ca4c (numBoards: 1)
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: Match for rule 'decNumBoards':
+- node #1 => tcinputCloud.impl.RackImpl@7164ca4c (numBoards: 1)
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decNumBoards':
+- node #1 => tcinputCloud.impl.RackImpl@7164ca4c (numBoards: 1)
+
+  Variable[36]: Match for rule 'decNumBoards':
+- node #1 => tcinputCloud.impl.RackImpl@7164ca4c (numBoards: 1)
+
+  Variable[37]: Match for rule 'decNumBoards':
+- node #1 => tcinputCloud.impl.RackImpl@7164ca4c (numBoards: 1)
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: Match for rule 'decNumBoards':
+- node #1 => tcinputCloud.impl.RackImpl@7164ca4c (numBoards: 1)
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: Match for rule 'decNumBoards':
+- node #1 => tcinputCloud.impl.RackImpl@7164ca4c (numBoards: 1)
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: Match for rule 'decNumBoards':
+- node #1 => tcinputCloud.impl.RackImpl@7164ca4c (numBoards: 1)
+
+  Variable[46]: Match for rule 'decNumBoards':
+- node #1 => tcinputCloud.impl.RackImpl@7164ca4c (numBoards: 1)
+
+  Variable[47]: Match for rule 'decNumBoards':
+- node #1 => tcinputCloud.impl.RackImpl@7164ca4c (numBoards: 1)
+
+  Variable[48]: Match for rule 'decNumBoards':
+- node #1 => tcinputCloud.impl.RackImpl@7164ca4c (numBoards: 1)
+
+  Variable[49]: Match for rule 'decNumBoards':
+- node #1 => tcinputCloud.impl.RackImpl@7164ca4c (numBoards: 1)
+
+Number of attributes: 1
+  AggregatedFitness: -7.0
+Number of objectives: 2
+  FirstObjective: -46.0
+  SolutionLength: 39.0
+Number of constraints: 0
+
+------------------
+Solution 2/31
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decNodesPerBoard':
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: Match for rule 'decNodesPerBoard':
+
+  Variable[3]: Match for rule 'decNodesPerBoard':
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: Match for rule 'decNodesPerBoard':
+
+  Variable[6]: Match for rule 'decNodesPerBoard':
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: Match for rule 'decNodesPerBoard':
+
+  Variable[9]: Match for rule 'decNodesPerBoard':
+
+  Variable[10]: Match for rule 'decNumBoards':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: Match for rule 'decNumBoards':
+
+  Variable[16]: Match for rule 'decNumBoards':
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: Match for rule 'decNumBoards':
+
+  Variable[22]: Match for rule 'decNumBoards':
+
+  Variable[23]: Match for rule 'decNumBoards':
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: Match for rule 'decNumBoards':
+
+  Variable[27]: Match for rule 'decNumBoards':
+
+  Variable[28]: Match for rule 'decNumBoards':
+
+  Variable[29]: Match for rule 'decNumBoards':
+
+  Variable[30]: Match for rule 'decNumBoards':
+
+  Variable[31]: Match for rule 'decNumBoards':
+
+  Variable[32]: Match for rule 'decNumBoards':
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: Match for rule 'decNumBoards':
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: Match for rule 'decNumBoards':
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: Match for rule 'decNumBoards':
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: Match for rule 'decNumBoards':
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: Match for rule 'decNumBoards':
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 3
+  AggregatedFitness: -7.0
+  rank: 0
+  crowdingDistance: 0.30147058823529416
+Number of objectives: 2
+  FirstObjective: -32.0
+  SolutionLength: 25.0
+Number of constraints: 0
+
+------------------
+Solution 3/31
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decNodesPerBoard':
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: Match for rule 'decNodesPerBoard':
+
+  Variable[3]: Match for rule 'decNodesPerBoard':
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: Match for rule 'decNodesPerBoard':
+
+  Variable[6]: Match for rule 'decNodesPerBoard':
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: Match for rule 'decNodesPerBoard':
+
+  Variable[9]: Match for rule 'decNodesPerBoard':
+
+  Variable[10]: Match for rule 'decNumBoards':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: Match for rule 'decNumBoards':
+
+  Variable[16]: Match for rule 'decNumBoards':
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: Match for rule 'decNumBoards':
+
+  Variable[22]: Match for rule 'decNumBoards':
+
+  Variable[23]: Match for rule 'decNumBoards':
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: Match for rule 'decNumBoards':
+
+  Variable[26]: Match for rule 'decNumBoards':
+
+  Variable[27]: Match for rule 'decNumBoards':
+
+  Variable[28]: Match for rule 'decNumBoards':
+
+  Variable[29]: Match for rule 'decNumBoards':
+
+  Variable[30]: Match for rule 'decNumBoards':
+
+  Variable[31]: Match for rule 'decNumBoards':
+
+  Variable[32]: Match for rule 'decNumBoards':
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: Match for rule 'decNumBoards':
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: Match for rule 'decNumBoards':
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: Match for rule 'decNumBoards':
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: Match for rule 'decNumBoards':
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: Match for rule 'decNumBoards':
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 3
+  AggregatedFitness: -7.0
+  rank: 0
+  crowdingDistance: 0.2426470588235294
+Number of objectives: 2
+  FirstObjective: -33.0
+  SolutionLength: 26.0
+Number of constraints: 0
+
+------------------
+Solution 4/31
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: Match for rule 'decNumBoards':
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: Match for rule 'decNumBoards':
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: Match for rule 'decNumBoards':
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: Match for rule 'decNumBoards':
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: Match for rule 'decNumBoards':
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 1
+  AggregatedFitness: -10.0
+Number of objectives: 2
+  FirstObjective: -15.0
+  SolutionLength: 5.0
+Number of constraints: 0
+
+------------------
+Solution 5/31
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decNumBoards':
+
+  Variable[1]: Match for rule 'decNodesPerBoard':
+
+  Variable[2]: Match for rule 'decNumBoards':
+
+  Variable[3]: Match for rule 'decNodesPerBoard':
+
+  Variable[4]: Match for rule 'decNodesPerBoard':
+
+  Variable[5]: Match for rule 'decNodesPerBoard':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+  
+  Variable[18]: Match for rule 'decNodesPerBoard':
+
+  Variable[19]: Match for rule 'decNodesPerBoard':
+
+  Variable[20]: Match for rule 'decNumBoards':
+
+  Variable[21]: Match for rule 'decNodesPerBoard':
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: Match for rule 'decNumBoards':
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decNodesPerBoard':
+
+  Variable[47]: Match for rule 'decNumBoards':
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 3
+  AggregatedFitness: 0.0
+  rank: 0
+  Normalized Objectives: [0.6363636363636364, 0.36363636363636365]
+  crowdingDistance: 0.36363636363636365
+Number of objectives: 2
+  FirstObjective: -13.0
+  SolutionLength: 13.0
+Number of constraints: 0
+
+------------------
+Solution 6/31
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: Match for rule 'decNodesPerBoard':
+
+  Variable[3]: Match for rule 'decNodesPerBoard':
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: Match for rule 'decNumBoards':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decCPUCores':
+
+  Variable[8]: Match for rule 'decNodesPerBoard':
+
+  Variable[9]: Match for rule 'decNodesPerBoard':
+
+  Variable[10]: Match for rule 'decNumBoards':
+
+  Variable[11]: Match for rule 'decNodesPerBoard':
+
+  Variable[12]: Match for rule 'decNodesPerBoard':
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: Match for rule 'decNumBoards':
+
+  Variable[16]: Match for rule 'decNumBoards':
+
+  Variable[17]: Match for rule 'decNodesPerBoard':
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: Match for rule 'decNumBoards':
+
+  Variable[22]: Match for rule 'decNumBoards':
+
+  Variable[23]: Match for rule 'decNumBoards':
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: Match for rule 'decNumBoards':
+
+  Variable[26]: Match for rule 'decNumBoards':
+
+  Variable[27]: Match for rule 'decNumBoards':
+
+  Variable[28]: Match for rule 'decNumBoards':
+
+  Variable[29]: Match for rule 'decNumBoards':
+
+  Variable[30]: Match for rule 'decNumBoards':
+
+  Variable[31]: Match for rule 'decNumBoards':
+
+  Variable[32]: Match for rule 'decNumBoards':
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: Match for rule 'decNumBoards':
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: Match for rule 'decNumBoards':
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: Match for rule 'decNumBoards':
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: Match for rule 'decNumBoards':
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: Match for rule 'decNumBoards':
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: Match for rule 'decNumBoards':
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 3
+  AggregatedFitness: -7.0
+  rank: 0
+  crowdingDistance: 0.2426470588235294
+Number of objectives: 2
+  FirstObjective: -36.0
+  SolutionLength: 29.0
+Number of constraints: 0
+
+------------------
+Solution 7/31
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decCPUCores':
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: Match for rule 'decNodesPerBoard':
+
+  Variable[5]: Match for rule 'decNodesPerBoard':
+
+  Variable[6]: Match for rule 'decNodesPerBoard':
+
+  Variable[7]: Match for rule 'decNodesPerBoard':
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: Match for rule 'decNodesPerBoard':
+
+  Variable[10]: Match for rule 'decNumBoards':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: Match for rule 'decNodesPerBoard':
+
+  Variable[13]: Match for rule 'decNumBoards':
+
+  Variable[14]: Match for rule 'decNumBoards':
+
+  Variable[15]: Match for rule 'decNumBoards':
+
+  Variable[16]: Match for rule 'decNumBoards':
+
+  Variable[17]: Match for rule 'decNodesPerBoard':
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: Match for rule 'decNumBoards':
+
+  Variable[22]: Match for rule 'decNumBoards':
+
+  Variable[23]: Match for rule 'decNumBoards':
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: Match for rule 'decNumBoards':
+
+  Variable[26]: Match for rule 'decNumBoards':
+
+  Variable[27]: Match for rule 'decNumBoards':
+
+  Variable[28]: Match for rule 'decNumBoards':
+
+  Variable[29]: Match for rule 'decNumBoards':
+
+  Variable[30]: Match for rule 'decNumBoards':
+
+  Variable[31]: Match for rule 'decNumBoards':
+
+  Variable[32]: Match for rule 'decNumBoards':
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: Match for rule 'decNumBoards':
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: Match for rule 'decNumBoards':
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: Match for rule 'decNumBoards':
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: Match for rule 'decNumBoards':
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: Match for rule 'decNumBoards':
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: Match for rule 'decNumBoards':
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 3
+  AggregatedFitness: -7.0
+  rank: 0
+  crowdingDistance: 0.2426470588235294
+Number of objectives: 2
+  FirstObjective: -37.0
+  SolutionLength: 30.0
+Number of constraints: 0
+
+------------------
+Solution 8/31
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decCPUCores':
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: Match for rule 'decNodesPerBoard':
+
+  Variable[6]: Match for rule 'decNumBoards':
+
+  Variable[7]: Match for rule 'decNumBoards':
+
+  Variable[8]: Match for rule 'decNodesPerBoard':
+
+  Variable[9]: Match for rule 'decNodesPerBoard':
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: Match for rule 'decNumBoards':
+
+  Variable[13]: Match for rule 'decNodesPerBoard':
+
+  Variable[14]: Match for rule 'decNumBoards':
+
+  Variable[15]: Match for rule 'decNumBoards':
+
+  Variable[16]: Match for rule 'decNumBoards':
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: Match for rule 'decNodesPerBoard':
+
+  Variable[19]: Match for rule 'decNodesPerBoard':
+
+  Variable[20]: Match for rule 'decNodesPerBoard':
+
+  Variable[21]: Match for rule 'decNumBoards':
+
+  Variable[22]: Match for rule 'decNumBoards':
+
+  Variable[23]: Match for rule 'decNumBoards':
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: Match for rule 'decNumBoards':
+
+  Variable[26]: Match for rule 'decNumBoards':
+
+  Variable[27]: Match for rule 'decNumBoards':
+
+  Variable[28]: Match for rule 'decNumBoards':
+
+  Variable[29]: Match for rule 'decNumBoards':
+
+  Variable[30]: Match for rule 'decNumBoards':
+
+  Variable[31]: Match for rule 'decNumBoards':
+
+  Variable[32]: Match for rule 'decNumBoards':
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: Match for rule 'decNumBoards':
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: Match for rule 'decNumBoards':
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: Match for rule 'decNumBoards':
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: Match for rule 'decNumBoards':
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: Match for rule 'decNumBoards':
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: Match for rule 'decNumBoards':
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 3
+  AggregatedFitness: -7.0
+  rank: 0
+  crowdingDistance: 0.2426470588235294
+Number of objectives: 2
+  FirstObjective: -38.0
+  SolutionLength: 31.0
+Number of constraints: 0
+
+------------------
+Solution 9/31
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decCPUCores':
+
+  Variable[1]: Match for rule 'decNumBoards':
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: Match for rule 'decNodesPerBoard':
+
+  Variable[6]: Match for rule 'decNumBoards':
+
+  Variable[7]: Match for rule 'decNumBoards':
+
+  Variable[8]: Match for rule 'decNodesPerBoard':
+
+  Variable[9]: Match for rule 'decNodesPerBoard':
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: Match for rule 'decNumBoards':
+
+  Variable[13]: Match for rule 'decNodesPerBoard':
+
+  Variable[14]: Match for rule 'decNumBoards':
+
+  Variable[15]: Match for rule 'decNumBoards':
+
+  Variable[16]: Match for rule 'decNumBoards':
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: Match for rule 'decNodesPerBoard':
+
+  Variable[19]: Match for rule 'decNodesPerBoard':
+
+  Variable[20]: Match for rule 'decNodesPerBoard':
+
+  Variable[21]: Match for rule 'decNumBoards':
+
+  Variable[22]: Match for rule 'decNumBoards':
+
+  Variable[23]: Match for rule 'decNumBoards':
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: Match for rule 'decNumBoards':
+
+  Variable[26]: Match for rule 'decNumBoards':
+
+  Variable[27]: Match for rule 'decNumBoards':
+
+  Variable[28]: Match for rule 'decNumBoards':
+
+  Variable[29]: Match for rule 'decNumBoards':
+
+  Variable[30]: Match for rule 'decNumBoards':
+
+  Variable[31]: Match for rule 'decNumBoards':
+
+  Variable[32]: Match for rule 'decNumBoards':
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: Match for rule 'decNumBoards':
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: Match for rule 'decNumBoards':
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: Match for rule 'decNumBoards':
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: Match for rule 'decNumBoards':
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: Match for rule 'decNumBoards':
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: Match for rule 'decNumBoards':
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 3
+  AggregatedFitness: -7.0
+  rank: 0
+  crowdingDistance: 0.2426470588235294
+Number of objectives: 2
+  FirstObjective: -39.0
+  SolutionLength: 32.0
+Number of constraints: 0
+
+------------------
+Solution 10/31
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decCPUCores':
+
+  Variable[2]: Match for rule 'decNumBoards':
+
+  Variable[3]: Match for rule 'decNodesPerBoard':
+
+  Variable[4]: Match for rule 'decNodesPerBoard':
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: Match for rule 'decNodesPerBoard':
+
+  Variable[7]: Match for rule 'decNodesPerBoard':
+
+  Variable[8]: Match for rule 'decNodesPerBoard':
+
+  Variable[9]: Match for rule 'decNumBoards':
+
+  Variable[10]: Match for rule 'decNodesPerBoard':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: Match for rule 'decNumBoards':
+
+  Variable[13]: Match for rule 'decNodesPerBoard':
+
+  Variable[14]: Match for rule 'decNumBoards':
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: Match for rule 'decNumBoards':
+
+  Variable[22]: Match for rule 'decNumBoards':
+
+  Variable[23]: Match for rule 'decNumBoards':
+
+  Variable[24]: Match for rule 'decNumBoards':
+
+  Variable[25]: Match for rule 'decNumBoards':
+
+  Variable[26]: Match for rule 'decNumBoards':
+
+  Variable[27]: Match for rule 'decNumBoards':
+
+  Variable[28]: Match for rule 'decNumBoards':
+
+  Variable[29]: Match for rule 'decNumBoards':
+
+  Variable[30]: Match for rule 'decNumBoards':
+
+  Variable[31]: Match for rule 'decNumBoards':
+
+  Variable[32]: Match for rule 'decNumBoards':
+
+  Variable[33]: Match for rule 'decNumBoards':
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: Match for rule 'decNumBoards':
+
+  Variable[38]: Match for rule 'decNumBoards':
+
+  Variable[39]: Match for rule 'decNumBoards':
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: Match for rule 'decNumBoards':
+
+  Variable[42]: Match for rule 'decNumBoards':
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: Match for rule 'decNumBoards':
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decNumBoards':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: Match for rule 'decNumBoards':
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 3
+  AggregatedFitness: -7.0
+  rank: 0
+  crowdingDistance: 0.2426470588235294
+Number of objectives: 2
+  FirstObjective: -40.0
+  SolutionLength: 33.0
+Number of constraints: 0
+
+------------------
+Solution 11/31
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: Match for rule 'decNodesPerBoard':
+
+  Variable[3]: Match for rule 'decNodesPerBoard':
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: Match for rule 'decNumBoards':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decNumBoards':
+
+  Variable[8]: Match for rule 'decNodesPerBoard':
+
+  Variable[9]: Match for rule 'decNumBoards':
+
+  Variable[10]: Match for rule 'decNumBoards':
+
+  Variable[11]: Match for rule 'decNumBoards':
+
+  Variable[12]: Match for rule 'decNumBoards':
+
+  Variable[13]: Match for rule 'decNodesPerBoard':
+
+  Variable[14]: Match for rule 'decNodesPerBoard':
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: Match for rule 'decNumBoards':
+
+  Variable[17]: Match for rule 'decNodesPerBoard':
+
+  Variable[18]: Match for rule 'decNodesPerBoard':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decNumBoards':
+
+  Variable[21]: Match for rule 'decNumBoards':
+
+  Variable[22]: Match for rule 'decNumBoards':
+
+  Variable[23]: Match for rule 'decNumBoards':
+
+  Variable[24]: Match for rule 'decNumBoards':
+
+  Variable[25]: Match for rule 'decNumBoards':
+
+  Variable[26]: Match for rule 'decNumBoards':
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: Match for rule 'decNumBoards':
+
+  Variable[29]: Match for rule 'decNumBoards':
+
+  Variable[30]: Match for rule 'decNumBoards':
+
+  Variable[31]: Match for rule 'decNumBoards':
+
+  Variable[32]: Match for rule 'decNumBoards':
+
+  Variable[33]: Match for rule 'decNumBoards':
+
+  Variable[34]: Match for rule 'decNumBoards':
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: Match for rule 'decNumBoards':
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: Match for rule 'decNumBoards':
+
+  Variable[40]: Match for rule 'decNumBoards':
+
+  Variable[41]: Match for rule 'decNumBoards':
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: Match for rule 'decNumBoards':
+
+  Variable[44]: Match for rule 'decNumBoards':
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 3
+  AggregatedFitness: -7.0
+  rank: 0
+  crowdingDistance: 0.2426470588235294
+Number of objectives: 2
+  FirstObjective: -41.0
+  SolutionLength: 34.0
+Number of constraints: 0
+
+------------------
+Solution 12/31
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decNodesPerBoard':
+
+  Variable[1]: Match for rule 'decNodesPerBoard':
+
+  Variable[2]: Match for rule 'decNumBoards':
+
+  Variable[3]: Match for rule 'decNodesPerBoard':
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: Match for rule 'decNumBoards':
+
+  Variable[6]: Match for rule 'decCPUCores':
+
+  Variable[7]: Match for rule 'decNodesPerBoard':
+
+  Variable[8]: Match for rule 'decNodesPerBoard':
+
+  Variable[9]: Match for rule 'decNodesPerBoard':
+
+  Variable[10]: Match for rule 'decNodesPerBoard':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: Match for rule 'decNumBoards':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: Match for rule 'decNumBoards':
+
+  Variable[18]: Match for rule 'decNumBoards':
+
+  Variable[19]: Match for rule 'decNumBoards':
+
+  Variable[20]: Match for rule 'decNumBoards':
+
+  Variable[21]: Match for rule 'decNumBoards':
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: Match for rule 'decNumBoards':
+
+  Variable[24]: Match for rule 'decNumBoards':
+
+  Variable[25]: Match for rule 'decNumBoards':
+
+  Variable[26]: Match for rule 'decNumBoards':
+
+  Variable[27]: Match for rule 'decNumBoards':
+
+  Variable[28]: Match for rule 'decNumBoards':
+
+  Variable[29]: Match for rule 'decNumBoards':
+
+  Variable[30]: Match for rule 'decNumBoards':
+
+  Variable[31]: Match for rule 'decNumBoards':
+
+  Variable[32]: Match for rule 'decNumBoards':
+
+  Variable[33]: Match for rule 'decNumBoards':
+
+  Variable[34]: Match for rule 'decNumBoards':
+
+  Variable[35]: Match for rule 'decNumBoards':
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: Match for rule 'decNumBoards':
+
+  Variable[38]: Match for rule 'decNumBoards':
+
+  Variable[39]: Match for rule 'decNumBoards':
+
+  Variable[40]: Match for rule 'decNumBoards':
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: Match for rule 'decNumBoards':
+
+  Variable[44]: Match for rule 'decNumBoards':
+
+  Variable[45]: Match for rule 'decNumBoards':
+
+  Variable[46]: Match for rule 'decNumBoards':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 3
+  AggregatedFitness: -7.0
+  rank: 0
+  crowdingDistance: 0.2426470588235294
+Number of objectives: 2
+  FirstObjective: -44.0
+  SolutionLength: 37.0
+Number of constraints: 0
+
+------------------
+Solution 13/31
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decNodesPerBoard':
+
+  Variable[1]: Match for rule 'decNumBoards':
+
+  Variable[2]: Match for rule 'decNodesPerBoard':
+
+  Variable[3]: Match for rule 'decNodesPerBoard':
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: Match for rule 'decCPUCores':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decNumBoards':
+
+  Variable[8]: Match for rule 'decNodesPerBoard':
+
+  Variable[9]: Match for rule 'decNodesPerBoard':
+
+  Variable[10]: Match for rule 'decNumBoards':
+
+  Variable[11]: Match for rule 'decNodesPerBoard':
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: Match for rule 'decNodesPerBoard':
+
+  Variable[14]: Match for rule 'decNumBoards':
+
+  Variable[15]: Match for rule 'decNumBoards':
+
+  Variable[16]: Match for rule 'decNumBoards':
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: Match for rule 'decNumBoards':
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: Match for rule 'decNumBoards':
+
+  Variable[24]: Match for rule 'decNumBoards':
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: Match for rule 'decNumBoards':
+
+  Variable[27]: Match for rule 'decNumBoards':
+
+  Variable[28]: Match for rule 'decNumBoards':
+
+  Variable[29]: Match for rule 'decNumBoards':
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: Match for rule 'decNumBoards':
+
+  Variable[32]: Match for rule 'decNumBoards':
+
+  Variable[33]: Match for rule 'decNumBoards':
+
+  Variable[34]: Match for rule 'decNumBoards':
+
+  Variable[35]: Match for rule 'decNumBoards':
+
+  Variable[36]: Match for rule 'decNumBoards':
+
+  Variable[37]: Match for rule 'decNumBoards':
+
+  Variable[38]: Match for rule 'decNumBoards':
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: Match for rule 'decNumBoards':
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: Match for rule 'decNumBoards':
+
+  Variable[43]: Match for rule 'decNumBoards':
+
+  Variable[44]: Match for rule 'decNumBoards':
+
+  Variable[45]: Match for rule 'decNumBoards':
+
+  Variable[46]: Match for rule 'decNumBoards':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: Match for rule 'decNumBoards':
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 3
+  AggregatedFitness: -7.0
+  rank: 0
+  crowdingDistance: 0.2426470588235294
+Number of objectives: 2
+  FirstObjective: -43.0
+  SolutionLength: 36.0
+Number of constraints: 0
+
+------------------
+Solution 14/31
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decNodesPerBoard':
+
+  Variable[1]: Match for rule 'decNodesPerBoard':
+
+  Variable[2]: Match for rule 'decCPUCores':
+
+  Variable[3]: Match for rule 'decNodesPerBoard':
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: Match for rule 'decNumBoards':
+
+  Variable[6]: Match for rule 'decNodesPerBoard':
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: Match for rule 'decNodesPerBoard':
+
+  Variable[9]: Match for rule 'decNodesPerBoard':
+
+  Variable[10]: Match for rule 'decNodesPerBoard':
+
+  Variable[11]: Match for rule 'decNumBoards':
+
+  Variable[12]: Match for rule 'decNumBoards':
+
+  Variable[13]: Match for rule 'decNumBoards':
+
+  Variable[14]: Match for rule 'decNumBoards':
+
+  Variable[15]: Match for rule 'decNumBoards':
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: Match for rule 'decNumBoards':
+
+  Variable[19]: Match for rule 'decNumBoards':
+
+  Variable[20]: Match for rule 'decNumBoards':
+
+  Variable[21]: Match for rule 'decNumBoards':
+
+  Variable[22]: Match for rule 'decNumBoards':
+
+  Variable[23]: Match for rule 'decNumBoards':
+
+  Variable[24]: Match for rule 'decNumBoards':
+
+  Variable[25]: Match for rule 'decNumBoards':
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: Match for rule 'decNumBoards':
+
+  Variable[29]: Match for rule 'decNumBoards':
+
+  Variable[30]: Match for rule 'decNumBoards':
+
+  Variable[31]: Match for rule 'decNumBoards':
+
+  Variable[32]: Match for rule 'decNumBoards':
+
+  Variable[33]: Match for rule 'decNumBoards':
+
+  Variable[34]: Match for rule 'decNumBoards':
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: Match for rule 'decNumBoards':
+
+  Variable[37]: Match for rule 'decNumBoards':
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: Match for rule 'decNumBoards':
+
+  Variable[41]: Match for rule 'decNumBoards':
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: Match for rule 'decNumBoards':
+
+  Variable[44]: Match for rule 'decNumBoards':
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decNumBoards':
+
+  Variable[47]: Match for rule 'decNumBoards':
+
+  Variable[48]: Match for rule 'decNumBoards':
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 3
+  AggregatedFitness: -7.0
+  rank: 0
+  crowdingDistance: 0.2426470588235294
+Number of objectives: 2
+  FirstObjective: -45.0
+  SolutionLength: 38.0
+Number of constraints: 0
+
+------------------
+Solution 15/31
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decNodesPerBoard':
+
+  Variable[1]: Match for rule 'decCPUCores':
+
+  Variable[2]: Match for rule 'decNodesPerBoard':
+
+  Variable[3]: Match for rule 'decNumBoards':
+
+  Variable[4]: Match for rule 'decNodesPerBoard':
+
+  Variable[5]: Match for rule 'decNodesPerBoard':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decNodesPerBoard':
+
+  Variable[8]: Match for rule 'decNumBoards':
+
+  Variable[9]: Match for rule 'decNodesPerBoard':
+
+  Variable[10]: Match for rule 'decNodesPerBoard':
+
+  Variable[11]: Match for rule 'decNumBoards':
+
+  Variable[12]: Match for rule 'decNumBoards':
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: Match for rule 'decNumBoards':
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: Match for rule 'decNumBoards':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: Match for rule 'decNumBoards':
+
+  Variable[23]: Match for rule 'decNumBoards':
+
+  Variable[24]: Match for rule 'decNumBoards':
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: Match for rule 'decNumBoards':
+
+  Variable[27]: Match for rule 'decNumBoards':
+
+  Variable[28]: Match for rule 'decNumBoards':
+
+  Variable[29]: Match for rule 'decNumBoards':
+
+  Variable[30]: Match for rule 'decNumBoards':
+
+  Variable[31]: Match for rule 'decNumBoards':
+
+  Variable[32]: Match for rule 'decNumBoards':
+
+  Variable[33]: Match for rule 'decNumBoards':
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decNumBoards':
+
+  Variable[36]: Match for rule 'decNumBoards':
+
+  Variable[37]: Match for rule 'decNumBoards':
+
+  Variable[38]: Match for rule 'decNumBoards':
+
+  Variable[39]: Match for rule 'decNumBoards':
+
+  Variable[40]: Match for rule 'decNumBoards':
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: Match for rule 'decNumBoards':
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: Match for rule 'decNumBoards':
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decNumBoards':
+
+  Variable[47]: Match for rule 'decNumBoards':
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 3
+  AggregatedFitness: -7.0
+  rank: 0
+  crowdingDistance: 0.2426470588235294
+Number of objectives: 2
+  FirstObjective: -42.0
+  SolutionLength: 35.0
+Number of constraints: 0
+
+------------------
+Solution 16/31
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decNodesPerBoard':
+
+  Variable[1]: Match for rule 'decNodesPerBoard':
+
+  Variable[2]: Match for rule 'decNodesPerBoard':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: Match for rule 'decNodesPerBoard':
+
+  Variable[5]: Match for rule 'decNodesPerBoard':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decNodesPerBoard':
+
+  Variable[11]: Match for rule 'decNodesPerBoard':
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: Match for rule 'decNumBoards':
+
+  Variable[16]: Match for rule 'decNumBoards':
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: Match for rule 'decNumBoards':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decNumBoards':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: Match for rule 'decNumBoards':
+
+  Variable[24]: Match for rule 'decNumBoards':
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: Match for rule 'decNumBoards':
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: Match for rule 'decNumBoards':
+
+  Variable[29]: Match for rule 'decNumBoards':
+
+  Variable[30]: Match for rule 'decNumBoards':
+
+  Variable[31]: Match for rule 'decNumBoards':
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: Match for rule 'decNumBoards':
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decNumBoards':
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: Match for rule 'decNumBoards':
+
+  Variable[38]: Match for rule 'decNumBoards':
+
+  Variable[39]: Match for rule 'decNumBoards':
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -7.0
+  rank: 0
+  Normalized Objectives: [0.48484848484848486, 0.5]
+  crowdingDistance: 0.12310606060606061
+Number of objectives: 2
+  FirstObjective: -30.0
+  SolutionLength: 23.0
+Number of constraints: 0
+
+------------------
+Solution 17/31
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decNodesPerBoard':
+
+  Variable[2]: Match for rule 'decNodesPerBoard':
+
+  Variable[3]: Match for rule 'decNodesPerBoard':
+
+  Variable[4]: Match for rule 'decNodesPerBoard':
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: Match for rule 'decNodesPerBoard':
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decNodesPerBoard':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: Match for rule 'decNumBoards':
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -6.0
+  rank: 0
+  Normalized Objectives: [1.0, 0.0]
+  crowdingDistance: Infinity
+Number of objectives: 2
+  FirstObjective: -13.0
+  SolutionLength: 7.0
+Number of constraints: 0
+
+------------------
+Solution 18/31
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decNodesPerBoard':
+
+  Variable[1]: Match for rule 'decNodesPerBoard':
+
+  Variable[2]: Match for rule 'decNodesPerBoard':
+
+  Variable[3]: Match for rule 'decNodesPerBoard':
+
+  Variable[4]: Match for rule 'decNodesPerBoard':
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: Match for rule 'decNodesPerBoard':
+
+  Variable[7]: Match for rule 'decNodesPerBoard':
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decNumBoards':
+
+  Variable[11]: Match for rule 'decNumBoards':
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: Match for rule 'decNumBoards':
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: Match for rule 'decNumBoards':
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: Match for rule 'decNumBoards':
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: Match for rule 'decNumBoards':
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: Match for rule 'decNumBoards':
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decNumBoards':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -7.0
+  rank: 0
+  Normalized Objectives: [0.7272727272727273, 0.25]
+  crowdingDistance: 0.12310606060606061
+Number of objectives: 2
+  FirstObjective: -22.0
+  SolutionLength: 15.0
+Number of constraints: 0
+
+------------------
+Solution 19/31
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decNodesPerBoard':
+
+  Variable[1]: Match for rule 'decNodesPerBoard':
+
+  Variable[2]: Match for rule 'decNodesPerBoard':
+
+  Variable[3]: Match for rule 'decNodesPerBoard':
+
+  Variable[4]: Match for rule 'decNodesPerBoard':
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: Match for rule 'decNumBoards':
+
+  Variable[7]: Match for rule 'decNodesPerBoard':
+
+  Variable[8]: Match for rule 'decNodesPerBoard':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: Match for rule 'decNumBoards':
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: Match for rule 'decNumBoards':
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decNumBoards':
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: Match for rule 'decNumBoards':
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: Match for rule 'decNumBoards':
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decNumBoards':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -7.0
+  rank: 0
+  Normalized Objectives: [0.7575757575757576, 0.21875]
+  crowdingDistance: 0.12310606060606061
+Number of objectives: 2
+  FirstObjective: -21.0
+  SolutionLength: 14.0
+Number of constraints: 0
+
+------------------
+Solution 20/31
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decNodesPerBoard':
+
+  Variable[2]: Match for rule 'decCPUCores':
+
+  Variable[3]: Match for rule 'decNodesPerBoard':
+
+  Variable[4]: Match for rule 'decNodesPerBoard':
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: Match for rule 'decNumBoards':
+
+  Variable[7]: Match for rule 'decNodesPerBoard':
+
+  Variable[8]: Match for rule 'decNodesPerBoard':
+
+  Variable[9]: Match for rule 'decNodesPerBoard':
+
+  Variable[10]: Match for rule 'decNumBoards':
+
+  Variable[11]: Match for rule 'decNodesPerBoard':
+
+  Variable[12]: Match for rule 'decNumBoards':
+
+  Variable[13]: Match for rule 'decNumBoards':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: Match for rule 'decNumBoards':
+
+  Variable[16]: Match for rule 'decNumBoards':
+
+  Variable[17]: Match for rule 'decNumBoards':
+
+  Variable[18]: Match for rule 'decNumBoards':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: Match for rule 'decNumBoards':
+
+  Variable[22]: Match for rule 'decNumBoards':
+
+  Variable[23]: Match for rule 'decNumBoards':
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: Match for rule 'decNumBoards':
+
+  Variable[26]: Match for rule 'decNumBoards':
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: Match for rule 'decNumBoards':
+
+  Variable[30]: Match for rule 'decNumBoards':
+
+  Variable[31]: Match for rule 'decNumBoards':
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -7.0
+  rank: 0
+  Normalized Objectives: [0.45454545454545453, 0.53125]
+  crowdingDistance: 0.12310606060606061
+Number of objectives: 2
+  FirstObjective: -31.0
+  SolutionLength: 24.0
+Number of constraints: 0
+
+------------------
+Solution 21/31
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decNodesPerBoard':
+
+  Variable[1]: Match for rule 'decNodesPerBoard':
+
+  Variable[2]: Match for rule 'decNodesPerBoard':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: Match for rule 'decNodesPerBoard':
+
+  Variable[5]: Match for rule 'decNodesPerBoard':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decNodesPerBoard':
+
+  Variable[11]: Match for rule 'decNodesPerBoard':
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: Match for rule 'decNumBoards':
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -7.0
+  rank: 0
+  Normalized Objectives: [0.9393939393939394, 0.03125]
+  crowdingDistance: 0.1534090909090909
+Number of objectives: 2
+  FirstObjective: -15.0
+  SolutionLength: 8.0
+Number of constraints: 0
+
+------------------
+Solution 22/31
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decNodesPerBoard':
+
+  Variable[1]: Match for rule 'decNodesPerBoard':
+
+  Variable[2]: Match for rule 'decNodesPerBoard':
+
+  Variable[3]: Match for rule 'decNodesPerBoard':
+
+  Variable[4]: Match for rule 'decNodesPerBoard':
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decNodesPerBoard':
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decNodesPerBoard':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: Match for rule 'decNumBoards':
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: Match for rule 'decNumBoards':
+
+  Variable[41]: Match for rule 'decNumBoards':
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decNumBoards':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -7.0
+  rank: 0
+  Normalized Objectives: [0.8484848484848485, 0.125]
+  crowdingDistance: 0.12310606060606061
+Number of objectives: 2
+  FirstObjective: -18.0
+  SolutionLength: 11.0
+Number of constraints: 0
+
+------------------
+Solution 23/31
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decNodesPerBoard':
+
+  Variable[1]: Match for rule 'decNodesPerBoard':
+
+  Variable[2]: Match for rule 'decNodesPerBoard':
+
+  Variable[3]: Match for rule 'decNodesPerBoard':
+
+  Variable[4]: Match for rule 'decNodesPerBoard':
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: Match for rule 'decNodesPerBoard':
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decNodesPerBoard':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: Match for rule 'decNumBoards':
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: Match for rule 'decNumBoards':
+
+  Variable[35]: Match for rule 'decNumBoards':
+
+  Variable[36]: Match for rule 'decNumBoards':
+
+  Variable[37]: Match for rule 'decNumBoards':
+
+  Variable[38]: Match for rule 'decNumBoards':
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: Match for rule 'decNumBoards':
+
+  Variable[41]: Match for rule 'decNumBoards':
+
+  Variable[42]: Match for rule 'decNumBoards':
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -7.0
+  rank: 0
+  Normalized Objectives: [0.696969696969697, 0.28125]
+  crowdingDistance: 0.12310606060606061
+Number of objectives: 2
+  FirstObjective: -23.0
+  SolutionLength: 16.0
+Number of constraints: 0
+
+------------------
+Solution 24/31
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decNodesPerBoard':
+
+  Variable[1]: Match for rule 'decNodesPerBoard':
+
+  Variable[2]: Match for rule 'decNodesPerBoard':
+
+  Variable[3]: Match for rule 'decNodesPerBoard':
+
+  Variable[4]: Match for rule 'decNodesPerBoard':
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: Match for rule 'decNodesPerBoard':
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decNodesPerBoard':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: Match for rule 'decNumBoards':
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decNumBoards':
+
+  Variable[36]: Match for rule 'decNumBoards':
+
+  Variable[37]: Match for rule 'decNumBoards':
+
+  Variable[38]: Match for rule 'decNumBoards':
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: Match for rule 'decNumBoards':
+
+  Variable[42]: Match for rule 'decNumBoards':
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: Match for rule 'decNumBoards':
+
+  Variable[45]: Match for rule 'decNumBoards':
+
+  Variable[46]: Match for rule 'decNumBoards':
+
+  Variable[47]: Match for rule 'decNumBoards':
+
+  Variable[48]: Match for rule 'decNumBoards':
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -7.0
+  rank: 0
+  Normalized Objectives: [0.6060606060606061, 0.375]
+  crowdingDistance: 0.12310606060606061
+Number of objectives: 2
+  FirstObjective: -26.0
+  SolutionLength: 19.0
+Number of constraints: 0
+
+------------------
+Solution 25/31
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decNodesPerBoard':
+
+  Variable[1]: Match for rule 'decNodesPerBoard':
+
+  Variable[2]: Match for rule 'decNodesPerBoard':
+
+  Variable[3]: Match for rule 'decNodesPerBoard':
+
+  Variable[4]: Match for rule 'decNodesPerBoard':
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decNodesPerBoard':
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decNodesPerBoard':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: Match for rule 'decNumBoards':
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decNumBoards':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -7.0
+  rank: 0
+  Normalized Objectives: [0.9090909090909091, 0.0625]
+  crowdingDistance: 0.12310606060606061
+Number of objectives: 2
+  FirstObjective: -16.0
+  SolutionLength: 9.0
+Number of constraints: 0
+
+------------------
+Solution 26/31
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decNodesPerBoard':
+
+  Variable[1]: Match for rule 'decNodesPerBoard':
+
+  Variable[2]: Match for rule 'decNodesPerBoard':
+
+  Variable[3]: Match for rule 'decNodesPerBoard':
+
+  Variable[4]: Match for rule 'decNodesPerBoard':
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decNodesPerBoard':
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decNodesPerBoard':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: Match for rule 'decNumBoards':
+
+  Variable[32]: Match for rule 'decNumBoards':
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: Match for rule 'decNumBoards':
+
+  Variable[35]: Match for rule 'decNumBoards':
+
+  Variable[36]: Match for rule 'decNumBoards':
+
+  Variable[37]: Match for rule 'decNumBoards':
+
+  Variable[38]: Match for rule 'decNumBoards':
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: Match for rule 'decNumBoards':
+
+  Variable[41]: Match for rule 'decNumBoards':
+
+  Variable[42]: Match for rule 'decNumBoards':
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -7.0
+  rank: 0
+  Normalized Objectives: [0.6666666666666666, 0.3125]
+  crowdingDistance: 0.12310606060606061
+Number of objectives: 2
+  FirstObjective: -24.0
+  SolutionLength: 17.0
+Number of constraints: 0
+
+------------------
+Solution 27/31
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decNodesPerBoard':
+
+  Variable[2]: Match for rule 'decCPUCores':
+
+  Variable[3]: Match for rule 'decNodesPerBoard':
+
+  Variable[4]: Match for rule 'decNodesPerBoard':
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: Match for rule 'decNumBoards':
+
+  Variable[7]: Match for rule 'decNodesPerBoard':
+
+  Variable[8]: Match for rule 'decNodesPerBoard':
+
+  Variable[9]: Match for rule 'decNodesPerBoard':
+
+  Variable[10]: Match for rule 'decNodesPerBoard':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: Match for rule 'decNumBoards':
+
+  Variable[13]: Match for rule 'decNumBoards':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: Match for rule 'decNumBoards':
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: Match for rule 'decNumBoards':
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decNumBoards':
+
+  Variable[36]: Match for rule 'decNumBoards':
+
+  Variable[37]: Match for rule 'decNumBoards':
+
+  Variable[38]: Match for rule 'decNumBoards':
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: Match for rule 'decNumBoards':
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: Match for rule 'decNumBoards':
+
+  Variable[45]: Match for rule 'decNumBoards':
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -7.0
+  rank: 0
+  Normalized Objectives: [0.5757575757575758, 0.40625]
+  crowdingDistance: 0.1846590909090909
+Number of objectives: 2
+  FirstObjective: -27.0
+  SolutionLength: 20.0
+Number of constraints: 0
+
+------------------
+Solution 28/31
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decNodesPerBoard':
+
+  Variable[1]: Match for rule 'decNodesPerBoard':
+
+  Variable[2]: Match for rule 'decNodesPerBoard':
+
+  Variable[3]: Match for rule 'decNodesPerBoard':
+
+  Variable[4]: Match for rule 'decNodesPerBoard':
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: Match for rule 'decNodesPerBoard':
+
+  Variable[7]: Match for rule 'decNodesPerBoard':
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decNumBoards':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: Match for rule 'decNumBoards':
+
+  Variable[30]: Match for rule 'decNumBoards':
+
+  Variable[31]: Match for rule 'decNumBoards':
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decNumBoards':
+
+  Variable[36]: Match for rule 'decNumBoards':
+
+  Variable[37]: Match for rule 'decNumBoards':
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: Match for rule 'decNumBoards':
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: Match for rule 'decNumBoards':
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: Match for rule 'decNumBoards':
+
+  Variable[46]: Match for rule 'decNumBoards':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -7.0
+  rank: 0
+  Normalized Objectives: [0.6363636363636364, 0.34375]
+  crowdingDistance: 0.12310606060606061
+Number of objectives: 2
+  FirstObjective: -25.0
+  SolutionLength: 18.0
+Number of constraints: 0
+
+------------------
+Solution 29/31
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decNodesPerBoard':
+
+  Variable[1]: Match for rule 'decNodesPerBoard':
+
+  Variable[2]: Match for rule 'decNodesPerBoard':
+
+  Variable[3]: Match for rule 'decNodesPerBoard':
+
+  Variable[4]: Match for rule 'decNodesPerBoard':
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: Match for rule 'decNodesPerBoard':
+
+  Variable[7]: Match for rule 'decNodesPerBoard':
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decNumBoards':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: Match for rule 'decNumBoards':
+
+  Variable[30]: Match for rule 'decNumBoards':
+
+  Variable[31]: Match for rule 'decNumBoards':
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: -Placeholder-
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: Match for rule 'decNumBoards':
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -7.0
+  rank: 0
+  Normalized Objectives: [0.8181818181818182, 0.15625]
+  crowdingDistance: 0.12310606060606061
+Number of objectives: 2
+  FirstObjective: -19.0
+  SolutionLength: 12.0
+Number of constraints: 0
+
+------------------
+Solution 30/31
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decNodesPerBoard':
+
+  Variable[1]: Match for rule 'decNodesPerBoard':
+
+  Variable[2]: Match for rule 'decNodesPerBoard':
+
+  Variable[3]: Match for rule 'decNodesPerBoard':
+
+  Variable[4]: Match for rule 'decNodesPerBoard':
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: Match for rule 'decNodesPerBoard':
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decNodesPerBoard':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: Match for rule 'decNumBoards':
+
+  Variable[13]: Match for rule 'decNumBoards':
+
+  Variable[14]: Match for rule 'decNumBoards':
+
+  Variable[15]: Match for rule 'decNumBoards':
+
+  Variable[16]: Match for rule 'decNumBoards':
+
+  Variable[17]: Match for rule 'decNumBoards':
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: Match for rule 'decNumBoards':
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: Match for rule 'decNumBoards':
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: Match for rule 'decNumBoards':
+
+  Variable[42]: Match for rule 'decNumBoards':
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: Match for rule 'decNumBoards':
+
+  Variable[45]: Match for rule 'decNumBoards':
+
+  Variable[46]: Match for rule 'decNumBoards':
+
+  Variable[47]: Match for rule 'decNumBoards':
+
+  Variable[48]: Match for rule 'decNumBoards':
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -7.0
+  rank: 0
+  Normalized Objectives: [0.5151515151515151, 0.46875]
+  crowdingDistance: 0.1846590909090909
+Number of objectives: 2
+  FirstObjective: -29.0
+  SolutionLength: 22.0
+Number of constraints: 0
+
+------------------
+Solution 31/31
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decNodesPerBoard':
+
+  Variable[1]: Match for rule 'decNodesPerBoard':
+
+  Variable[2]: Match for rule 'decNodesPerBoard':
+
+  Variable[3]: Match for rule 'decNodesPerBoard':
+
+  Variable[4]: Match for rule 'decNodesPerBoard':
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decNodesPerBoard':
+
+  Variable[8]: -Placeholder-
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decNodesPerBoard':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: -Placeholder-
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: Match for rule 'decNumBoards':
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: Match for rule 'decNumBoards':
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: Match for rule 'decNumBoards':
+
+  Variable[41]: Match for rule 'decNumBoards':
+
+  Variable[42]: Match for rule 'decNumBoards':
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decNumBoards':
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -7.0
+  rank: 0
+  Normalized Objectives: [0.7878787878787878, 0.1875]
+  crowdingDistance: 0.12310606060606061
+Number of objectives: 2
+  FirstObjective: -20.0
+  SolutionLength: 13.0
+Number of constraints: 0

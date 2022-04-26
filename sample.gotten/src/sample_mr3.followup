@@ -1,0 +1,11 @@
+followups for datacentre using MR3
+with source path = "/sample.gotten/model/dcmodels"
+and output folder = "/sample.gotten/model/dcmodels"
+
+Storage -> decrease [1] NodeType.DiskSpeed keeping {NodeType.DiskSpeed > 0}
+
+maximize (Storage(m1) - Storage(m2))
+
+maxSolutions 50
+iterations 1
+algorithms [Random, NSGAII, NSGAIII, eMOEA]

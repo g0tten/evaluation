@@ -1,0 +1,5017 @@
+Population with 44 solution(s):
+
+------------------
+Solution 1/44
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decCPUSpeed':
+
+  Variable[1]: Match for rule 'decCPUSpeed':
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: Match for rule 'decCPUSpeed':
+
+  Variable[4]: Match for rule 'decCPUSpeed':
+
+  Variable[5]: Match for rule 'decCPUSpeed':
+
+  Variable[6]: Match for rule 'decCPUSpeed':
+
+  Variable[7]: Match for rule 'decCPUSpeed':
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: Match for rule 'decCPUSpeed':
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: Match for rule 'decCPUSpeed':
+
+  Variable[12]: Match for rule 'decCPUSpeed':
+
+  Variable[13]: Match for rule 'decCPUSpeed':
+
+  Variable[14]: Match for rule 'decCPUSpeed':
+
+  Variable[15]: Match for rule 'decCPUSpeed':
+
+  Variable[16]: Match for rule 'decCPUSpeed':
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: Match for rule 'decCPUSpeed':
+
+  Variable[30]: Match for rule 'decCPUSpeed':
+
+  Variable[31]: Match for rule 'decCPUSpeed':
+
+  Variable[32]: Match for rule 'decCPUSpeed':
+
+  Variable[33]: Match for rule 'decCPUSpeed':
+
+  Variable[34]: Match for rule 'decCPUSpeed':
+
+  Variable[35]: Match for rule 'decCPUSpeed':
+
+  Variable[36]: Match for rule 'decCPUSpeed':
+
+  Variable[37]: Match for rule 'decCPUSpeed':
+
+  Variable[38]: Match for rule 'decCPUSpeed':
+
+  Variable[39]: Match for rule 'decCPUSpeed':
+
+  Variable[40]: Match for rule 'decCPUSpeed':
+
+  Variable[41]: Match for rule 'decCPUSpeed':
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: Match for rule 'decCPUSpeed':
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: Match for rule 'decCPUSpeed':
+
+  Variable[47]: Match for rule 'decCPUSpeed':
+
+  Variable[48]: Match for rule 'decCPUSpeed':
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -351.0
+  rank: 0
+  Normalized Objectives: [0.25, 0.75]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -390.0
+  SolutionLength: 39.0
+Number of constraints: 0
+
+------------------
+Solution 2/44
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decCPUSpeed':
+
+  Variable[1]: Match for rule 'decCPUSpeed':
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: Match for rule 'decCPUSpeed':
+
+  Variable[4]: Match for rule 'decCPUSpeed':
+
+  Variable[5]: Match for rule 'decCPUSpeed':
+
+  Variable[6]: Match for rule 'decCPUSpeed':
+
+  Variable[7]: Match for rule 'decCPUSpeed':
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: Match for rule 'decCPUSpeed':
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: Match for rule 'decCPUSpeed':
+
+  Variable[12]: Match for rule 'decCPUSpeed':
+
+  Variable[13]: Match for rule 'decCPUSpeed':
+
+  Variable[14]: Match for rule 'decCPUSpeed':
+
+  Variable[15]: Match for rule 'decCPUSpeed':
+
+  Variable[16]: Match for rule 'decCPUSpeed':
+
+  Variable[17]: Match for rule 'decCPUSpeed':
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: Match for rule 'decCPUSpeed':
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: Match for rule 'decCPUSpeed':
+
+  Variable[22]: Match for rule 'decCPUSpeed':
+
+  Variable[23]: Match for rule 'decCPUSpeed':
+
+  Variable[24]: Match for rule 'decCPUSpeed':
+
+  Variable[25]: Match for rule 'decCPUSpeed':
+
+  Variable[26]: Match for rule 'decCPUSpeed':
+
+  Variable[27]: Match for rule 'decCPUSpeed':
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: Match for rule 'decCPUSpeed':
+
+  Variable[30]: Match for rule 'decCPUSpeed':
+
+  Variable[31]: Match for rule 'decCPUSpeed':
+
+  Variable[32]: Match for rule 'decCPUSpeed':
+
+  Variable[33]: Match for rule 'decCPUSpeed':
+
+  Variable[34]: Match for rule 'decCPUSpeed':
+
+  Variable[35]: Match for rule 'decCPUSpeed':
+
+  Variable[36]: Match for rule 'decCPUSpeed':
+
+  Variable[37]: Match for rule 'decCPUSpeed':
+
+  Variable[38]: Match for rule 'decCPUSpeed':
+
+  Variable[39]: Match for rule 'decCPUSpeed':
+
+  Variable[40]: Match for rule 'decCPUSpeed':
+
+  Variable[41]: Match for rule 'decCPUSpeed':
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: Match for rule 'decCPUSpeed':
+
+  Variable[44]: Match for rule 'decCPUSpeed':
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: Match for rule 'decCPUSpeed':
+
+  Variable[47]: Match for rule 'decCPUSpeed':
+
+  Variable[48]: Match for rule 'decCPUSpeed':
+
+  Variable[49]: Match for rule 'decCPUSpeed':
+
+Number of attributes: 4
+  AggregatedFitness: -450.0
+  rank: 0
+  Normalized Objectives: [0.0, 1.0]
+  crowdingDistance: Infinity
+Number of objectives: 2
+  FirstObjective: -500.0
+  SolutionLength: 50.0
+Number of constraints: 0
+
+------------------
+Solution 3/44
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decCPUSpeed':
+
+  Variable[1]: Match for rule 'decCPUSpeed':
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: Match for rule 'decCPUSpeed':
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: Match for rule 'decCPUSpeed':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: Match for rule 'decCPUSpeed':
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: Match for rule 'decCPUSpeed':
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: Match for rule 'decCPUSpeed':
+
+  Variable[47]: Match for rule 'decCPUSpeed':
+
+  Variable[48]: Match for rule 'decCPUSpeed':
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -153.0
+  rank: 0
+  Normalized Objectives: [0.75, 0.25]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -170.0
+  SolutionLength: 17.0
+Number of constraints: 0
+
+------------------
+Solution 4/44
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decCPUSpeed':
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: Match for rule 'decCPUSpeed':
+
+  Variable[26]: Match for rule 'decCPUSpeed':
+
+  Variable[27]: Match for rule 'decCPUSpeed':
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: Match for rule 'decCPUSpeed':
+
+  Variable[30]: Match for rule 'decCPUSpeed':
+
+  Variable[31]: Match for rule 'decCPUSpeed':
+
+  Variable[32]: Match for rule 'decCPUSpeed':
+
+  Variable[33]: Match for rule 'decCPUSpeed':
+
+  Variable[34]: Match for rule 'decCPUSpeed':
+
+  Variable[35]: Match for rule 'decCPUSpeed':
+
+  Variable[36]: Match for rule 'decCPUSpeed':
+
+  Variable[37]: Match for rule 'decCPUSpeed':
+
+  Variable[38]: Match for rule 'decCPUSpeed':
+
+  Variable[39]: Match for rule 'decCPUSpeed':
+
+  Variable[40]: Match for rule 'decCPUSpeed':
+
+  Variable[41]: Match for rule 'decCPUSpeed':
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: Match for rule 'decCPUSpeed':
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: Match for rule 'decCPUSpeed':
+
+  Variable[47]: Match for rule 'decCPUSpeed':
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: Match for rule 'decCPUSpeed':
+
+Number of attributes: 4
+  AggregatedFitness: -252.0
+  rank: 0
+  Normalized Objectives: [0.5, 0.5]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -280.0
+  SolutionLength: 28.0
+Number of constraints: 0
+
+------------------
+Solution 5/44
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: -Placeholder-
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -54.0
+  rank: 0
+  Normalized Objectives: [1.0, 0.0]
+  crowdingDistance: Infinity
+Number of objectives: 2
+  FirstObjective: -60.0
+  SolutionLength: 6.0
+Number of constraints: 0
+
+------------------
+Solution 6/44
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decCPUSpeed':
+
+  Variable[1]: Match for rule 'decCPUSpeed':
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: Match for rule 'decCPUSpeed':
+
+  Variable[4]: Match for rule 'decCPUSpeed':
+
+  Variable[5]: Match for rule 'decCPUSpeed':
+
+  Variable[6]: Match for rule 'decCPUSpeed':
+
+  Variable[7]: Match for rule 'decCPUSpeed':
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: Match for rule 'decCPUSpeed':
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: Match for rule 'decCPUSpeed':
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: Match for rule 'decCPUSpeed':
+
+  Variable[25]: Match for rule 'decCPUSpeed':
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: Match for rule 'decCPUSpeed':
+
+  Variable[48]: Match for rule 'decCPUSpeed':
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -189.0
+  rank: 0
+  Normalized Objectives: [0.6590909090909091, 0.3409090909090909]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -210.0
+  SolutionLength: 21.0
+Number of constraints: 0
+
+------------------
+Solution 7/44
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decCPUSpeed':
+
+  Variable[1]: Match for rule 'decCPUSpeed':
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: Match for rule 'decCPUSpeed':
+
+  Variable[4]: Match for rule 'decCPUSpeed':
+
+  Variable[5]: Match for rule 'decCPUSpeed':
+
+  Variable[6]: Match for rule 'decCPUSpeed':
+
+  Variable[7]: Match for rule 'decCPUSpeed':
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: Match for rule 'decCPUSpeed':
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: Match for rule 'decCPUSpeed':
+
+  Variable[12]: Match for rule 'decCPUSpeed':
+
+  Variable[13]: Match for rule 'decCPUSpeed':
+
+  Variable[14]: Match for rule 'decCPUSpeed':
+
+  Variable[15]: Match for rule 'decCPUSpeed':
+
+  Variable[16]: Match for rule 'decCPUSpeed':
+
+  Variable[17]: Match for rule 'decCPUSpeed':
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: Match for rule 'decCPUSpeed':
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: Match for rule 'decCPUSpeed':
+
+  Variable[22]: Match for rule 'decCPUSpeed':
+
+  Variable[23]: Match for rule 'decCPUSpeed':
+
+  Variable[24]: Match for rule 'decCPUSpeed':
+
+  Variable[25]: Match for rule 'decCPUSpeed':
+
+  Variable[26]: Match for rule 'decCPUSpeed':
+
+  Variable[27]: Match for rule 'decCPUSpeed':
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: Match for rule 'decCPUSpeed':
+
+  Variable[30]: Match for rule 'decCPUSpeed':
+
+  Variable[31]: Match for rule 'decCPUSpeed':
+
+  Variable[32]: Match for rule 'decCPUSpeed':
+
+  Variable[33]: Match for rule 'decCPUSpeed':
+
+  Variable[34]: Match for rule 'decCPUSpeed':
+
+  Variable[35]: Match for rule 'decCPUSpeed':
+
+  Variable[36]: Match for rule 'decCPUSpeed':
+
+  Variable[37]: Match for rule 'decCPUSpeed':
+
+  Variable[38]: Match for rule 'decCPUSpeed':
+
+  Variable[39]: Match for rule 'decCPUSpeed':
+
+  Variable[40]: Match for rule 'decCPUSpeed':
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: Match for rule 'decCPUSpeed':
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: Match for rule 'decCPUSpeed':
+
+  Variable[47]: Match for rule 'decCPUSpeed':
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: Match for rule 'decCPUSpeed':
+
+Number of attributes: 4
+  AggregatedFitness: -423.0
+  rank: 0
+  Normalized Objectives: [0.06818181818181818, 0.9318181818181818]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -470.0
+  SolutionLength: 47.0
+Number of constraints: 0
+
+------------------
+Solution 8/44
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: Match for rule 'decCPUSpeed':
+
+  Variable[25]: Match for rule 'decCPUSpeed':
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: Match for rule 'decCPUSpeed':
+
+  Variable[34]: Match for rule 'decCPUSpeed':
+
+  Variable[35]: Match for rule 'decCPUSpeed':
+
+  Variable[36]: Match for rule 'decCPUSpeed':
+
+  Variable[37]: Match for rule 'decCPUSpeed':
+
+  Variable[38]: Match for rule 'decCPUSpeed':
+
+  Variable[39]: Match for rule 'decCPUSpeed':
+
+  Variable[40]: Match for rule 'decCPUSpeed':
+
+  Variable[41]: Match for rule 'decCPUSpeed':
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: Match for rule 'decCPUSpeed':
+
+  Variable[44]: Match for rule 'decCPUSpeed':
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: Match for rule 'decCPUSpeed':
+
+  Variable[47]: Match for rule 'decCPUSpeed':
+
+  Variable[48]: Match for rule 'decCPUSpeed':
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -216.0
+  rank: 0
+  Normalized Objectives: [0.5909090909090909, 0.4090909090909091]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -240.0
+  SolutionLength: 24.0
+Number of constraints: 0
+
+------------------
+Solution 9/44
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decCPUSpeed':
+
+  Variable[1]: Match for rule 'decCPUSpeed':
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: Match for rule 'decCPUSpeed':
+
+  Variable[6]: Match for rule 'decCPUSpeed':
+
+  Variable[7]: Match for rule 'decCPUSpeed':
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: Match for rule 'decCPUSpeed':
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: Match for rule 'decCPUSpeed':
+
+  Variable[12]: Match for rule 'decCPUSpeed':
+
+  Variable[13]: Match for rule 'decCPUSpeed':
+
+  Variable[14]: Match for rule 'decCPUSpeed':
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: Match for rule 'decCPUSpeed':
+
+  Variable[17]: Match for rule 'decCPUSpeed':
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: Match for rule 'decCPUSpeed':
+
+  Variable[33]: Match for rule 'decCPUSpeed':
+
+  Variable[34]: Match for rule 'decCPUSpeed':
+
+  Variable[35]: Match for rule 'decCPUSpeed':
+
+  Variable[36]: Match for rule 'decCPUSpeed':
+
+  Variable[37]: Match for rule 'decCPUSpeed':
+
+  Variable[38]: Match for rule 'decCPUSpeed':
+
+  Variable[39]: Match for rule 'decCPUSpeed':
+
+  Variable[40]: Match for rule 'decCPUSpeed':
+
+  Variable[41]: Match for rule 'decCPUSpeed':
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: Match for rule 'decCPUSpeed':
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: Match for rule 'decCPUSpeed':
+
+  Variable[47]: Match for rule 'decCPUSpeed':
+
+  Variable[48]: Match for rule 'decCPUSpeed':
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -306.0
+  rank: 0
+  Normalized Objectives: [0.36363636363636365, 0.6363636363636364]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -340.0
+  SolutionLength: 34.0
+Number of constraints: 0
+
+------------------
+Solution 10/44
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decCPUSpeed':
+
+  Variable[1]: Match for rule 'decCPUSpeed':
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: Match for rule 'decCPUSpeed':
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: Match for rule 'decCPUSpeed':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -108.0
+  rank: 0
+  Normalized Objectives: [0.8636363636363636, 0.13636363636363635]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -120.0
+  SolutionLength: 12.0
+Number of constraints: 0
+
+------------------
+Solution 11/44
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decCPUSpeed':
+
+  Variable[1]: Match for rule 'decCPUSpeed':
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: Match for rule 'decCPUSpeed':
+
+  Variable[4]: Match for rule 'decCPUSpeed':
+
+  Variable[5]: Match for rule 'decCPUSpeed':
+
+  Variable[6]: Match for rule 'decCPUSpeed':
+
+  Variable[7]: Match for rule 'decCPUSpeed':
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: Match for rule 'decCPUSpeed':
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: Match for rule 'decCPUSpeed':
+
+  Variable[12]: Match for rule 'decCPUSpeed':
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: Match for rule 'decCPUSpeed':
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: Match for rule 'decCPUSpeed':
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: Match for rule 'decCPUSpeed':
+
+  Variable[47]: Match for rule 'decCPUSpeed':
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: Match for rule 'decCPUSpeed':
+
+Number of attributes: 4
+  AggregatedFitness: -207.0
+  rank: 0
+  Normalized Objectives: [0.6136363636363636, 0.38636363636363635]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -230.0
+  SolutionLength: 23.0
+Number of constraints: 0
+
+------------------
+Solution 12/44
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: Match for rule 'decCPUSpeed':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: Match for rule 'decCPUSpeed':
+
+  Variable[17]: Match for rule 'decCPUSpeed':
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: Match for rule 'decCPUSpeed':
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: Match for rule 'decCPUSpeed':
+
+  Variable[22]: Match for rule 'decCPUSpeed':
+
+  Variable[23]: Match for rule 'decCPUSpeed':
+
+  Variable[24]: Match for rule 'decCPUSpeed':
+
+  Variable[25]: Match for rule 'decCPUSpeed':
+
+  Variable[26]: Match for rule 'decCPUSpeed':
+
+  Variable[27]: Match for rule 'decCPUSpeed':
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: Match for rule 'decCPUSpeed':
+
+  Variable[30]: Match for rule 'decCPUSpeed':
+
+  Variable[31]: Match for rule 'decCPUSpeed':
+
+  Variable[32]: Match for rule 'decCPUSpeed':
+
+  Variable[33]: Match for rule 'decCPUSpeed':
+
+  Variable[34]: Match for rule 'decCPUSpeed':
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: Match for rule 'decCPUSpeed':
+
+  Variable[37]: Match for rule 'decCPUSpeed':
+
+  Variable[38]: Match for rule 'decCPUSpeed':
+
+  Variable[39]: Match for rule 'decCPUSpeed':
+
+  Variable[40]: Match for rule 'decCPUSpeed':
+
+  Variable[41]: Match for rule 'decCPUSpeed':
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: Match for rule 'decCPUSpeed':
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: Match for rule 'decCPUSpeed':
+
+  Variable[47]: Match for rule 'decCPUSpeed':
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: Match for rule 'decCPUSpeed':
+
+Number of attributes: 4
+  AggregatedFitness: -315.0
+  rank: 0
+  Normalized Objectives: [0.3409090909090909, 0.6590909090909091]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -350.0
+  SolutionLength: 35.0
+Number of constraints: 0
+
+------------------
+Solution 13/44
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decCPUSpeed':
+
+  Variable[1]: Match for rule 'decCPUSpeed':
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: Match for rule 'decCPUSpeed':
+
+  Variable[4]: Match for rule 'decCPUSpeed':
+
+  Variable[5]: Match for rule 'decCPUSpeed':
+
+  Variable[6]: Match for rule 'decCPUSpeed':
+
+  Variable[7]: Match for rule 'decCPUSpeed':
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: Match for rule 'decCPUSpeed':
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: Match for rule 'decCPUSpeed':
+
+  Variable[12]: Match for rule 'decCPUSpeed':
+
+  Variable[13]: Match for rule 'decCPUSpeed':
+
+  Variable[14]: Match for rule 'decCPUSpeed':
+
+  Variable[15]: Match for rule 'decCPUSpeed':
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: Match for rule 'decCPUSpeed':
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: Match for rule 'decCPUSpeed':
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: Match for rule 'decCPUSpeed':
+
+  Variable[22]: Match for rule 'decCPUSpeed':
+
+  Variable[23]: Match for rule 'decCPUSpeed':
+
+  Variable[24]: Match for rule 'decCPUSpeed':
+
+  Variable[25]: Match for rule 'decCPUSpeed':
+
+  Variable[26]: Match for rule 'decCPUSpeed':
+
+  Variable[27]: Match for rule 'decCPUSpeed':
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: Match for rule 'decCPUSpeed':
+
+  Variable[30]: Match for rule 'decCPUSpeed':
+
+  Variable[31]: Match for rule 'decCPUSpeed':
+
+  Variable[32]: Match for rule 'decCPUSpeed':
+
+  Variable[33]: Match for rule 'decCPUSpeed':
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decCPUSpeed':
+
+  Variable[36]: Match for rule 'decCPUSpeed':
+
+  Variable[37]: Match for rule 'decCPUSpeed':
+
+  Variable[38]: Match for rule 'decCPUSpeed':
+
+  Variable[39]: Match for rule 'decCPUSpeed':
+
+  Variable[40]: Match for rule 'decCPUSpeed':
+
+  Variable[41]: Match for rule 'decCPUSpeed':
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: Match for rule 'decCPUSpeed':
+
+  Variable[44]: Match for rule 'decCPUSpeed':
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: Match for rule 'decCPUSpeed':
+
+  Variable[47]: Match for rule 'decCPUSpeed':
+
+  Variable[48]: Match for rule 'decCPUSpeed':
+
+  Variable[49]: Match for rule 'decCPUSpeed':
+
+Number of attributes: 4
+  AggregatedFitness: -432.0
+  rank: 0
+  Normalized Objectives: [0.045454545454545456, 0.9545454545454546]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -480.0
+  SolutionLength: 48.0
+Number of constraints: 0
+
+------------------
+Solution 14/44
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: Match for rule 'decCPUSpeed':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: Match for rule 'decCPUSpeed':
+
+  Variable[44]: Match for rule 'decCPUSpeed':
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: Match for rule 'decCPUSpeed':
+
+  Variable[47]: Match for rule 'decCPUSpeed':
+
+  Variable[48]: Match for rule 'decCPUSpeed':
+
+  Variable[49]: Match for rule 'decCPUSpeed':
+
+Number of attributes: 4
+  AggregatedFitness: -135.0
+  rank: 0
+  Normalized Objectives: [0.7954545454545454, 0.20454545454545456]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -150.0
+  SolutionLength: 15.0
+Number of constraints: 0
+
+------------------
+Solution 15/44
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: Match for rule 'decCPUSpeed':
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: Match for rule 'decCPUSpeed':
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: Match for rule 'decCPUSpeed':
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -90.0
+  rank: 0
+  Normalized Objectives: [0.9090909090909091, 0.09090909090909091]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -100.0
+  SolutionLength: 10.0
+Number of constraints: 0
+
+------------------
+Solution 16/44
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decCPUSpeed':
+
+  Variable[1]: Match for rule 'decCPUSpeed':
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: Match for rule 'decCPUSpeed':
+
+  Variable[4]: Match for rule 'decCPUSpeed':
+
+  Variable[5]: Match for rule 'decCPUSpeed':
+
+  Variable[6]: Match for rule 'decCPUSpeed':
+
+  Variable[7]: Match for rule 'decCPUSpeed':
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: Match for rule 'decCPUSpeed':
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: Match for rule 'decCPUSpeed':
+
+  Variable[12]: Match for rule 'decCPUSpeed':
+
+  Variable[13]: Match for rule 'decCPUSpeed':
+
+  Variable[14]: Match for rule 'decCPUSpeed':
+
+  Variable[15]: Match for rule 'decCPUSpeed':
+
+  Variable[16]: Match for rule 'decCPUSpeed':
+
+  Variable[17]: Match for rule 'decCPUSpeed':
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: Match for rule 'decCPUSpeed':
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: Match for rule 'decCPUSpeed':
+
+  Variable[22]: Match for rule 'decCPUSpeed':
+
+  Variable[23]: Match for rule 'decCPUSpeed':
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: Match for rule 'decCPUSpeed':
+
+  Variable[40]: Match for rule 'decCPUSpeed':
+
+  Variable[41]: Match for rule 'decCPUSpeed':
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: Match for rule 'decCPUSpeed':
+
+  Variable[44]: Match for rule 'decCPUSpeed':
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: Match for rule 'decCPUSpeed':
+
+  Variable[47]: Match for rule 'decCPUSpeed':
+
+  Variable[48]: Match for rule 'decCPUSpeed':
+
+  Variable[49]: Match for rule 'decCPUSpeed':
+
+Number of attributes: 4
+  AggregatedFitness: -324.0
+  rank: 0
+  Normalized Objectives: [0.3181818181818182, 0.6818181818181818]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -360.0
+  SolutionLength: 36.0
+Number of constraints: 0
+
+------------------
+Solution 17/44
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decCPUSpeed':
+
+  Variable[1]: Match for rule 'decCPUSpeed':
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: Match for rule 'decCPUSpeed':
+
+  Variable[4]: Match for rule 'decCPUSpeed':
+
+  Variable[5]: Match for rule 'decCPUSpeed':
+
+  Variable[6]: Match for rule 'decCPUSpeed':
+
+  Variable[7]: Match for rule 'decCPUSpeed':
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: Match for rule 'decCPUSpeed':
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: Match for rule 'decCPUSpeed':
+
+  Variable[12]: Match for rule 'decCPUSpeed':
+
+  Variable[13]: Match for rule 'decCPUSpeed':
+
+  Variable[14]: Match for rule 'decCPUSpeed':
+
+  Variable[15]: Match for rule 'decCPUSpeed':
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: Match for rule 'decCPUSpeed':
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: Match for rule 'decCPUSpeed':
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: Match for rule 'decCPUSpeed':
+
+  Variable[22]: Match for rule 'decCPUSpeed':
+
+  Variable[23]: Match for rule 'decCPUSpeed':
+
+  Variable[24]: Match for rule 'decCPUSpeed':
+
+  Variable[25]: Match for rule 'decCPUSpeed':
+
+  Variable[26]: Match for rule 'decCPUSpeed':
+
+  Variable[27]: Match for rule 'decCPUSpeed':
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: Match for rule 'decCPUSpeed':
+
+  Variable[34]: Match for rule 'decCPUSpeed':
+
+  Variable[35]: Match for rule 'decCPUSpeed':
+
+  Variable[36]: Match for rule 'decCPUSpeed':
+
+  Variable[37]: Match for rule 'decCPUSpeed':
+
+  Variable[38]: Match for rule 'decCPUSpeed':
+
+  Variable[39]: Match for rule 'decCPUSpeed':
+
+  Variable[40]: Match for rule 'decCPUSpeed':
+
+  Variable[41]: Match for rule 'decCPUSpeed':
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: Match for rule 'decCPUSpeed':
+
+  Variable[44]: Match for rule 'decCPUSpeed':
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: Match for rule 'decCPUSpeed':
+
+  Variable[47]: Match for rule 'decCPUSpeed':
+
+  Variable[48]: Match for rule 'decCPUSpeed':
+
+  Variable[49]: Match for rule 'decCPUSpeed':
+
+Number of attributes: 4
+  AggregatedFitness: -405.0
+  rank: 0
+  Normalized Objectives: [0.11363636363636363, 0.8863636363636364]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -450.0
+  SolutionLength: 45.0
+Number of constraints: 0
+
+------------------
+Solution 18/44
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: Match for rule 'decCPUSpeed':
+
+  Variable[6]: Match for rule 'decCPUSpeed':
+
+  Variable[7]: Match for rule 'decCPUSpeed':
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: Match for rule 'decCPUSpeed':
+
+  Variable[24]: Match for rule 'decCPUSpeed':
+
+  Variable[25]: Match for rule 'decCPUSpeed':
+
+  Variable[26]: Match for rule 'decCPUSpeed':
+
+  Variable[27]: Match for rule 'decCPUSpeed':
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: Match for rule 'decCPUSpeed':
+
+  Variable[30]: Match for rule 'decCPUSpeed':
+
+  Variable[31]: Match for rule 'decCPUSpeed':
+
+  Variable[32]: Match for rule 'decCPUSpeed':
+
+  Variable[33]: Match for rule 'decCPUSpeed':
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decCPUSpeed':
+
+  Variable[36]: Match for rule 'decCPUSpeed':
+
+  Variable[37]: Match for rule 'decCPUSpeed':
+
+  Variable[38]: Match for rule 'decCPUSpeed':
+
+  Variable[39]: Match for rule 'decCPUSpeed':
+
+  Variable[40]: Match for rule 'decCPUSpeed':
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: Match for rule 'decCPUSpeed':
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: Match for rule 'decCPUSpeed':
+
+  Variable[47]: Match for rule 'decCPUSpeed':
+
+  Variable[48]: Match for rule 'decCPUSpeed':
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -270.0
+  rank: 0
+  Normalized Objectives: [0.45454545454545453, 0.5454545454545454]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -300.0
+  SolutionLength: 30.0
+Number of constraints: 0
+
+------------------
+Solution 19/44
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decCPUSpeed':
+
+  Variable[1]: Match for rule 'decCPUSpeed':
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: Match for rule 'decCPUSpeed':
+
+  Variable[4]: Match for rule 'decCPUSpeed':
+
+  Variable[5]: Match for rule 'decCPUSpeed':
+
+  Variable[6]: Match for rule 'decCPUSpeed':
+
+  Variable[7]: Match for rule 'decCPUSpeed':
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: Match for rule 'decCPUSpeed':
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: Match for rule 'decCPUSpeed':
+
+  Variable[12]: Match for rule 'decCPUSpeed':
+
+  Variable[13]: Match for rule 'decCPUSpeed':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: Match for rule 'decCPUSpeed':
+
+  Variable[44]: Match for rule 'decCPUSpeed':
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: Match for rule 'decCPUSpeed':
+
+  Variable[47]: Match for rule 'decCPUSpeed':
+
+  Variable[48]: Match for rule 'decCPUSpeed':
+
+  Variable[49]: Match for rule 'decCPUSpeed':
+
+Number of attributes: 4
+  AggregatedFitness: -225.0
+  rank: 0
+  Normalized Objectives: [0.5681818181818182, 0.4318181818181818]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -250.0
+  SolutionLength: 25.0
+Number of constraints: 0
+
+------------------
+Solution 20/44
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decCPUSpeed':
+
+  Variable[1]: Match for rule 'decCPUSpeed':
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: Match for rule 'decCPUSpeed':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: Match for rule 'decCPUSpeed':
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: Match for rule 'decCPUSpeed':
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -117.0
+  rank: 0
+  Normalized Objectives: [0.8409090909090909, 0.1590909090909091]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -130.0
+  SolutionLength: 13.0
+Number of constraints: 0
+
+------------------
+Solution 21/44
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decCPUSpeed':
+
+  Variable[1]: Match for rule 'decCPUSpeed':
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: Match for rule 'decCPUSpeed':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: Match for rule 'decCPUSpeed':
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: Match for rule 'decCPUSpeed':
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: Match for rule 'decCPUSpeed':
+
+  Variable[35]: Match for rule 'decCPUSpeed':
+
+  Variable[36]: Match for rule 'decCPUSpeed':
+
+  Variable[37]: Match for rule 'decCPUSpeed':
+
+  Variable[38]: Match for rule 'decCPUSpeed':
+
+  Variable[39]: Match for rule 'decCPUSpeed':
+
+  Variable[40]: Match for rule 'decCPUSpeed':
+
+  Variable[41]: Match for rule 'decCPUSpeed':
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: Match for rule 'decCPUSpeed':
+
+  Variable[44]: Match for rule 'decCPUSpeed':
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: Match for rule 'decCPUSpeed':
+
+  Variable[47]: Match for rule 'decCPUSpeed':
+
+  Variable[48]: Match for rule 'decCPUSpeed':
+
+  Variable[49]: Match for rule 'decCPUSpeed':
+
+Number of attributes: 4
+  AggregatedFitness: -243.0
+  rank: 0
+  Normalized Objectives: [0.5227272727272727, 0.4772727272727273]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -270.0
+  SolutionLength: 27.0
+Number of constraints: 0
+
+------------------
+Solution 22/44
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decCPUSpeed':
+
+  Variable[1]: Match for rule 'decCPUSpeed':
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: Match for rule 'decCPUSpeed':
+
+  Variable[4]: Match for rule 'decCPUSpeed':
+
+  Variable[5]: Match for rule 'decCPUSpeed':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: Match for rule 'decCPUSpeed':
+
+  Variable[10]: -Placeholder-
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: Match for rule 'decCPUSpeed':
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -126.0
+  rank: 0
+  Normalized Objectives: [0.8181818181818182, 0.18181818181818182]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -140.0
+  SolutionLength: 14.0
+Number of constraints: 0
+
+------------------
+Solution 23/44
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decCPUSpeed':
+
+  Variable[1]: Match for rule 'decCPUSpeed':
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: Match for rule 'decCPUSpeed':
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: Match for rule 'decCPUSpeed':
+
+  Variable[12]: Match for rule 'decCPUSpeed':
+
+  Variable[13]: Match for rule 'decCPUSpeed':
+
+  Variable[14]: Match for rule 'decCPUSpeed':
+
+  Variable[15]: Match for rule 'decCPUSpeed':
+
+  Variable[16]: Match for rule 'decCPUSpeed':
+
+  Variable[17]: Match for rule 'decCPUSpeed':
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: Match for rule 'decCPUSpeed':
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: Match for rule 'decCPUSpeed':
+
+  Variable[22]: Match for rule 'decCPUSpeed':
+
+  Variable[23]: Match for rule 'decCPUSpeed':
+
+  Variable[24]: Match for rule 'decCPUSpeed':
+
+  Variable[25]: Match for rule 'decCPUSpeed':
+
+  Variable[26]: Match for rule 'decCPUSpeed':
+
+  Variable[27]: Match for rule 'decCPUSpeed':
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: Match for rule 'decCPUSpeed':
+
+  Variable[30]: Match for rule 'decCPUSpeed':
+
+  Variable[31]: Match for rule 'decCPUSpeed':
+
+  Variable[32]: Match for rule 'decCPUSpeed':
+
+  Variable[33]: Match for rule 'decCPUSpeed':
+
+  Variable[34]: Match for rule 'decCPUSpeed':
+
+  Variable[35]: Match for rule 'decCPUSpeed':
+
+  Variable[36]: Match for rule 'decCPUSpeed':
+
+  Variable[37]: Match for rule 'decCPUSpeed':
+
+  Variable[38]: Match for rule 'decCPUSpeed':
+
+  Variable[39]: Match for rule 'decCPUSpeed':
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: Match for rule 'decCPUSpeed':
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: Match for rule 'decCPUSpeed':
+
+  Variable[47]: Match for rule 'decCPUSpeed':
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: Match for rule 'decCPUSpeed':
+
+Number of attributes: 4
+  AggregatedFitness: -369.0
+  rank: 0
+  Normalized Objectives: [0.20454545454545456, 0.7954545454545454]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -410.0
+  SolutionLength: 41.0
+Number of constraints: 0
+
+------------------
+Solution 24/44
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: Match for rule 'decCPUSpeed':
+
+  Variable[4]: Match for rule 'decCPUSpeed':
+
+  Variable[5]: Match for rule 'decCPUSpeed':
+
+  Variable[6]: Match for rule 'decCPUSpeed':
+
+  Variable[7]: Match for rule 'decCPUSpeed':
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: Match for rule 'decCPUSpeed':
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: Match for rule 'decCPUSpeed':
+
+  Variable[12]: Match for rule 'decCPUSpeed':
+
+  Variable[13]: Match for rule 'decCPUSpeed':
+
+  Variable[14]: Match for rule 'decCPUSpeed':
+
+  Variable[15]: Match for rule 'decCPUSpeed':
+
+  Variable[16]: Match for rule 'decCPUSpeed':
+
+  Variable[17]: Match for rule 'decCPUSpeed':
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: Match for rule 'decCPUSpeed':
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: Match for rule 'decCPUSpeed':
+
+  Variable[22]: Match for rule 'decCPUSpeed':
+
+  Variable[23]: Match for rule 'decCPUSpeed':
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: Match for rule 'decCPUSpeed':
+
+  Variable[26]: Match for rule 'decCPUSpeed':
+
+  Variable[27]: Match for rule 'decCPUSpeed':
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: Match for rule 'decCPUSpeed':
+
+  Variable[30]: Match for rule 'decCPUSpeed':
+
+  Variable[31]: Match for rule 'decCPUSpeed':
+
+  Variable[32]: Match for rule 'decCPUSpeed':
+
+  Variable[33]: Match for rule 'decCPUSpeed':
+
+  Variable[34]: Match for rule 'decCPUSpeed':
+
+  Variable[35]: Match for rule 'decCPUSpeed':
+
+  Variable[36]: Match for rule 'decCPUSpeed':
+
+  Variable[37]: Match for rule 'decCPUSpeed':
+
+  Variable[38]: Match for rule 'decCPUSpeed':
+
+  Variable[39]: Match for rule 'decCPUSpeed':
+
+  Variable[40]: Match for rule 'decCPUSpeed':
+
+  Variable[41]: Match for rule 'decCPUSpeed':
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: Match for rule 'decCPUSpeed':
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: Match for rule 'decCPUSpeed':
+
+  Variable[48]: Match for rule 'decCPUSpeed':
+
+  Variable[49]: Match for rule 'decCPUSpeed':
+
+Number of attributes: 4
+  AggregatedFitness: -396.0
+  rank: 0
+  Normalized Objectives: [0.13636363636363635, 0.8636363636363636]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -440.0
+  SolutionLength: 44.0
+Number of constraints: 0
+
+------------------
+Solution 25/44
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decCPUSpeed':
+
+  Variable[1]: Match for rule 'decCPUSpeed':
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: Match for rule 'decCPUSpeed':
+
+  Variable[4]: Match for rule 'decCPUSpeed':
+
+  Variable[5]: Match for rule 'decCPUSpeed':
+
+  Variable[6]: Match for rule 'decCPUSpeed':
+
+  Variable[7]: Match for rule 'decCPUSpeed':
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: Match for rule 'decCPUSpeed':
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: Match for rule 'decCPUSpeed':
+
+  Variable[12]: Match for rule 'decCPUSpeed':
+
+  Variable[13]: Match for rule 'decCPUSpeed':
+
+  Variable[14]: Match for rule 'decCPUSpeed':
+
+  Variable[15]: Match for rule 'decCPUSpeed':
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: Match for rule 'decCPUSpeed':
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: Match for rule 'decCPUSpeed':
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: Match for rule 'decCPUSpeed':
+
+  Variable[22]: Match for rule 'decCPUSpeed':
+
+  Variable[23]: Match for rule 'decCPUSpeed':
+
+  Variable[24]: Match for rule 'decCPUSpeed':
+
+  Variable[25]: Match for rule 'decCPUSpeed':
+
+  Variable[26]: Match for rule 'decCPUSpeed':
+
+  Variable[27]: Match for rule 'decCPUSpeed':
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: Match for rule 'decCPUSpeed':
+
+  Variable[30]: Match for rule 'decCPUSpeed':
+
+  Variable[31]: Match for rule 'decCPUSpeed':
+
+  Variable[32]: Match for rule 'decCPUSpeed':
+
+  Variable[33]: Match for rule 'decCPUSpeed':
+
+  Variable[34]: Match for rule 'decCPUSpeed':
+
+  Variable[35]: Match for rule 'decCPUSpeed':
+
+  Variable[36]: Match for rule 'decCPUSpeed':
+
+  Variable[37]: Match for rule 'decCPUSpeed':
+
+  Variable[38]: Match for rule 'decCPUSpeed':
+
+  Variable[39]: Match for rule 'decCPUSpeed':
+
+  Variable[40]: Match for rule 'decCPUSpeed':
+
+  Variable[41]: Match for rule 'decCPUSpeed':
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -387.0
+  rank: 0
+  Normalized Objectives: [0.1590909090909091, 0.8409090909090909]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -430.0
+  SolutionLength: 43.0
+Number of constraints: 0
+
+------------------
+Solution 26/44
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decCPUSpeed':
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: Match for rule 'decCPUSpeed':
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: Match for rule 'decCPUSpeed':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: Match for rule 'decCPUSpeed':
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: Match for rule 'decCPUSpeed':
+
+  Variable[27]: Match for rule 'decCPUSpeed':
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: Match for rule 'decCPUSpeed':
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: Match for rule 'decCPUSpeed':
+
+  Variable[32]: Match for rule 'decCPUSpeed':
+
+  Variable[33]: Match for rule 'decCPUSpeed':
+
+  Variable[34]: Match for rule 'decCPUSpeed':
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: Match for rule 'decCPUSpeed':
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: Match for rule 'decCPUSpeed':
+
+Number of attributes: 4
+  AggregatedFitness: -180.0
+  rank: 0
+  Normalized Objectives: [0.6818181818181818, 0.3181818181818182]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -200.0
+  SolutionLength: 20.0
+Number of constraints: 0
+
+------------------
+Solution 27/44
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decCPUSpeed':
+
+  Variable[1]: Match for rule 'decCPUSpeed':
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: Match for rule 'decCPUSpeed':
+
+  Variable[6]: Match for rule 'decCPUSpeed':
+
+  Variable[7]: Match for rule 'decCPUSpeed':
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: Match for rule 'decCPUSpeed':
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: Match for rule 'decCPUSpeed':
+
+  Variable[12]: Match for rule 'decCPUSpeed':
+
+  Variable[13]: Match for rule 'decCPUSpeed':
+
+  Variable[14]: Match for rule 'decCPUSpeed':
+
+  Variable[15]: Match for rule 'decCPUSpeed':
+
+  Variable[16]: Match for rule 'decCPUSpeed':
+
+  Variable[17]: Match for rule 'decCPUSpeed':
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: Match for rule 'decCPUSpeed':
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: Match for rule 'decCPUSpeed':
+
+  Variable[22]: Match for rule 'decCPUSpeed':
+
+  Variable[23]: Match for rule 'decCPUSpeed':
+
+  Variable[24]: Match for rule 'decCPUSpeed':
+
+  Variable[25]: Match for rule 'decCPUSpeed':
+
+  Variable[26]: Match for rule 'decCPUSpeed':
+
+  Variable[27]: Match for rule 'decCPUSpeed':
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: Match for rule 'decCPUSpeed':
+
+  Variable[30]: Match for rule 'decCPUSpeed':
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: Match for rule 'decCPUSpeed':
+
+  Variable[33]: Match for rule 'decCPUSpeed':
+
+  Variable[34]: Match for rule 'decCPUSpeed':
+
+  Variable[35]: Match for rule 'decCPUSpeed':
+
+  Variable[36]: Match for rule 'decCPUSpeed':
+
+  Variable[37]: Match for rule 'decCPUSpeed':
+
+  Variable[38]: Match for rule 'decCPUSpeed':
+
+  Variable[39]: Match for rule 'decCPUSpeed':
+
+  Variable[40]: Match for rule 'decCPUSpeed':
+
+  Variable[41]: Match for rule 'decCPUSpeed':
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: Match for rule 'decCPUSpeed':
+
+  Variable[44]: Match for rule 'decCPUSpeed':
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: Match for rule 'decCPUSpeed':
+
+  Variable[47]: Match for rule 'decCPUSpeed':
+
+  Variable[48]: Match for rule 'decCPUSpeed':
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -414.0
+  rank: 0
+  Normalized Objectives: [0.09090909090909091, 0.9090909090909091]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -460.0
+  SolutionLength: 46.0
+Number of constraints: 0
+
+------------------
+Solution 28/44
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decCPUSpeed':
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: Match for rule 'decCPUSpeed':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: Match for rule 'decCPUSpeed':
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: Match for rule 'decCPUSpeed':
+
+  Variable[35]: Match for rule 'decCPUSpeed':
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: Match for rule 'decCPUSpeed':
+
+  Variable[38]: Match for rule 'decCPUSpeed':
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: Match for rule 'decCPUSpeed':
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: Match for rule 'decCPUSpeed':
+
+  Variable[44]: Match for rule 'decCPUSpeed':
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -162.0
+  rank: 0
+  Normalized Objectives: [0.7272727272727273, 0.2727272727272727]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -180.0
+  SolutionLength: 18.0
+Number of constraints: 0
+
+------------------
+Solution 29/44
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decCPUSpeed':
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: Match for rule 'decCPUSpeed':
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: Match for rule 'decCPUSpeed':
+
+  Variable[12]: Match for rule 'decCPUSpeed':
+
+  Variable[13]: Match for rule 'decCPUSpeed':
+
+  Variable[14]: Match for rule 'decCPUSpeed':
+
+  Variable[15]: Match for rule 'decCPUSpeed':
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: Match for rule 'decCPUSpeed':
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: Match for rule 'decCPUSpeed':
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: Match for rule 'decCPUSpeed':
+
+  Variable[22]: Match for rule 'decCPUSpeed':
+
+  Variable[23]: Match for rule 'decCPUSpeed':
+
+  Variable[24]: Match for rule 'decCPUSpeed':
+
+  Variable[25]: Match for rule 'decCPUSpeed':
+
+  Variable[26]: Match for rule 'decCPUSpeed':
+
+  Variable[27]: Match for rule 'decCPUSpeed':
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: Match for rule 'decCPUSpeed':
+
+  Variable[30]: Match for rule 'decCPUSpeed':
+
+  Variable[31]: Match for rule 'decCPUSpeed':
+
+  Variable[32]: Match for rule 'decCPUSpeed':
+
+  Variable[33]: Match for rule 'decCPUSpeed':
+
+  Variable[34]: Match for rule 'decCPUSpeed':
+
+  Variable[35]: Match for rule 'decCPUSpeed':
+
+  Variable[36]: Match for rule 'decCPUSpeed':
+
+  Variable[37]: Match for rule 'decCPUSpeed':
+
+  Variable[38]: Match for rule 'decCPUSpeed':
+
+  Variable[39]: Match for rule 'decCPUSpeed':
+
+  Variable[40]: Match for rule 'decCPUSpeed':
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: Match for rule 'decCPUSpeed':
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: Match for rule 'decCPUSpeed':
+
+  Variable[47]: Match for rule 'decCPUSpeed':
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: Match for rule 'decCPUSpeed':
+
+Number of attributes: 4
+  AggregatedFitness: -360.0
+  rank: 0
+  Normalized Objectives: [0.22727272727272727, 0.7727272727272727]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -400.0
+  SolutionLength: 40.0
+Number of constraints: 0
+
+------------------
+Solution 30/44
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decCPUSpeed':
+
+  Variable[1]: Match for rule 'decCPUSpeed':
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: Match for rule 'decCPUSpeed':
+
+  Variable[4]: Match for rule 'decCPUSpeed':
+
+  Variable[5]: Match for rule 'decCPUSpeed':
+
+  Variable[6]: Match for rule 'decCPUSpeed':
+
+  Variable[7]: Match for rule 'decCPUSpeed':
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: Match for rule 'decCPUSpeed':
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: Match for rule 'decCPUSpeed':
+
+  Variable[12]: Match for rule 'decCPUSpeed':
+
+  Variable[13]: Match for rule 'decCPUSpeed':
+
+  Variable[14]: Match for rule 'decCPUSpeed':
+
+  Variable[15]: Match for rule 'decCPUSpeed':
+
+  Variable[16]: Match for rule 'decCPUSpeed':
+
+  Variable[17]: Match for rule 'decCPUSpeed':
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: Match for rule 'decCPUSpeed':
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: Match for rule 'decCPUSpeed':
+
+  Variable[22]: Match for rule 'decCPUSpeed':
+
+  Variable[23]: Match for rule 'decCPUSpeed':
+
+  Variable[24]: Match for rule 'decCPUSpeed':
+
+  Variable[25]: Match for rule 'decCPUSpeed':
+
+  Variable[26]: Match for rule 'decCPUSpeed':
+
+  Variable[27]: Match for rule 'decCPUSpeed':
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: Match for rule 'decCPUSpeed':
+
+  Variable[34]: Match for rule 'decCPUSpeed':
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -297.0
+  rank: 0
+  Normalized Objectives: [0.38636363636363635, 0.6136363636363636]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -330.0
+  SolutionLength: 33.0
+Number of constraints: 0
+
+------------------
+Solution 31/44
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: Match for rule 'decCPUSpeed':
+
+  Variable[13]: Match for rule 'decCPUSpeed':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: -Placeholder-
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: Match for rule 'decCPUSpeed':
+
+  Variable[33]: Match for rule 'decCPUSpeed':
+
+  Variable[34]: Match for rule 'decCPUSpeed':
+
+  Variable[35]: Match for rule 'decCPUSpeed':
+
+  Variable[36]: Match for rule 'decCPUSpeed':
+
+  Variable[37]: Match for rule 'decCPUSpeed':
+
+  Variable[38]: Match for rule 'decCPUSpeed':
+
+  Variable[39]: Match for rule 'decCPUSpeed':
+
+  Variable[40]: Match for rule 'decCPUSpeed':
+
+  Variable[41]: Match for rule 'decCPUSpeed':
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: Match for rule 'decCPUSpeed':
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: Match for rule 'decCPUSpeed':
+
+  Variable[47]: Match for rule 'decCPUSpeed':
+
+  Variable[48]: Match for rule 'decCPUSpeed':
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -198.0
+  rank: 0
+  Normalized Objectives: [0.6363636363636364, 0.36363636363636365]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -220.0
+  SolutionLength: 22.0
+Number of constraints: 0
+
+------------------
+Solution 32/44
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: Match for rule 'decCPUSpeed':
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: Match for rule 'decCPUSpeed':
+
+  Variable[47]: Match for rule 'decCPUSpeed':
+
+  Variable[48]: Match for rule 'decCPUSpeed':
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -99.0
+  rank: 0
+  Normalized Objectives: [0.8863636363636364, 0.11363636363636363]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -110.0
+  SolutionLength: 11.0
+Number of constraints: 0
+
+------------------
+Solution 33/44
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decCPUSpeed':
+
+  Variable[1]: Match for rule 'decCPUSpeed':
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: Match for rule 'decCPUSpeed':
+
+  Variable[4]: Match for rule 'decCPUSpeed':
+
+  Variable[5]: Match for rule 'decCPUSpeed':
+
+  Variable[6]: Match for rule 'decCPUSpeed':
+
+  Variable[7]: Match for rule 'decCPUSpeed':
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: Match for rule 'decCPUSpeed':
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: Match for rule 'decCPUSpeed':
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: Match for rule 'decCPUSpeed':
+
+  Variable[25]: Match for rule 'decCPUSpeed':
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: Match for rule 'decCPUSpeed':
+
+  Variable[31]: Match for rule 'decCPUSpeed':
+
+  Variable[32]: Match for rule 'decCPUSpeed':
+
+  Variable[33]: Match for rule 'decCPUSpeed':
+
+  Variable[34]: Match for rule 'decCPUSpeed':
+
+  Variable[35]: Match for rule 'decCPUSpeed':
+
+  Variable[36]: Match for rule 'decCPUSpeed':
+
+  Variable[37]: Match for rule 'decCPUSpeed':
+
+  Variable[38]: Match for rule 'decCPUSpeed':
+
+  Variable[39]: Match for rule 'decCPUSpeed':
+
+  Variable[40]: Match for rule 'decCPUSpeed':
+
+  Variable[41]: Match for rule 'decCPUSpeed':
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: Match for rule 'decCPUSpeed':
+
+  Variable[44]: Match for rule 'decCPUSpeed':
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: Match for rule 'decCPUSpeed':
+
+  Variable[47]: Match for rule 'decCPUSpeed':
+
+  Variable[48]: Match for rule 'decCPUSpeed':
+
+  Variable[49]: Match for rule 'decCPUSpeed':
+
+Number of attributes: 4
+  AggregatedFitness: -333.0
+  rank: 0
+  Normalized Objectives: [0.29545454545454547, 0.7045454545454546]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -370.0
+  SolutionLength: 37.0
+Number of constraints: 0
+
+------------------
+Solution 34/44
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decCPUSpeed':
+
+  Variable[1]: Match for rule 'decCPUSpeed':
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: Match for rule 'decCPUSpeed':
+
+  Variable[4]: Match for rule 'decCPUSpeed':
+
+  Variable[5]: Match for rule 'decCPUSpeed':
+
+  Variable[6]: Match for rule 'decCPUSpeed':
+
+  Variable[7]: Match for rule 'decCPUSpeed':
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: Match for rule 'decCPUSpeed':
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: Match for rule 'decCPUSpeed':
+
+  Variable[12]: Match for rule 'decCPUSpeed':
+
+  Variable[13]: Match for rule 'decCPUSpeed':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: Match for rule 'decCPUSpeed':
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: Match for rule 'decCPUSpeed':
+
+  Variable[22]: Match for rule 'decCPUSpeed':
+
+  Variable[23]: Match for rule 'decCPUSpeed':
+
+  Variable[24]: Match for rule 'decCPUSpeed':
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: Match for rule 'decCPUSpeed':
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: Match for rule 'decCPUSpeed':
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -234.0
+  rank: 0
+  Normalized Objectives: [0.5454545454545454, 0.45454545454545453]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -260.0
+  SolutionLength: 26.0
+Number of constraints: 0
+
+------------------
+Solution 35/44
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decCPUSpeed':
+
+  Variable[1]: Match for rule 'decCPUSpeed':
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: Match for rule 'decCPUSpeed':
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: Match for rule 'decCPUSpeed':
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: Match for rule 'decCPUSpeed':
+
+  Variable[16]: Match for rule 'decCPUSpeed':
+
+  Variable[17]: Match for rule 'decCPUSpeed':
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: Match for rule 'decCPUSpeed':
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: Match for rule 'decCPUSpeed':
+
+  Variable[22]: Match for rule 'decCPUSpeed':
+
+  Variable[23]: Match for rule 'decCPUSpeed':
+
+  Variable[24]: Match for rule 'decCPUSpeed':
+
+  Variable[25]: Match for rule 'decCPUSpeed':
+
+  Variable[26]: Match for rule 'decCPUSpeed':
+
+  Variable[27]: Match for rule 'decCPUSpeed':
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: Match for rule 'decCPUSpeed':
+
+  Variable[30]: Match for rule 'decCPUSpeed':
+
+  Variable[31]: Match for rule 'decCPUSpeed':
+
+  Variable[32]: Match for rule 'decCPUSpeed':
+
+  Variable[33]: Match for rule 'decCPUSpeed':
+
+  Variable[34]: Match for rule 'decCPUSpeed':
+
+  Variable[35]: Match for rule 'decCPUSpeed':
+
+  Variable[36]: Match for rule 'decCPUSpeed':
+
+  Variable[37]: Match for rule 'decCPUSpeed':
+
+  Variable[38]: Match for rule 'decCPUSpeed':
+
+  Variable[39]: Match for rule 'decCPUSpeed':
+
+  Variable[40]: Match for rule 'decCPUSpeed':
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: Match for rule 'decCPUSpeed':
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: Match for rule 'decCPUSpeed':
+
+  Variable[47]: Match for rule 'decCPUSpeed':
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: Match for rule 'decCPUSpeed':
+
+Number of attributes: 4
+  AggregatedFitness: -342.0
+  rank: 0
+  Normalized Objectives: [0.2727272727272727, 0.7272727272727273]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -380.0
+  SolutionLength: 38.0
+Number of constraints: 0
+
+------------------
+Solution 36/44
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: Match for rule 'decCPUSpeed':
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -72.0
+  rank: 0
+  Normalized Objectives: [0.9545454545454546, 0.045454545454545456]
+  crowdingDistance: 0.13636363636363635
+Number of objectives: 2
+  FirstObjective: -80.0
+  SolutionLength: 8.0
+Number of constraints: 0
+
+------------------
+Solution 37/44
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decCPUSpeed':
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: Match for rule 'decCPUSpeed':
+
+  Variable[6]: Match for rule 'decCPUSpeed':
+
+  Variable[7]: Match for rule 'decCPUSpeed':
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: Match for rule 'decCPUSpeed':
+
+  Variable[24]: Match for rule 'decCPUSpeed':
+
+  Variable[25]: Match for rule 'decCPUSpeed':
+
+  Variable[26]: Match for rule 'decCPUSpeed':
+
+  Variable[27]: Match for rule 'decCPUSpeed':
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: Match for rule 'decCPUSpeed':
+
+  Variable[30]: Match for rule 'decCPUSpeed':
+
+  Variable[31]: Match for rule 'decCPUSpeed':
+
+  Variable[32]: Match for rule 'decCPUSpeed':
+
+  Variable[33]: Match for rule 'decCPUSpeed':
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: Match for rule 'decCPUSpeed':
+
+  Variable[36]: Match for rule 'decCPUSpeed':
+
+  Variable[37]: Match for rule 'decCPUSpeed':
+
+  Variable[38]: Match for rule 'decCPUSpeed':
+
+  Variable[39]: Match for rule 'decCPUSpeed':
+
+  Variable[40]: Match for rule 'decCPUSpeed':
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: Match for rule 'decCPUSpeed':
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: Match for rule 'decCPUSpeed':
+
+  Variable[47]: Match for rule 'decCPUSpeed':
+
+  Variable[48]: Match for rule 'decCPUSpeed':
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -288.0
+  rank: 0
+  Normalized Objectives: [0.4090909090909091, 0.5909090909090909]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -320.0
+  SolutionLength: 32.0
+Number of constraints: 0
+
+------------------
+Solution 38/44
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decCPUSpeed':
+
+  Variable[1]: Match for rule 'decCPUSpeed':
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: Match for rule 'decCPUSpeed':
+
+  Variable[14]: Match for rule 'decCPUSpeed':
+
+  Variable[15]: Match for rule 'decCPUSpeed':
+
+  Variable[16]: Match for rule 'decCPUSpeed':
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: Match for rule 'decCPUSpeed':
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: Match for rule 'decCPUSpeed':
+
+  Variable[22]: Match for rule 'decCPUSpeed':
+
+  Variable[23]: Match for rule 'decCPUSpeed':
+
+  Variable[24]: Match for rule 'decCPUSpeed':
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: Match for rule 'decCPUSpeed':
+
+  Variable[27]: Match for rule 'decCPUSpeed':
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: Match for rule 'decCPUSpeed':
+
+  Variable[30]: Match for rule 'decCPUSpeed':
+
+  Variable[31]: Match for rule 'decCPUSpeed':
+
+  Variable[32]: Match for rule 'decCPUSpeed':
+
+  Variable[33]: Match for rule 'decCPUSpeed':
+
+  Variable[34]: Match for rule 'decCPUSpeed':
+
+  Variable[35]: Match for rule 'decCPUSpeed':
+
+  Variable[36]: Match for rule 'decCPUSpeed':
+
+  Variable[37]: Match for rule 'decCPUSpeed':
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: Match for rule 'decCPUSpeed':
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -279.0
+  rank: 0
+  Normalized Objectives: [0.4318181818181818, 0.5681818181818182]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -310.0
+  SolutionLength: 31.0
+Number of constraints: 0
+
+------------------
+Solution 39/44
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decCPUSpeed':
+
+  Variable[1]: Match for rule 'decCPUSpeed':
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: Match for rule 'decCPUSpeed':
+
+  Variable[4]: Match for rule 'decCPUSpeed':
+
+  Variable[5]: Match for rule 'decCPUSpeed':
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: Match for rule 'decCPUSpeed':
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: Match for rule 'decCPUSpeed':
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: Match for rule 'decCPUSpeed':
+
+  Variable[12]: Match for rule 'decCPUSpeed':
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: Match for rule 'decCPUSpeed':
+
+  Variable[15]: Match for rule 'decCPUSpeed':
+
+  Variable[16]: Match for rule 'decCPUSpeed':
+
+  Variable[17]: Match for rule 'decCPUSpeed':
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: Match for rule 'decCPUSpeed':
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: Match for rule 'decCPUSpeed':
+
+  Variable[22]: Match for rule 'decCPUSpeed':
+
+  Variable[23]: Match for rule 'decCPUSpeed':
+
+  Variable[24]: Match for rule 'decCPUSpeed':
+
+  Variable[25]: Match for rule 'decCPUSpeed':
+
+  Variable[26]: Match for rule 'decCPUSpeed':
+
+  Variable[27]: Match for rule 'decCPUSpeed':
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: Match for rule 'decCPUSpeed':
+
+  Variable[34]: Match for rule 'decCPUSpeed':
+
+  Variable[35]: Match for rule 'decCPUSpeed':
+
+  Variable[36]: Match for rule 'decCPUSpeed':
+
+  Variable[37]: Match for rule 'decCPUSpeed':
+
+  Variable[38]: Match for rule 'decCPUSpeed':
+
+  Variable[39]: Match for rule 'decCPUSpeed':
+
+  Variable[40]: Match for rule 'decCPUSpeed':
+
+  Variable[41]: Match for rule 'decCPUSpeed':
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: Match for rule 'decCPUSpeed':
+
+  Variable[44]: Match for rule 'decCPUSpeed':
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: Match for rule 'decCPUSpeed':
+
+  Variable[47]: Match for rule 'decCPUSpeed':
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -378.0
+  rank: 0
+  Normalized Objectives: [0.18181818181818182, 0.8181818181818182]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -420.0
+  SolutionLength: 42.0
+Number of constraints: 0
+
+------------------
+Solution 40/44
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decCPUSpeed':
+
+  Variable[1]: Match for rule 'decCPUSpeed':
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: Match for rule 'decCPUSpeed':
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: Match for rule 'decCPUSpeed':
+
+  Variable[44]: Match for rule 'decCPUSpeed':
+
+  Variable[45]: -Placeholder-
+
+  Variable[46]: Match for rule 'decCPUSpeed':
+
+  Variable[47]: Match for rule 'decCPUSpeed':
+
+  Variable[48]: Match for rule 'decCPUSpeed':
+
+  Variable[49]: Match for rule 'decCPUSpeed':
+
+Number of attributes: 4
+  AggregatedFitness: -144.0
+  rank: 0
+  Normalized Objectives: [0.7727272727272727, 0.22727272727272727]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -160.0
+  SolutionLength: 16.0
+Number of constraints: 0
+
+------------------
+Solution 41/44
+------------------
+Number of variables: 50
+  Variable[0]: -Placeholder-
+
+  Variable[1]: Match for rule 'decCPUSpeed':
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: Match for rule 'decCPUSpeed':
+
+  Variable[6]: Match for rule 'decCPUSpeed':
+
+  Variable[7]: Match for rule 'decCPUSpeed':
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: Match for rule 'decCPUSpeed':
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: Match for rule 'decCPUSpeed':
+
+  Variable[12]: Match for rule 'decCPUSpeed':
+
+  Variable[13]: Match for rule 'decCPUSpeed':
+
+  Variable[14]: Match for rule 'decCPUSpeed':
+
+  Variable[15]: Match for rule 'decCPUSpeed':
+
+  Variable[16]: Match for rule 'decCPUSpeed':
+
+  Variable[17]: Match for rule 'decCPUSpeed':
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: Match for rule 'decCPUSpeed':
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: Match for rule 'decCPUSpeed':
+
+  Variable[22]: Match for rule 'decCPUSpeed':
+
+  Variable[23]: Match for rule 'decCPUSpeed':
+
+  Variable[24]: Match for rule 'decCPUSpeed':
+
+  Variable[25]: Match for rule 'decCPUSpeed':
+
+  Variable[26]: Match for rule 'decCPUSpeed':
+
+  Variable[27]: Match for rule 'decCPUSpeed':
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: Match for rule 'decCPUSpeed':
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -261.0
+  rank: 0
+  Normalized Objectives: [0.4772727272727273, 0.5227272727272727]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -290.0
+  SolutionLength: 29.0
+Number of constraints: 0
+
+------------------
+Solution 42/44
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decCPUSpeed':
+
+  Variable[1]: Match for rule 'decCPUSpeed':
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: Match for rule 'decCPUSpeed':
+
+  Variable[4]: Match for rule 'decCPUSpeed':
+
+  Variable[5]: Match for rule 'decCPUSpeed':
+
+  Variable[6]: Match for rule 'decCPUSpeed':
+
+  Variable[7]: Match for rule 'decCPUSpeed':
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: Match for rule 'decCPUSpeed':
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: Match for rule 'decCPUSpeed':
+
+  Variable[12]: Match for rule 'decCPUSpeed':
+
+  Variable[13]: Match for rule 'decCPUSpeed':
+
+  Variable[14]: Match for rule 'decCPUSpeed':
+
+  Variable[15]: Match for rule 'decCPUSpeed':
+
+  Variable[16]: Match for rule 'decCPUSpeed':
+
+  Variable[17]: Match for rule 'decCPUSpeed':
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: Match for rule 'decCPUSpeed':
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: Match for rule 'decCPUSpeed':
+
+  Variable[22]: Match for rule 'decCPUSpeed':
+
+  Variable[23]: Match for rule 'decCPUSpeed':
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: Match for rule 'decCPUSpeed':
+
+  Variable[26]: Match for rule 'decCPUSpeed':
+
+  Variable[27]: Match for rule 'decCPUSpeed':
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: Match for rule 'decCPUSpeed':
+
+  Variable[30]: Match for rule 'decCPUSpeed':
+
+  Variable[31]: Match for rule 'decCPUSpeed':
+
+  Variable[32]: Match for rule 'decCPUSpeed':
+
+  Variable[33]: Match for rule 'decCPUSpeed':
+
+  Variable[34]: Match for rule 'decCPUSpeed':
+
+  Variable[35]: Match for rule 'decCPUSpeed':
+
+  Variable[36]: Match for rule 'decCPUSpeed':
+
+  Variable[37]: Match for rule 'decCPUSpeed':
+
+  Variable[38]: Match for rule 'decCPUSpeed':
+
+  Variable[39]: Match for rule 'decCPUSpeed':
+
+  Variable[40]: Match for rule 'decCPUSpeed':
+
+  Variable[41]: Match for rule 'decCPUSpeed':
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: Match for rule 'decCPUSpeed':
+
+  Variable[44]: Match for rule 'decCPUSpeed':
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: Match for rule 'decCPUSpeed':
+
+  Variable[47]: Match for rule 'decCPUSpeed':
+
+  Variable[48]: Match for rule 'decCPUSpeed':
+
+  Variable[49]: Match for rule 'decCPUSpeed':
+
+Number of attributes: 4
+  AggregatedFitness: -441.0
+  rank: 0
+  Normalized Objectives: [0.022727272727272728, 0.9772727272727273]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -490.0
+  SolutionLength: 49.0
+Number of constraints: 0
+
+------------------
+Solution 43/44
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decCPUSpeed':
+
+  Variable[1]: -Placeholder-
+
+  Variable[2]: -Placeholder-
+
+  Variable[3]: -Placeholder-
+
+  Variable[4]: -Placeholder-
+
+  Variable[5]: -Placeholder-
+
+  Variable[6]: -Placeholder-
+
+  Variable[7]: -Placeholder-
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: -Placeholder-
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: -Placeholder-
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: -Placeholder-
+
+  Variable[25]: -Placeholder-
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: Match for rule 'decCPUSpeed':
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -81.0
+  rank: 0
+  Normalized Objectives: [0.9318181818181818, 0.06818181818181818]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -90.0
+  SolutionLength: 9.0
+Number of constraints: 0
+
+------------------
+Solution 44/44
+------------------
+Number of variables: 50
+  Variable[0]: Match for rule 'decCPUSpeed':
+
+  Variable[1]: Match for rule 'decCPUSpeed':
+
+  Variable[2]: Match for rule 'decCPUSpeed':
+
+  Variable[3]: Match for rule 'decCPUSpeed':
+
+  Variable[4]: Match for rule 'decCPUSpeed':
+
+  Variable[5]: Match for rule 'decCPUSpeed':
+
+  Variable[6]: Match for rule 'decCPUSpeed':
+
+  Variable[7]: Match for rule 'decCPUSpeed':
+
+  Variable[8]: Match for rule 'decCPUSpeed':
+
+  Variable[9]: Match for rule 'decCPUSpeed':
+
+  Variable[10]: Match for rule 'decCPUSpeed':
+
+  Variable[11]: -Placeholder-
+
+  Variable[12]: -Placeholder-
+
+  Variable[13]: -Placeholder-
+
+  Variable[14]: Match for rule 'decCPUSpeed':
+
+  Variable[15]: -Placeholder-
+
+  Variable[16]: -Placeholder-
+
+  Variable[17]: -Placeholder-
+
+  Variable[18]: Match for rule 'decCPUSpeed':
+
+  Variable[19]: -Placeholder-
+
+  Variable[20]: Match for rule 'decCPUSpeed':
+
+  Variable[21]: -Placeholder-
+
+  Variable[22]: -Placeholder-
+
+  Variable[23]: -Placeholder-
+
+  Variable[24]: Match for rule 'decCPUSpeed':
+
+  Variable[25]: Match for rule 'decCPUSpeed':
+
+  Variable[26]: -Placeholder-
+
+  Variable[27]: -Placeholder-
+
+  Variable[28]: Match for rule 'decCPUSpeed':
+
+  Variable[29]: -Placeholder-
+
+  Variable[30]: -Placeholder-
+
+  Variable[31]: -Placeholder-
+
+  Variable[32]: -Placeholder-
+
+  Variable[33]: -Placeholder-
+
+  Variable[34]: -Placeholder-
+
+  Variable[35]: -Placeholder-
+
+  Variable[36]: -Placeholder-
+
+  Variable[37]: -Placeholder-
+
+  Variable[38]: -Placeholder-
+
+  Variable[39]: -Placeholder-
+
+  Variable[40]: -Placeholder-
+
+  Variable[41]: -Placeholder-
+
+  Variable[42]: Match for rule 'decCPUSpeed':
+
+  Variable[43]: -Placeholder-
+
+  Variable[44]: -Placeholder-
+
+  Variable[45]: Match for rule 'decCPUSpeed':
+
+  Variable[46]: -Placeholder-
+
+  Variable[47]: -Placeholder-
+
+  Variable[48]: -Placeholder-
+
+  Variable[49]: -Placeholder-
+
+Number of attributes: 4
+  AggregatedFitness: -171.0
+  rank: 0
+  Normalized Objectives: [0.7045454545454546, 0.29545454545454547]
+  crowdingDistance: 0.09090909090909091
+Number of objectives: 2
+  FirstObjective: -190.0
+  SolutionLength: 19.0
+Number of constraints: 0
