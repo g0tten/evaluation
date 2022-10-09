@@ -4,16 +4,16 @@ metamodel workload "/sample.gotten/model/workload.ecore" with w1, w2
 models "/sample.gotten/model/workloads"
 
 datacentre input Features {
-	context DataCentre def: NNodes: Int = "racks->collect(numBoards*board.nodesPerBoard)->sum()"
-	context DataCentre def: CPU: Int = "racks->collect(numBoards*board.nodesPerBoard*board.nodeType.CPUCores*board.nodeType.CPUSpeed)->sum()"
-	context DataCentre def: NMachines: Int = "racks->collect(numBoards*board.nodesPerBoard*board.nodeType.CPUCores)->sum()"
-	context DataCentre def: Storage: Int = "racks->collect(numBoards*board.nodesPerBoard*board.nodeType.DiskSpeed)->sum()"	
-	context DataCentre def: Network: Int = "net->collect(bandwidth)->sum()"
-	context DataCentre def: Memory: Int = "racks->collect(numBoards*board.nodesPerBoard*board.nodeType.MEMSpeed)->sum()"
+	context DataCentre def: NNodes: Int = racks->collect(numBoards*board.nodesPerBoard)->sum()
+	context DataCentre def: CPU: Int = racks->collect(numBoards*board.nodesPerBoard*board.nodeType.CPUCores*board.nodeType.CPUSpeed)->sum()
+	context DataCentre def: NMachines: Int = racks->collect(numBoards*board.nodesPerBoard*board.nodeType.CPUCores)->sum()
+	context DataCentre def: Storage: Int = racks->collect(numBoards*board.nodesPerBoard*board.nodeType.DiskSpeed)->sum()	
+	context DataCentre def: Network: Int = net->collect(bandwidth)->sum()
+	context DataCentre def: Memory: Int = racks->collect(numBoards*board.nodesPerBoard*board.nodeType.MEMSpeed)->sum()
 }
 
 workload input Features {
- 	context WorkloadSet def: Workload: Set = "workloads.Traces"
+ 	context WorkloadSet def: Workload: Set = workloads->collect(Traces)
  }
 
 output Features {

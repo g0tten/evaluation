@@ -308,7 +308,7 @@ public class Datac_mr10 {
   public static void initialization() {
     System.out.println("Search started.");
     System.out.println("Cleaning previous generated models in the same folder...");
-    IOUtils.deleteFolder("C:/eclipse/runtime-EclipseApplication2/sample.gotten/output/input_00001/mr1/models");
+    IOUtils.deleteFolder("/home/user/eclipse/workspace2/sample.gotten/output/input_00001/mr1/models");
     System.out.println("Clean-up finished.");
     TcinputCloudPackage.eINSTANCE.getClass();
   }
@@ -316,7 +316,7 @@ public class Datac_mr10 {
   public static void finalization() {
     System.out.println("Search finished.");
     System.out.println("Copying found models into Gotten project models path...");
-    FollowUpUtils.copyModels("C:/eclipse/runtime-EclipseApplication2/sample.gotten/output/input_00001/mr1/models", "C:/eclipse/runtime-EclipseApplication2/sample.gotten/model/dcmodels/input_00001/mr1");
+    FollowUpUtils.copyModels("/home/user/eclipse/workspace2/sample.gotten/output/input_00001/mr1/models", "/home/user/eclipse/workspace2/sample.gotten/model/dcmodels/input_00001/mr1");
     System.out.println("Copy finished.");
   }
   

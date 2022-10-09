@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ASCII"?>
-<gotten:GottenEnvironment xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gotten="http://gotten/1.0">
+<gotten:GottenEnvironment xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:gotten="http://gotten/1.0">
   <definition>
     <metamodel name="datacentre" metamodel="/sample.gotten/model/datac.ecore">
       <instances name="m1"/>
@@ -14,34 +14,202 @@
   </definition>
   <featureDefinitions input="true" metamodel="//@definition/@metamodel.0">
     <features name="NNodes" dataType="Int">
-      <type href="datac.ecore#//DataCentre"/>
-      <constraint rule="racks->collect(numBoards*board.nodesPerBoard)->sum()"/>
+      <type href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//DataCentre"/>
+      <constraint>
+        <expression xsi:type="gotten:OCLComplexExpression" collectionOperator="collect" collectionOp="sum">
+          <feat xsi:type="ecore:EReference" href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//DataCentre/racks"/>
+          <oclOperation>
+            <feat>
+              <feat1 href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//Rack/numBoards"/>
+            </feat>
+            <opType>*</opType>
+            <operation>
+              <feat>
+                <feat1 href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//Rack/board"/>
+                <feat2>
+                  <feat1 href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//Board/nodesPerBoard"/>
+                </feat2>
+              </feat>
+            </operation>
+          </oclOperation>
+        </expression>
+      </constraint>
     </features>
     <features name="CPU" dataType="Int">
-      <type href="datac.ecore#//DataCentre"/>
-      <constraint rule="racks->collect(numBoards*board.nodesPerBoard*board.nodeType.CPUCores*board.nodeType.CPUSpeed)->sum()"/>
+      <type href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//DataCentre"/>
+      <constraint>
+        <expression xsi:type="gotten:OCLComplexExpression" collectionOperator="collect" collectionOp="sum">
+          <feat xsi:type="ecore:EReference" href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//DataCentre/racks"/>
+          <oclOperation>
+            <feat>
+              <feat1 href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//Rack/numBoards"/>
+            </feat>
+            <opType>*</opType>
+            <operation>
+              <feat>
+                <feat1 href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//Rack/board"/>
+                <feat2>
+                  <feat1 href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//Board/nodesPerBoard"/>
+                </feat2>
+              </feat>
+              <opType>*</opType>
+              <operation>
+                <feat>
+                  <feat1 href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//Rack/board"/>
+                  <feat2>
+                    <feat1 href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//Board/nodeType"/>
+                    <feat2>
+                      <feat1 href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//NodeType/CPUCores"/>
+                    </feat2>
+                  </feat2>
+                </feat>
+                <opType>*</opType>
+                <operation>
+                  <feat>
+                    <feat1 href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//Rack/board"/>
+                    <feat2>
+                      <feat1 href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//Board/nodeType"/>
+                      <feat2>
+                        <feat1 href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//NodeType/CPUSpeed"/>
+                      </feat2>
+                    </feat2>
+                  </feat>
+                </operation>
+              </operation>
+            </operation>
+          </oclOperation>
+        </expression>
+      </constraint>
     </features>
     <features name="NMachines" dataType="Int">
-      <type href="datac.ecore#//DataCentre"/>
-      <constraint rule="racks->collect(numBoards*board.nodesPerBoard*board.nodeType.CPUCores)->sum()"/>
+      <type href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//DataCentre"/>
+      <constraint>
+        <expression xsi:type="gotten:OCLComplexExpression" collectionOperator="collect" collectionOp="sum">
+          <feat xsi:type="ecore:EReference" href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//DataCentre/racks"/>
+          <oclOperation>
+            <feat>
+              <feat1 href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//Rack/numBoards"/>
+            </feat>
+            <opType>*</opType>
+            <operation>
+              <feat>
+                <feat1 href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//Rack/board"/>
+                <feat2>
+                  <feat1 href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//Board/nodesPerBoard"/>
+                </feat2>
+              </feat>
+              <opType>*</opType>
+              <operation>
+                <feat>
+                  <feat1 href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//Rack/board"/>
+                  <feat2>
+                    <feat1 href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//Board/nodeType"/>
+                    <feat2>
+                      <feat1 href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//NodeType/CPUCores"/>
+                    </feat2>
+                  </feat2>
+                </feat>
+              </operation>
+            </operation>
+          </oclOperation>
+        </expression>
+      </constraint>
     </features>
     <features name="Storage" dataType="Int">
-      <type href="datac.ecore#//DataCentre"/>
-      <constraint rule="racks->collect(numBoards*board.nodesPerBoard*board.nodeType.DiskSpeed)->sum()"/>
+      <type href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//DataCentre"/>
+      <constraint>
+        <expression xsi:type="gotten:OCLComplexExpression" collectionOperator="collect" collectionOp="sum">
+          <feat xsi:type="ecore:EReference" href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//DataCentre/racks"/>
+          <oclOperation>
+            <feat>
+              <feat1 href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//Rack/numBoards"/>
+            </feat>
+            <opType>*</opType>
+            <operation>
+              <feat>
+                <feat1 href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//Rack/board"/>
+                <feat2>
+                  <feat1 href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//Board/nodesPerBoard"/>
+                </feat2>
+              </feat>
+              <opType>*</opType>
+              <operation>
+                <feat>
+                  <feat1 href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//Rack/board"/>
+                  <feat2>
+                    <feat1 href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//Board/nodeType"/>
+                    <feat2>
+                      <feat1 href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//NodeType/DiskSpeed"/>
+                    </feat2>
+                  </feat2>
+                </feat>
+              </operation>
+            </operation>
+          </oclOperation>
+        </expression>
+      </constraint>
     </features>
     <features name="Network" dataType="Int">
-      <type href="datac.ecore#//DataCentre"/>
-      <constraint rule="net->collect(bandwidth)->sum()"/>
+      <type href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//DataCentre"/>
+      <constraint>
+        <expression xsi:type="gotten:OCLComplexExpression" collectionOperator="collect" collectionOp="sum">
+          <feat xsi:type="ecore:EReference" href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//DataCentre/net"/>
+          <oclOperation>
+            <feat>
+              <feat1 href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//Network/bandwidth"/>
+            </feat>
+          </oclOperation>
+        </expression>
+      </constraint>
     </features>
     <features name="Memory" dataType="Int">
-      <type href="datac.ecore#//DataCentre"/>
-      <constraint rule="racks->collect(numBoards*board.nodesPerBoard*board.nodeType.MEMSpeed)->sum()"/>
+      <type href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//DataCentre"/>
+      <constraint>
+        <expression xsi:type="gotten:OCLComplexExpression" collectionOperator="collect" collectionOp="sum">
+          <feat xsi:type="ecore:EReference" href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//DataCentre/racks"/>
+          <oclOperation>
+            <feat>
+              <feat1 href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//Rack/numBoards"/>
+            </feat>
+            <opType>*</opType>
+            <operation>
+              <feat>
+                <feat1 href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//Rack/board"/>
+                <feat2>
+                  <feat1 href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//Board/nodesPerBoard"/>
+                </feat2>
+              </feat>
+              <opType>*</opType>
+              <operation>
+                <feat>
+                  <feat1 href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//Rack/board"/>
+                  <feat2>
+                    <feat1 href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//Board/nodeType"/>
+                    <feat2>
+                      <feat1 href="file:/home/user/eclipse/workspace2/sample.gotten/model/datac.ecore#//NodeType/MEMSpeed"/>
+                    </feat2>
+                  </feat2>
+                </feat>
+              </operation>
+            </operation>
+          </oclOperation>
+        </expression>
+      </constraint>
     </features>
   </featureDefinitions>
   <featureDefinitions input="true" metamodel="//@definition/@metamodel.1">
     <features name="Workload" dataType="Set">
-      <type href="workload.ecore#//WorkloadSet"/>
-      <constraint rule="workloads.Traces"/>
+      <type href="file:/home/user/eclipse/workspace2/sample.gotten/model/workload.ecore#//WorkloadSet"/>
+      <constraint>
+        <expression xsi:type="gotten:OCLComplexExpression" collectionOperator="collect">
+          <feat xsi:type="ecore:EReference" href="file:/home/user/eclipse/workspace2/sample.gotten/model/workload.ecore#//WorkloadSet/workloads"/>
+          <oclOperation>
+            <feat>
+              <feat1 href="file:/home/user/eclipse/workspace2/sample.gotten/model/workload.ecore#//Workload/Traces"/>
+            </feat>
+          </oclOperation>
+        </expression>
+      </constraint>
     </features>
   </featureDefinitions>
   <featureDefinitions output="true">

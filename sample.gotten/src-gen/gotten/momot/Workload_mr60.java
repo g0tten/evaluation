@@ -304,7 +304,7 @@ public class Workload_mr60 {
   public static void initialization() {
     System.out.println("Search started.");
     System.out.println("Cleaning previous generated models in the same folder...");
-    IOUtils.deleteFolder("C:/eclipse/runtime-EclipseApplication2/sample.gotten/output/workload_00001/mr6/models");
+    IOUtils.deleteFolder("/home/user/eclipse/workspace2/sample.gotten/output/workload_00001/mr6/models");
     System.out.println("Clean-up finished.");
     WorkloadCloudPackage.eINSTANCE.getClass();
   }
@@ -312,7 +312,7 @@ public class Workload_mr60 {
   public static void finalization() {
     System.out.println("Search finished.");
     System.out.println("Copying found models into Gotten project models path...");
-    FollowUpUtils.copyModels("C:/eclipse/runtime-EclipseApplication2/sample.gotten/output/workload_00001/mr6/models", "C:/eclipse/runtime-EclipseApplication2/sample.gotten/model/workloads/workload_00001/mr6");
+    FollowUpUtils.copyModels("/home/user/eclipse/workspace2/sample.gotten/output/workload_00001/mr6/models", "/home/user/eclipse/workspace2/sample.gotten/model/workloads/workload_00001/mr6");
     System.out.println("Copy finished.");
   }
   
