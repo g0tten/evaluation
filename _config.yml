@@ -13,6 +13,7 @@ navbar:
   - name: Update-site
     link: /gotten/update-site
   - name: Standalone Eclipse+Gotten
+    link: /evaluation
     subitems:
       - name: Windows version
         link: https://www.dropbox.com/s/23f86ygekiou2go/eclipse.zip?dl=0
