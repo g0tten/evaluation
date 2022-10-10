@@ -1,0 +1,76 @@
+# Site settings
+title: "The Gotten Framework"
+url: "https://g0tten.github.io"
+baseurl: "/gotten"
+description: "Generic MDE framework fOr meTamorphic TEstiNg"
+gtag: "UA-61793148-6"
+favicon: "/images/favicon.ico"
+show_downloads: true
+
+navbar:
+  - name: Gotten
+    link: /gotten
+  - name: Update-site
+    link: /gotten/update-site
+  - name: Standalone Eclipse+Gotten
+    subitems:
+      - name: Windows version
+        link: https://www.dropbox.com/s/23f86ygekiou2go/eclipse.zip?dl=0
+      - name: Ubuntu version
+        link: https://www.dropbox.com/s/omkj8tfgoqt2si3/eclipse.zip?dl=0
+  - name: Ubuntu 20.04 VirtualBox VM+Gotten
+    link: https://www.dropbox.com/s/m4s7rjk1tywl8cf/Ubuntu-20.04.x64-Gotten.zip?dl=0
+  - name: Gotten for Cloud
+    subitems:
+      - name: Simple project
+        link: https://www.dropbox.com/s/9rz9zdk5qvr4cxf/simple.cloud.zip?dl=0
+      - name: Evaluation project
+        link: https://www.dropbox.com/s/29tb79o69wazzj0/evaluation.cloud.zip?dl=0
+  - name: Gotten for Video Streaming APIs
+    subitems:
+      - name: YouTube
+        link: https://www.dropbox.com/s/7ha5q83fdbfbt05/video-streaming.zip?dl=0
+      - name: Vimeo
+        link: https://www.dropbox.com/s/7ha5q83fdbfbt05/video-streaming.zip?dl=0
+  
+# Build settings
+markdown: kramdown
+
+theme: jekyll-theme-architect
+encoding: utf-8
+
+exclude:
+  - CONTRIBUTING.md
+  - .github
+  - .gitignore
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-mentions
+  - include-markdown
+  - jemoji
+
+############# IMAGE PATHS #############
+
+# if you want the images to be prefaced with a specific path, insert it here. Don't include a trailing slash at the end.
+# the image include will insert this path before the image file name and will also add a /.
+image_path: images
+
+############# DEFAULTS #############
+# you can define default frontmatter values here. you can narrow the type down with subfolders (e.g., docs/myfolder).
+# you might want to list your sidebar and product as default frontmatter values
+# with translation, change topnav, footer (and sidebar) to use topnav_ja, footer_ja, generic_ja etc. for Japanese, or _de for german. you must have corresponding
+# data files with those _ja or _de file names. Read more in jekyllhowto-localization.html.
+defaults:
+  -
+    scope:
+      path: "images"
+    values:
+      image: true
+
+webrick:
+  headers:
+    keywords: "Metamorphic testing,Model-driven engineering,Domain-specific languages,Cloud computing,Simulation"
