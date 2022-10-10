@@ -10,7 +10,6 @@
     {% if item.subitems[0] %}
 	<div class="related-menu-wrapper">
 	<div class="related-menu" role="navigation" aria-label="related navigation">
-    <a href="{{ item.link }}">{{ item.name }}</a> &nbsp;&nbsp;
     <ul>
     {% for subitem in item.subitems %}
     {% if subitem.link %}
