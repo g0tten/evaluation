@@ -25,16 +25,16 @@ navbar:
     link: /evaluation
     subitems:
       - name: Simple project
-        link: https://www.dropbox.com/s/9rz9zdk5qvr4cxf/simple.cloud.zip?dl=0
+        link: https://github.com/g0tten/sample/zipball/main
       - name: Evaluation project
-        link: https://www.dropbox.com/s/29tb79o69wazzj0/evaluation.cloud.zip?dl=0
+        link: https://github.com/g0tten/evaluation/zipball/main
   - name: Gotten for Video Streaming APIs
     link: /video
     subitems:
       - name: YouTube
-        link: https://www.dropbox.com/s/7ha5q83fdbfbt05/video-streaming.zip?dl=0
+        link: https://github.com/g0tten/video/zipball/main
       - name: Vimeo
-        link: https://www.dropbox.com/s/7ha5q83fdbfbt05/video-streaming.zip?dl=0
+        link: https://github.com/g0tten/video/zipball/main
   
 # Build settings
 markdown: kramdown
