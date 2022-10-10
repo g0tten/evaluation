@@ -5,6 +5,7 @@ baseurl: "/evaluation"
 description: "Generic MDE framework fOr meTamorphic TEstiNg"
 gtag: "UA-61793148-6"
 favicon: "/images/favicon.ico"
+github.repository_url: "https://github.com/g0tten"
 show_downloads: true
 
 navbar:
