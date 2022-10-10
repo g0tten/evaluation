@@ -1,6 +1,6 @@
 ## Gotten evaluation project
 
-Gotten, Generic MDE framework fOr meTamorphic TEstiNg, evaluation project.
+Gotten, Generic MDE framework fOr meTamorphic TEstiNg, cloud evaluation project.
 
 ### Acknowledgements
 
