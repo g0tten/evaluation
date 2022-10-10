@@ -5,9 +5,14 @@ baseurl: "/evaluation"
 description: "Generic MDE framework fOr meTamorphic TEstiNg"
 gtag: "UA-61793148-6"
 favicon: "/images/favicon.ico"
-github:
-  - repository_url: "https://github.com/g0tten"
 show_downloads: true
+
+github:
+  is_project_page: true
+  repository_url: https://github.com/g0tten
+  repository_name: Gotten
+  owner_url: https://g0tten.github.io
+  owner_name: g0tten
 
 navbar:
   - name: Gotten
