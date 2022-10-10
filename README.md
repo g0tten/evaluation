@@ -1,4 +1,4 @@
-## Gotten cloud evaluation project
+## Gotten for cloud evaluation project
 
 Gotten, Generic MDE framework fOr meTamorphic TEstiNg, cloud evaluation project.
 
