@@ -1,9 +1,0 @@
-Id: 1
-MutantId: 0
-GroupId: 0
-InputSrc: C:/eclipse/runtime-EclipseApplication/sample.gotten/tc/Dissect/workloads/workload_00002/mr6/followup_00007.tc
-OutputSrc: C:/eclipse/runtime-EclipseApplication/sample.gotten/tc/Dissect/workloads/workload_00002/mr6/output_00007.tc
-ExecCommands: 
-isSourceTC: false
-followUpChilds: #0##
-Description:
