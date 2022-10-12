@@ -51,7 +51,7 @@ MetamorphicRelations {
 Below we provide a brief description of these 6 MR for cloud simulators:
 
 Relation | Description |
---- | --- | 
+--- | :--- | 
 MR1 | The cloud m1 has a better CPU than m2. The workloads w1 and w2 are equal. |
 &nbsp; | MR1i = [( CPU(m1) > CPU(m2) ) and ((w1) == (w2)) ] |
 &nbsp; | The energy required to execute w1 over m1 should be less than or equal to the energy required to execute w2 over m2. |
