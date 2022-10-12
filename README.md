@@ -77,7 +77,7 @@ MR6 | The clouds m1 and m2 are equal. The workload w1 contains w2. |
 &nbsp; | The time required to execute w2 overr m2 should be less than or equal to the time required to execute w1 over m1. |
 &nbsp; | MR6o = [ (Time(m2) <= Time(m1)) ] |
 
-### Gotten projects download links
+### Gotten for cloud projects download links
 
 - [Gotten for cloud simple project](https://github.com/g0tten/sample/zipball/main)
 - [Gotten for cloud evaluation project](https://github.com/g0tten/evaluation/zipball/main)
