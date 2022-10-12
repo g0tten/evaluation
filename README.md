@@ -51,7 +51,7 @@ MetamorphicRelations {
 
 ### MRs for data centres brief description
 
-Below we provide a brief description of these 6 MR for cloud simulators:
+Below we provide a brief description of these 6 MRs for cloud simulators:
 
 Relation | Description |
 --- | :--- | 
