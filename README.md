@@ -65,15 +65,15 @@ MR2 | The cloud m1 contains more physical machines than the cloud m2. The worklo
 &nbsp; | MR2o = [ (NMachines(m1)/NMachines(m2)) >= (Energy(m1)/Energy(m2))] |
 MR3 | The cloud m1 has a better storage system than m2. The workloads w1 and w2 are equal. |
 &nbsp; | MR3i = [( Storage(m1) > Storage(m2)) and ((w1) == (w2)) ] |
-&nbsp; | The time required to execute w1 over m1 should be less than or equal to the time required to exeute w2 over m2. |
+&nbsp; | The time required to execute w1 over m1 should be less than or equal to the time required to execute w2 over m2. |
 &nbsp; | MR3o = [ (Time(m1) <= Time(m2)) ] |
 MR4 | The cloud m1 has a better network system than m2. The workloads w1 and w2 are equal. |
 &nbsp; | MR4i = [( Network(m1) > Network(m2)) and ((w1) == (w2)) ] |
-&nbsp; | The time required to execute w1 over m1 should be less than or equal to the time required to exeute w2 over m2. |
+&nbsp; | The time required to execute w1 over m1 should be less than or equal to the time required to execute w2 over m2. |
 &nbsp; | MR4o = [ (Time(m1) <= Time(m2)) ] |
 MR5 | The cloud m1 has a better memory system than m2. The workloads w1 and w2 are equal. |
 &nbsp; | MR5i = [( Memory(m1) > Memory(m2)) and ((w1) == (w2)) ) |
-&nbsp; | The time required to execute w1 over m1 should be less than or equal to the time required to exeute w2 over m2. |
+&nbsp; | The time required to execute w1 over m1 should be less than or equal to the time required to execute w2 over m2. |
 &nbsp; | MR5o = [ (Time(m1) <= Time(m2)) ] |
 MR6 | The clouds m1 and m2 are equal. The workload w1 contains w2. |
 &nbsp; | MR6i = [ ((m1) == (m2)) and ( Workload(w1)->includes(Workload(w2))) ] |
