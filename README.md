@@ -47,7 +47,6 @@ MetamorphicRelations {
 	MR5 = [(( Memory(m1) > Memory(m2)) and ((w1) == (w2)) ) implies (Time(m1) < Time(m2))]
 	MR6 = [( ((m1) == (m2)) and ( Workload(w1)->includes(Workload(w2))) ) implies (Time(m2) <= Time(m1))]
 }
-
 ```
 
 ### MRs for data centres brief description
