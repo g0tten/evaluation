@@ -8,6 +8,8 @@ The following figure shows a meta-model to represent data centres, where a DataC
 
 ![Data centre meta-model](https://raw.githubusercontent.com/g0tten/images/main/model/data_centre_mm.png)
 
+### The mrDSL program for cloud simulators
+
 Since it is difficult to establish an oracle to test if a data centre simulator S performs as expected, we use MT. The following listing shows the mrDSL program created with the Gotten framework to apply MT to this data centre simulators domain: 
 
 ```
@@ -47,6 +49,8 @@ MetamorphicRelations {
 }
 
 ```
+
+### MRs brief description
 
 Below we provide a brief description of these 6 MR for cloud simulators:
 
