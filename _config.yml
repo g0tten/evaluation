@@ -3,7 +3,8 @@ title: "The Gotten Framework"
 url: "https://g0tten.github.io"
 baseurl: "/evaluation"
 description: "Generic MDE framework fOr meTamorphic TEstiNg"
-gtag: "UA-61793148-6"
+#gtag: "UA-61793148-6"
+gtag: "G-JKMPYJFGYJ"
 favicon: "/images/favicon.ico"
 show_downloads: true
 
